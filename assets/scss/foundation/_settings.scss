@@ -1,0 +1,50 @@
+  //  Foundation for Sites Settings
+  //  -----------------------------
+
+@font-face {
+    font-family: 'majesti_bannerbold';
+    src: url('/assets/font/majesti-banner-bold-webfont.woff2') format('woff2'),
+         url('/assets/font/majesti-banner-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'majesti_bannerbold_italic';
+    src: url('/assets/font/majesti-banner-bolditalic-webfont.woff2') format('woff2'),
+         url('/assets/font/majesti-banner-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'majesti_bannerheavy';
+    src: url('/assets/font/majesti-banner-heavy-webfont.woff2') format('woff2'),
+         url('/assets/font/majesti-banner-heavy-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'majesti_bannerheavy_italic';
+    src: url('/assets/font/majesti-banner-heavyitalic-webfont.woff2') format('woff2'),
+         url('/assets/font/majesti-banner-heavyitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+$foundation-palette: (
+  primary: #ff0000,
+  secondary: #1750a5,
+  success: #3adb76,
+  warning: #ffae00,
+  alert: #cc4b37,
+);
+
+$body-font-family: "Lato", sans-serif;
+$header-font-family: "majesti_bannerbold", serif;
+$header-font-family-italic: "majesti_bannerbold_italic", serif;
+$header-font-family-bold: "majesti_bannerheavy", serif;
+$header-font-family-bold-italic: "majesti_bannerheavy_italic", serif;
+
+$grid-container-padding: 0;

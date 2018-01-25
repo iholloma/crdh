@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<main class="grid-x">
+    <article class="essay large-8 large-offset-2 medium-10 medium-offset-1 small-10 small-offset-1 cell">
+        <header class="essay-header">
+            <span class="author">
+                {% for author in page.authors %}
+                    {% if forloop.index > 1 and page.authors.size > forloop.index %}
+                        ,
+                    {% elsif forloop.index > 1 and page.authors.size == forloop.index %}
+                        and
+                    {% endif %}
+                    {{ author.first }} {{ author.last }}
+                {% endfor %}
+            </span>
+            <h2>
+                {{ page.title }}
+                {% if page.subtitle and page.subtitle != blank %}
+                <br><small>{{ page.subtitle }}</small>
+                {% endif %}
+            </h2>
+            <span class="meta">from volume {{ page.volume-number }}, <a href="{[ page.doi }}">{{ page.doi }}</a></span>
+        </header>
+        <section class="abstract callout">
+            <h3>Abstract</h3>
+            <div class="abstract-contents">
+                {{ page.abstract }}
+            </div>
+        </section>
+        {{ content }}
+    </article>
+</main>
