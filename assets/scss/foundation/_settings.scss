@@ -33,6 +33,33 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'glacial_indifferencebold';
+    src: url('/assets/font/glacialindifference-bold-webfont.woff2') format('woff2'),
+         url('/assets/font/glacialindifference-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'glacial_indifferenceitalic';
+    src: url('/assets/font/glacialindifference-italic-webfont.woff2') format('woff2'),
+         url('/assets/font/glacialindifference-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'glacial_indifferenceregular';
+    src: url('/assets/font/glacialindifference-regular-webfont.woff2') format('woff2'),
+         url('/assets/font/glacialindifference-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 $foundation-palette: (
   primary: #ff0000,
   secondary: #1750a5,
@@ -41,7 +68,7 @@ $foundation-palette: (
   alert: #cc4b37,
 );
 
-$body-font-family: "Lato", sans-serif;
+$body-font-family: "glacial_indifferenceregular", sans-serif;
 $header-font-family: "majesti_bannerbold", serif;
 $header-font-family-italic: "majesti_bannerbold_italic", serif;
 $header-font-family-bold: "majesti_bannerheavy", serif;

@@ -6,6 +6,18 @@ body {
     font-size: 18px;
 }
 
+em {
+    font-family: 'glacial_indifferenceitalic';
+}
+
+strong {
+    font-family: 'glacial_indifferencebold';
+}
+
+p {
+    margin-bottom: 2 * $paragraph-margin-bottom;
+}
+
 h1, h2 {
     background-color: #000;
     color: #fff;
