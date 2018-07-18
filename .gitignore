@@ -49,7 +49,9 @@ Gemfile.lock
 
 # Composer
 composer.lock
-Untitled.code-workspace
-Untitled.code-workspace
+
+# Misc
+*.code-workspace
 vendor
 .bundle
+
