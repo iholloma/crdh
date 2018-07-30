@@ -556,7 +556,7 @@ Emigrant Vessel*. Boston: Coolidge and Wiley, 1848.
 [^24]: For a discussion of anti-Irish sentiment, see Kenny, "Race,
     Violence and Anti-Irish Sentiment in the Nineteenth Century." For a
     visualization of the different factors that contributed to
-    immigrants' paths through this system, see <http://shroutdocs.org/research/bellevue/bellevue\_pathways/bellevue\_almshouse.html>.
+    immigrants' paths through this system, see <http://shroutdocs.org/research/bellevue/bellevue_pathways/bellevue_almshouse.html>.
 
 [^25]: Binder and Reimers, *All the Nations under Heaven*, 45.
 
@@ -571,7 +571,7 @@ Emigrant Vessel*. Boston: Coolidge and Wiley, 1848.
     12/31/1851."
 
 [^29]: R script repository:
-    <https://github.com/shrouta/bellevue\_R\_script>
+    <https://github.com/shrouta/bellevue_R_script>
 
 [^30]: This finding, and the ones that follow are based on logistic
     regression, modeled on dummy variables created for disease,
@@ -588,7 +588,7 @@ Emigrant Vessel*. Boston: Coolidge and Wiley, 1848.
 
     For full details see
 
-    <https://github.com/shrouta/bellevue\_R\_script/blob/master/recent\_emigrant\_logistic\_output>
+    <https://github.com/shrouta/bellevue_R_script/blob/master/recent_emigrant_logistic_output.txt>
 
 [^32]: For a visualization of these forces, see
     http://www.nyuirish.net/almshouse/data-pathways/
@@ -609,7 +609,7 @@ Emigrant Vessel*. Boston: Coolidge and Wiley, 1848.
     The coefficient for garret was 1.34441, the standard error was
     0.23120, the significance was 6.16e-09.
 
-    <https://github.com/shrouta/bellevue\_R\_script/blob/master/recent\_emigrant\_logistic\_output>
+    <https://github.com/shrouta/bellevue_R_script/blob/master/recent_emigrant_logistic_output.txt>
 
 [^37]: Board of Assistant Aldermen, *Proceedings and Documents of the
     Board of Assistant Aldermen, from Dec. 7th 1846 to May 10th, 1847.*,
