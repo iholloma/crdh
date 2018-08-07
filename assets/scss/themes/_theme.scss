@@ -15,7 +15,7 @@ strong {
 }
 
 p {
-    margin-bottom: 2 * $paragraph-margin-bottom;
+    margin-bottom: $paragraph-margin-bottom;
 }
 
 h1, h2 {
@@ -31,6 +31,26 @@ h1, h2 {
 h3, h4, h5, h6 {
     font-family: $body-font-family;
     font-weight: bold;
+}
+
+blockquote {
+    font-size: 2 * $base-font-size;
+    border-left: 0;
+    padding: 0 3rem;
+}
+
+figure {
+    text-align: center;
+    margin: (2 * $card-margin-bottom) 0;
+}
+
+article.essay figure img {
+    margin: 0 0 $paragraph-margin-bottom;
+}
+
+figcaption {
+    font-weight: 700;
+    letter-spacing: 1px;
 }
 
 header,
