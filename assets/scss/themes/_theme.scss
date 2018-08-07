@@ -59,8 +59,14 @@ footer {
 }
 
 footer img {
-    margin-left: auto;
-    display: block;
+    max-height: 2 * $base-line-height;
+    margin-bottom: $paragraph-margin-bottom;
+    margin-right: $paragraph-margin-bottom;
+    width: auto;
+}
+
+footer .cell.large-6 {
+    padding-right: $paragraph-margin-bottom;
 }
 
 body > header {
