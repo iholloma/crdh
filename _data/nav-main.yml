@@ -1,8 +1,12 @@
-- link: Past Volumes
+- link: Call for Papers
+  url: /cfp
+
+- link: Conference
+  url: /conference
+
+- link: All Volumes
   url: /archive
 
 - link: About
   url: /about
 
-- link: Call for Papers
-  url: /cfp
