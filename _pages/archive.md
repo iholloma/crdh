@@ -1,5 +1,5 @@
 ---
-title: Archive
+title: All Volumes
 layout: page
 permalink: /archive/
 ---
