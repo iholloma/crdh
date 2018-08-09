@@ -14,7 +14,7 @@ authors:
   affiliation: "College of University Libraries & Learning Sciences, University of New Mexico"
   orcid: 0000-0003-1551-1033
   url: "https://ulls.unm.edu/people/directory/w/wise-mary.php"
-  appendix:
+appendix:
 - name: Data archive
   file: wise-v01/wise-crdh-data.zip
 ---
