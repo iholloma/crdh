@@ -26,7 +26,7 @@ layout: default
                 <br><small>{{ page.subtitle }}</small>
                 {% endif %}
             </h2>
-            <span class="meta">from volume {{ page.volume-number }}, <a href="{[ page.doi }}">{{ page.doi }}</a></span>
+            <span class="meta">from volume {{ page.volume-number }} ({{ page.category }}), <a href="{[ page.doi }}">{{ page.doi }}</a></span>
         </header>
         <section class="abstract callout">
             <h3>Abstract</h3>
@@ -35,5 +35,18 @@ layout: default
             </div>
         </section>
         {{ content }}
+        <hr>
+        <h3 id="author">Author</h3>
+        <p>
+        {% for author in page.authors %}
+            {% assign author_name = author.first | append: ' ' | append: author.last %}
+            {% if author.url.size > 0 %}
+                <a href="{{ author.url }}">{{ author_name }}</a>
+            {% else %}
+                {{ author_name }}
+            {% endif %}
+            , {{ author.affiliation }}, <a href="mailto: {{ author.email }}">{{ author.email }}</a>, <a href="http://orcid.org/{{ author.orcid }}"><img src="{{ site.url }}/assets/img/orcid-logo.png" alt="ORC ID logo" class="orcid">{{ author.orcid }}</a>
+        {% endfor %}
+        </p>
     </article>
 </main>

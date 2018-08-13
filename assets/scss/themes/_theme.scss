@@ -147,6 +147,11 @@ article.essay img {
     margin: (2 * $card-margin-bottom) 0;
 }
 
+article.essay img.orcid {
+    margin: 0 .25rem .5rem 0;
+    display: inline-block;
+}
+
 .essay-header {
     text-align: center;
     margin: 3rem 0;
