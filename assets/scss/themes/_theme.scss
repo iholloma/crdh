@@ -34,9 +34,13 @@ h3, h4, h5, h6 {
 }
 
 blockquote {
-    font-size: 2 * $base-font-size;
+    color: #000;
+    padding: 1rem 2rem;
     border-left: 0;
-    padding: 0 3rem;
+}
+
+blockquote p {
+    color: #000;
 }
 
 figure {
@@ -115,6 +119,12 @@ div.essay button {
 div.essay .abstract {
     display: none;
     margin-bottom: $paragraph-margin-bottom;
+}
+
+.abstract + blockquote {
+    font-size: 2 * $base-font-size;
+    border-left: 0;
+    padding: 0 3rem;
 }
 
 .volume {
