@@ -5,8 +5,6 @@ doi: "TK"
 category: "2018"
 volume-number: 1
 year: 2018
-abstract: |
-  Despite a growing body of literature focusing on the importance of Native American treaties and the treaty making process itself, the nearly four hundred separate documents have yet to be analyzed using the methods of digital history. By digitally detecting text reuse, this article recreates the patterns of language borrowing found among treaties and locates these networks within the larger context of settler-colonialism. An examination of these patterns reveals that treaty authors frequently borrowed both content and language from previous documents but only rarely did this borrowing occur over long periods of time or across geographic regions. Most treaties borrowed from their immediate temporal predecessors and geographic neighbors. While borrowing was common, many treaties did not include any borrowed language. This absence of borrowing raises questions concerning indigenous agency and the supposed efficiency and strength of the growing bureaucratic American state. These patterns of language borrowing illustrate the inconsistency of federal Indian policy. The article concludes with two case studies that demonstrate how digitally detecting text reuse can complicate our understanding of the treaty making process.
 authors:
 - last: Catalano
   first: Joshua
@@ -14,6 +12,15 @@ authors:
   affiliation: "Department of History and Art History, George Mason University"
   orcid: 0000-0002-5234-1419
   url: "http://joshuacatalano.org"
+abstract: |
+  Despite a growing body of literature focusing on the importance of Native American treaties and the treaty making process itself, the nearly four hundred separate documents have yet to be analyzed using the methods of digital history. By digitally detecting text reuse, this article recreates the patterns of language borrowing found among treaties and locates these networks within the larger context of settler-colonialism. An examination of these patterns reveals that treaty authors frequently borrowed both content and language from previous documents but only rarely did this borrowing occur over long periods of time or across geographic regions. Most treaties borrowed from their immediate temporal predecessors and geographic neighbors. While borrowing was common, many treaties did not include any borrowed language. This absence of borrowing raises questions concerning indigenous agency and the supposed efficiency and strength of the growing bureaucratic American state. These patterns of language borrowing illustrate the inconsistency of federal Indian policy. The article concludes with two case studies that demonstrate how digitally detecting text reuse can complicate our understanding of the treaty making process.
+appendix:
+- name: README
+  file: catalano-v01/README.txt
+- name: Data archive
+  file: catalano-v01/catalano-data.zip
+- name: Code archive
+  file: catalano-v01/catalano-code.zip
 ---
 
 > “How smooth must be the language of the whites, when they can make right look like wrong, and wrong like right.” ---Blackhawk
@@ -94,7 +101,7 @@ and geographic neighbors. As the histogram in figure 1 shows, the vast
 majority (89%) of the treaty borrowing occurred within a two year
 span.[^6]
 
-{% figure caption: "This histogram displays the frequency of language borrowing over different spans of time. For example, if a paragraph from treaty _A_ was written in 1848 and a paragraph from treaty _B_ was written in 1855, then the span is 7 years. Most of the instances of language borrowing (89%) only spanned 1-2 years." %}
+{% figure caption: "Figure 1. This histogram displays the frequency of language borrowing over different spans of time. For example, if a paragraph from treaty _A_ was written in 1848 and a paragraph from treaty _B_ was written in 1855, then the span is 7 years. Most of the instances of language borrowing (89%) only spanned 1-2 years." %}
 ![A histogram showing the frequency of language borrowing over different spans of time](/assets/img/v01/catalano/figure1.png)
 {% endfigure %}
 
@@ -120,7 +127,7 @@ consuming) to detect using close reading (figure 2). Thus, it is
 possible to see what early 19th century treaty a negotiator used as a
 template in the 1850s.
 
-{% figure caption: "The nearly 400 treaties of the uneven ground contain very similar content (land, gifts, payments, protections, and trade). Given the similarity in content, it can be difficult to say with any certainty which treaties served as templates or models for other treaties (and to a certain extent they all did). The benefit of using digital methods to detect text reuse is that it can identify language pattern similarities that would be difficult (and time consuming) to detect using close reading. For example, the two paragraphs above are matches returned by the computer program. The authors of the latter treaty clearly used the former as a template for the structure and content of the document while slightly modifying the language." %}
+{% figure caption: "Figure 2. The nearly 400 treaties of the uneven ground contain very similar content (land, gifts, payments, protections, and trade). Given the similarity in content, it can be difficult to say with any certainty which treaties served as templates or models for other treaties (and to a certain extent they all did). The benefit of using digital methods to detect text reuse is that it can identify language pattern similarities that would be difficult (and time consuming) to detect using close reading. For example, the two paragraphs above are matches returned by the computer program. The authors of the latter treaty clearly used the former as a template for the structure and content of the document while slightly modifying the language." %}
 ![A chart showing side-by-side comparison of the language used in the eighteen hundred and four Fox Treaty and the eighteen hundred and eight Osage Treaty](/assets/img/v01/catalano/figure2.png)
 {% endfigure %}
 
@@ -130,7 +137,7 @@ one or two colors (corresponding to decades). The graph also captures,
 in the form of clusters, the practice of treaty borrowing where a
 commissioner composed several treaties within a short span of time.
 
-{% figure caption: "This network graph displays the borrowing that occurred between treaties over time. The width or thickness of the connection edges or lines is a summation of the total number of paragraphs shared between two treaties. Clusters of treaties often indicate a series of agreements made by a specific negotiator(s)." %}
+{% figure caption: "Figure 3. This network graph displays the borrowing that occurred between treaties over time. The width or thickness of the connection edges or lines is a summation of the total number of paragraphs shared between two treaties. Clusters of treaties often indicate a series of agreements made by a specific negotiator(s)." %}
 ![Network graph that shows the language borrowing that occurred between treaties over time](/assets/img/v01/catalano/figure3.png)
 {% endfigure %}
 
@@ -140,11 +147,11 @@ borrowing patterns by decade reinforces this observation (see figures 4
 and 5). There are only a few examples of treaties that borrowed language
 from agreements in different geographical regions.
 
-{% figure caption: "Language borrowing rarely occurred across geographic regions. This visualization shows the language borrowing networks based upon the location of negotiation by decade. Negotiating hubs such as Washington, D.C., St. Louis, MO and several military outposts often facilitated language borrowing. These hubs also make borrowing appear more geographically diverse." %}
+{% figure caption: "Figure 4. Language borrowing rarely occurred across geographic regions. This visualization shows the language borrowing networks based upon the location of negotiation by decade. Negotiating hubs such as Washington, D.C., St. Louis, MO and several military outposts often facilitated language borrowing. These hubs also make borrowing appear more geographically diverse." %}
 ![Series of maps showing language borrowing networks based upon the location of negotiation by decade](/assets/img/v01/catalano/figure4.png)
 {% endfigure %}
 
-{% figure caption: "Language borrowing rarely occurred across geographic regions. This visualization shows the language borrowing networks based upon the location impacted by the treaty by decade." %}
+{% figure caption: "Figure 5. Language borrowing rarely occurred across geographic regions. This visualization shows the language borrowing networks based upon the location impacted by the treaty by decade." %}
 ![Series of maps showing language borrowing networks based upon the location impacted by the treaty by decade](/assets/img/v01/catalano/figure5.png)
 {% endfigure %}
 
@@ -158,7 +165,7 @@ the distant past for inspiration. As the excerpts in figure 6 show, the
 1846 Comanche treaty obviously borrowed language from the Fort Harmar
 treaty written fifty-seven years before.
 
-{% figure caption: "A portion of the borrowed language between the 1789 Treaty of Fort Harmar signed in present day Ohio with several different Indian nations and the 1846 treaty with the Comanche and other nations signed near modern day Texas." %}
+{% figure caption: "Figure 6. A portion of the borrowed language between the 1789 Treaty of Fort Harmar signed in present day Ohio with several different Indian nations and the 1846 treaty with the Comanche and other nations signed near modern day Texas." %}
 ![A chart showing side-by-side comparison of the language used in the seventeen hundred and eighty-nine Treaty at Fort Harmar and the eighteen hundred and four Comanche Treaty](/assets/img/v01/catalano/figure6.png)
 {% endfigure %}
 
@@ -167,7 +174,7 @@ Creek, and the 1795 Treaty of Greenville. The network graph in figure 7
 shows the sub-group of treaty borrowing containing the 1846 treaty (the
 only red dot or treaty from the 1840s).
 
-{% figure caption: "The 1846 Comanche Treaty is the only treaty in this borrowing cluster from the 1840s (red). It was unique in that it borrowed language across significant spans of time and geographic regions." %}
+{% figure caption: "Figure 7. The 1846 Comanche Treaty is the only treaty in this borrowing cluster from the 1840s (red). It was unique in that it borrowed language across significant spans of time and geographic regions." %}
 ![Network graph showing that the eighteen hundred and forty six Comanche Treaty is the only treaty in borrowing cluster from the eighteen hundred and forties](/assets/img/v01/catalano/figure7.png)
 {% endfigure %}
 
@@ -201,7 +208,7 @@ verbatim (see figure 8).[^9] Despite this recycling of words, the
 borrowed passage was surprisingly appropriate for the situation in
 Comancheria.
 
-{% figure caption: "In an attempt to stop Comanche raiding expeditions, the authors of the 1846 treaty borrowed language that addressed raiding from the 1789 Treaty of Fort Harmar." %}
+{% figure caption: "Figure 8. In an attempt to stop Comanche raiding expeditions, the authors of the 1846 treaty borrowed language that addressed raiding from the 1789 Treaty of Fort Harmar." %}
 ![A chart showing side-by-side comparison of the language used in the seventeen hundred and eighty-nine Treaty at Fort Harmar and the eighteen hundred and forty-six Comanche Treaty](/assets/img/v01/catalano/figure8.png)
 {% endfigure %}
 
@@ -211,7 +218,7 @@ substantial and stable population of settlers. Butler and Lewis once
 again looked to an 18th century treaty to address a contemporary problem
 by adopting a licensing system (see figure 9).
 
-{% figure caption: "The authors of the 1846 Comanche treaty borrowed language that regulated traders from the 1795 Treaty of Greenville. In both situations, the respective Indian nations comprised a majority of the population and the United States sought to ensure the safe travel and commerce of its traders by establishing a licensing system." %}
+{% figure caption: "Figure 9. The authors of the 1846 Comanche treaty borrowed language that regulated traders from the 1795 Treaty of Greenville. In both situations, the respective Indian nations comprised a majority of the population and the United States sought to ensure the safe travel and commerce of its traders by establishing a licensing system." %}
 ![A chart showing side-by-side comparison of the language used in the seventeen hundred and ninety-five Treaty of Greenville and the eighteen hundred and forty-six Comanche Treaty](/assets/img/v01/catalano/figure9.png)
 {% endfigure %}
 
@@ -234,7 +241,7 @@ without any connections to other treaties. So why did this document not
 borrow from other texts? Part of the answer may lie in the individuals
 who negotiated the treaty.
 
-{% figure caption: "This network graph shows language borrowing among treaties. Specific treaties negotiated with the Ojibwe are identified in the legend. The 1854 treaty appears as an isolated node because it did not borrow language from other treaties." %}
+{% figure caption: "Figure 10. This network graph shows language borrowing among treaties. Specific treaties negotiated with the Ojibwe are identified in the legend. The 1854 treaty appears as an isolated node because it did not borrow language from other treaties." %}
 ![Network graph of language borrowing which highlights treaties negotiated with the Ojibwe](/assets/img/v01/catalano/figure10.png)
 {% endfigure %}
 
@@ -252,7 +259,7 @@ surprisingly, the borrowed or shared paragraphs of the 1855 Chippewa
 Treaty can be traced back to Manypenny's other negotiations (see figure
 11).
 
-{% figure caption: "This graph shows the Manypenny cluster and the subsequent documents that it influenced. George Manypenny was a signatory on over fifty treaties and the cluster of treaties in this visualization is almost entirely composed of documents he signed. While there are a few occurrences of outside borrowing, Manypenny did not frequently borrow language from agreements written by other negotiators." %}
+{% figure caption: "Figure 11. This graph shows the Manypenny cluster and the subsequent documents that it influenced. George Manypenny was a signatory on over fifty treaties and the cluster of treaties in this visualization is almost entirely composed of documents he signed. While there are a few occurrences of outside borrowing, Manypenny did not frequently borrow language from agreements written by other negotiators." %}
 ![Networking showing the Manypenny cluster and the the subsequent documents that his work influenced](/assets/img/v01/catalano/figure11.png)
 {% endfigure %}
 
@@ -271,7 +278,7 @@ of different Indian nations. In a strange twist, Gilbert and Manypenny
 then teamed up to craft two other agreements with the Ojibwe and Ottawa
 nations of Michigan in the fall of 1855 in Detroit.
 
-{% figure caption: "Manypenny signed over fifty treaties in a few year time span. One of his main objectives was to secure a solid legal footing for future American encroachment." %}
+{% figure caption: "Figure 12. Manypenny signed over fifty treaties in a few year time span. One of his main objectives was to secure a solid legal footing for future American encroachment." %}
 ![A chart showing side-by-side comparison of the language used in the seventeen eighteen hundred and fifty-five Chippewa Treaty and the eighteen hundred and fifty-five Winnebago Treaty](/assets/img/v01/catalano/figure12.png)
 {% endfigure %}
 
@@ -303,15 +310,15 @@ treaties that contained clauses protecting fishing rights would suggest
 a significant amount of indigenous agency or negotiating skill (figures
 13, 14, and 15).
 
-{% figure caption: "This visualization geolocates the treaties by the location of negotiation. The treaties in red did not borrow language from other agreements. While location of negotiation appears to have some impact on borrowing practices, it is not significant or consistent enough to serve as an indicator of indigenous agency." %}
+{% figure caption: "Figure 13. This visualization geolocates the treaties by the location of negotiation. The treaties in red did not borrow language from other agreements. While location of negotiation appears to have some impact on borrowing practices, it is not significant or consistent enough to serve as an indicator of indigenous agency." %}
 ![A map showing treaties by location of negotiation. Treaties that did not borrow language from other agreements are higlighted in red.](/assets/img/v01/catalano/figure13.png)
 {% endfigure %}
 
-{% figure caption: "This visualization geolocates the treaties based upon the location impacted by the document. Treaties that explicitly granted fishing rights are in blue. Location does not appear to be an influencing factor as to whether or not fishing rights were formally granted; instead, it appears that indigenous peoples whose cultures were most clearly defined by fishing fought to protect these rights on paper." %}
+{% figure caption: "Figure 14. This visualization geolocates the treaties based upon the location impacted by the document. Treaties that explicitly granted fishing rights are in blue. Location does not appear to be an influencing factor as to whether or not fishing rights were formally granted; instead, it appears that indigenous peoples whose cultures were most clearly defined by fishing fought to protect these rights on paper." %}
 ![A map showing language borrowing in treaties by location of impact. Treaties that explicitly granted fishing rights are highlighted in blue.](/assets/img/v01/catalano/figure14.png)
 {% endfigure %}
 
-{% figure caption: "This visualization geolocates the treaties based upon the location of negotiation. Treaties that explicitly granted fishing rights are in blue. When viewed in conjunction with figure 14, it appears that location of negotiation had some impact on whether or not fishing rights were explicitly granted. Treaties negotiated in Washington D.C. were less likely to grant fishing rights." %}
+{% figure caption: "Figure 15. This visualization geolocates the treaties based upon the location of negotiation. Treaties that explicitly granted fishing rights are in blue. When viewed in conjunction with figure 14, it appears that location of negotiation had some impact on whether or not fishing rights were explicitly granted. Treaties negotiated in Washington D.C. were less likely to grant fishing rights." %}
 ![A map showing language borrowing in treaties by location of negotiation. Treaties that explicitly granted fishing rights are highlighted in blue.](/assets/img/v01/catalano/figure15.png)
 {% endfigure %}
 
@@ -372,7 +379,7 @@ in New England*. Minneapolis: University of Minnesota Press, 2010.
 Prucha, Francis Paul. *American Indian Treaties: The History of a
 Political Anomaly*. Berkeley: University of California Press, 1994.
 
-Vine, Jr Deloria, and David E. Wilkins. *Tribes, Treaties, and
+Vine, Deloria, Jr., and David E. Wilkins. *Tribes, Treaties, and
 Constitutional Tribulations*. Austin: University of Texas Press, 1999.
 
 Wilkins, David E., and K. Tsianina Lomawaima. *Uneven Ground: American
