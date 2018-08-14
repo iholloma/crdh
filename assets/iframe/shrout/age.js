@@ -1,5 +1,5 @@
 var m = [30, 10, 10, 10],
-    w = 1300 - m[1] - m[3],
+    w = 775 - m[1] - m[3],
     h = 700 - m[0] - m[2];
 
 var x = d3.scale.ordinal().rangePoints([0, w], 1),
