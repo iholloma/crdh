@@ -14,7 +14,7 @@ authors:
   orcid: 0000-0002-5085-0738
   url: "https://www.joguldi.com"
 - last: Williams
-  first: Ben
+  first: Benjamin
   email: Benjamin@smu.edu
   affiliation: "Department of Statistical Science, Southern Methodist University"
   orcid: 0000-0001-8474-5066
@@ -196,6 +196,8 @@ creation of the Metropolitan Board of Works (1855--1889), the
 improvements related to the Metropolitan Commission of Sewers in
 185--89, and the building of the Thames Embankment from 1862.
 
+***Table 1. Four-topic Model of Hansard***
+
 | Proportion of Hansard as a whole | Scholar-assigned name | Top 20 Keywords |
 |---|---|---|
 | 34.85% | Extra-parliamentary Affairs | bill make government member committee house give question gentleman case board matter school clause secretary amendment act year ireland county |
@@ -203,16 +205,13 @@ improvements related to the Metropolitan Commission of Sewers in
 | 9.20% | Revenue and expenditure | year country great make land duty house gentleman pay tax tenant amount present ireland give government interest landlord member increase |
 | 22.09% | Empire and warfare | government make state country war lord question year great give officer sir house men time india secretary service army noble |
 
-***Table 1. Four-topic Model of Hansard***
-
+***Table 2. Excerpt from a 500-topic Model of Hansard***
 
 | Proportion of Hansard as a whole | Scholar-assigned name | Top 20 Keywords |
 |---|---|---|         
 | 0.926% | Sewerage and river pollution | river drainage work sewage board navigation water carry works district drain flood sewer conservancy pollution improvement engineer stream nuisance main |
 | 1.07% | The Thames Embankment and other improvements | street bridge public improvement embankment traffic metropolis road side metropolitan propose great foot carry make thoroughfare house plan place parliament |
 | 0.904% | The Metropolitan Board of Works | metropolis metropolitan board works district vestry ratepayer local body area central sir power act chairman common question city management inhabitant |
-
-***Table 2. Excerpt from a 500-topic Model of Hansard***
 
 The two scales of topic analysis may also be fitted together, with the
 potential of better understanding hierarchical and governing
@@ -264,6 +263,8 @@ improving the agrarian economy, and free trade and the price of bread,
 each of which invoked a similar lexicon ("land", "country", "tax",
 "tenant", "landlord") within the context of very different ideas.[^7]
 
+***Table 3. "Revenue and Expenditure" (Trunk Category), with Three Subcategories of Debate***[^8]
+
 <table>
   <thead>
     <tr>
@@ -293,8 +294,6 @@ each of which invoked a similar lexicon ("land", "country", "tax",
   </tbody>
 </table>
 
-***Table 3. "Revenue and Expenditure" (Trunk Category), with Three Subcategories of Debate***[^8]
-
 Each of of the "bough" categories of land can also be traced as it
 separates into further "branch" subgenres that suggest how particular
 debates, for example about taxes, varied with respect to institutions,
@@ -312,6 +311,8 @@ the sources of taxation, and a new conversation from the 1850s about the
 scientific determination of tax rates through the use of valuation,
 which fixed rates to geology as determined by a professional
 surveyor.[^9]
+
+***Table 4. Taxes Paid to the Exchequer (Bough Category) and Three Sub-Branch Subcategories of Debate***
 
 <table>
   <thead>
@@ -339,8 +340,6 @@ surveyor.[^9]
   </tbody>
 </table>
 
-***Table 4. Taxes Paid to the Exchequer (Bough Category) and Three Sub-Branch Subcategories of Debate***
-
 The bough topic, "landlords, tenants, and property questions," in turn
 splits into three branch topics: "improvement and rent as regulated by
 parliament," or a discussion about parliament's duty to encourage the
@@ -354,6 +353,8 @@ of lords and tenants to wild game from the forest, and a specifically
 nineteenth-century debate about the the disestablishment of the church
 in Ireland, which raised important questions about agricultural taxation
 and the ownership of church lands.[^10]
+
+***Table 5. Landlords, Tenants, and Property Questions (Bough Category) and Three Sub-Branch Subcategories of Debate, as Assigned by Scholar***
 
 <table>
   <thead>
@@ -401,8 +402,6 @@ and the ownership of church lands.[^10]
   </tbody>
 </table>
 
-***Table 5. Landlords, Tenants, and Property Questions (Bough Category) and Three Sub-Branch Subcategories of Debate, as Assigned by Scholar***
-
 The 20-level topic "customs and the corn laws" refers to debates about
 the import and export of goods from Britain, as marked by a tension
 between land and manufacture that emerged early in the nineteenth
@@ -421,6 +420,8 @@ this debate gave rise to a conversation about rural riot and the
 distress of rural laborers, hence the grouping together of topics about
 "the Corn Laws and agricultural prices" with debates over "unemployment
 and relief works."
+
+***Table 6. Customs and the Corn Law (Bough Category) and Three Sub-Branch Subcategories of Debate, as Assigned by Scholar***
 
 <table>
   <thead>
@@ -452,8 +453,6 @@ and relief works."
     </tr>
   </tbody>
 </table>
-
-***Table 6. Customs and the Corn Law (Bough Category) and Three Sub-Branch Subcategories of Debate, as Assigned by Scholar***
 
 Finally, "Customs and the Corn Laws" breaks down into three further
 subcategories: "The Corn laws and agricultural prices," interfacing with
@@ -495,6 +494,8 @@ Property Questions*," according to the computer, included two subtopics
 that suggest the kind of formal speech frequently interjected by
 objectors about tenant right: "*Objections to a New Bill*," and
 "*Eulogizing the Importance of Government Time*" (see figure 7).
+
+***Table 7. Comparing Scholar-Nested and Machine-Nested topics for "Landlords, Tenants, and Property"***
 
 <table>
   <thead>
@@ -577,8 +578,6 @@ objectors about tenant right: "*Objections to a New Bill*," and
     </tr>
   </tbody>
 </table>
-
-***Table 7. Comparing Scholar-Nested and Machine-Nested topics for "Landlords, Tenants, and Property"***
 
 Indeed, the top debates linked to "Landlords, Tenants, and Property
 Question" reveal the coincidence of Irish tenant- and home-rule
@@ -692,14 +691,14 @@ conjunctions of rhetoric and politics will also grow.
 
 ### Bibliography
 
-Alexander, Marc. "The metaphorical understanding of *power and authority*." In *Mapping English Metaphor Through Time*, edited by Wendy Anderson, Ellen Bramwell, and Carole Hough, 191--207. Oxford: Oxford University Press, 2016. <https://doi.org/10.1093/acprof:oso/9780198744573.001.0001>
+Alexander, Marc. "The metaphorical understanding of *power and authority*." In *Mapping English Metaphor Through Time*, edited by Wendy Anderson, Ellen Bramwell, and Carole Hough, 191--207. Oxford: Oxford University Press, 2016. <https://doi.org/10.1093/acprof:oso/9780198744573.001.0001>.
 
 Alexander, Marc, and Andrew Struan. "Digital Hansard: Politics and the Uncivil." *DH 2017*. <https://dh2017.adho.org/abstracts/007/007.pdf>.
 
 Blaxill, Luke. "Quantifying the Language of British Politics, 1880--1910." *Historical Research* 86, no. 232 (May 1, 2013): 313--41. <https://doi.org/10.1111/1468-2281.12011>.
 
 Blei, David M, and John D Lafferty. "A Correlated Topic Model of
-Science." *Ann. Appl. Stat.* 1, no. 1 (2007): 17--35. <https://doi.org/10.1214/07-AOAS114>
+Science." *Ann. Appl. Stat.* 1, no. 1 (2007): 17--35. <https://doi.org/10.1214/07-AOAS114>.
 
 Blei, David M. "Probabilistic Topic Models." *Commun. ACM* 55, no. 4
 (April 2012): 77--84. <https://doi.org/10.1145/2133806.2133826>.
