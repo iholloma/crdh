@@ -279,7 +279,7 @@ affirm the value of a public sphere which allowed for measured
 discussion, thoughtful intervention, and the articulation of an emerging
 scientific consensus about disease etiology.
 
-{% figure caption: "This chart shows the distribution of search results for two keywords, influenza and
+{% figure caption: "Figure 1. This chart shows the distribution of search results for two keywords, influenza and
 cholera, in two newspaper collections, Chronicling America and America’s Historical
 Newspapers, by year, from 1885 to 1894. The chart indicates that the term cholera appeared on
 more pages in every year than the term influenza, although the gap was narrowest in 1890, which
@@ -288,8 +288,7 @@ certainly resulted from the outbreak of this disease in the Middle East, Russia,
 ![A bar chart showing the number of newspaper pages where the term "influenza" appeared compared to the word "cholera" per year in American newspapers.](/assets/img/v01/ewing/influenza-cholera-key-word-years-chronam-ahn.jpeg)
 {% endfigure %}
 
-{% figure caption: "This chart uses the tool of proximity search to identify pages on which the two terms,
-influenza and cholera, appeared within 50 words of each other in Chronicling America and
+{% figure caption: "Figure 2. This chart uses the tool of proximity search to identify pages on which the two terms, influenza and cholera, appeared within 50 words of each other in Chronicling America and
 America’s Historical Newspapers. This tool suggests changes over time in how these terms were
 collocated on these pages; this tool does not, however, suggest interpretations of the meanings of
 these collections. By adjusting the yearly segments to begin in June and end in May, this chart
@@ -298,8 +297,7 @@ Russian Flu, thus providing a more accurate visualization of change over time." 
 ![A bar chart showing the number of newspaper pages each year where the terms "influenza" and  "cholera" appeared within 50 words of each other.](/assets/img/v01/ewing/influenza-cholera-proximity-years-adjusted-chronam-ahn.jpeg)
 {% endfigure %}
 
-{% figure caption: "This chart compares proximity searches for influenza and cholera within fifty words in
-two databases, Chronicling America and America’s Historical Newspapers, by month in the year
+{% figure caption: "Figure 3. This chart compares proximity searches for influenza and cholera within fifty words in two databases, Chronicling America and America’s Historical Newspapers, by month in the year
 from June 1889 to May 1890. Comparing results by month indicates how much of a change can
 be seen in December 1889, immediately following the widely reported statement by Zdekauer.
 The very low number of results from June to November suggest that the lack of significant
@@ -307,7 +305,7 @@ connections between these two terms, by contrast not only to December 1889 but e
 ![A bar chart showing the number of newspaper pages each where the terms "influenza" and  "cholera" appeared within 50 words of each other, divided by month from June eighteen hundred and eighty-nine to May nineteen hundred and ninety.](/assets/img/v01/ewing/influenza-cholera-proximity-monthly-chronam-ahn.jpeg)
 {% endfigure %}
 
-{% figure caption: "As a way to compare results across national newspaper collections, this chart shows
+{% figure caption: "Figure 4. As a way to compare results across national newspaper collections, this chart shows
 the results of keyword searches for influenza and cholera in the British Historical Newspaper
 collection, a commercial database of digitized newspapers. In this collection, cholera appeared
 more frequently than influenza from 1885 to 1889 and again in 1893 while influenza appeared
