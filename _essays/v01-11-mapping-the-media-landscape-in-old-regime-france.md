@@ -148,7 +148,7 @@ Brussels, Liège, and London that commented on politics in France,
 including the *Journal de Politique et Littéraire*, the *Annales
 politiques, civiles et littéraire*, and the *Esprit des Journaux*.[^7]
 
-{% figure caption: "In this network visualization, each node is a periodical, and each edge
+{% figure caption: "Figure 1. In this network visualization, each node is a periodical, and each edge
 is a reference in one of the *affiches* to another periodical. The arrow
 points toward the periodical cited in the letter, and away from the
 newspaper where it was published. All nodes are single degree nodes. The
@@ -257,7 +257,7 @@ libellistes, 1758--1792*. Manchester: Manchester University Press, 2006.
 
 Causer, Tim and Valerie Wallace. "Building a Volunteer Community:
 Results and Findings from Transcribe Bentham." *Digital Humanities
-Quarterly* 6, no. 2 (2012). <http://www.digitalhumanities.org/dhq/vol/6/2/000125/000125.html>
+Quarterly* 6, no. 2 (2012). <http://www.digitalhumanities.org/dhq/vol/6/2/000125/000125.html>.
 
 Censer, Jack. *The French Press in the Age of Enlightenment*. New York:
 Routledge, 2002.
@@ -308,7 +308,7 @@ sociales* 67, no. 2 (2012): 363--389. <https://www.jstor.org/stable/23211634>.
 Strange, Carolyn, Daniel McNamara, Josh Wodak, and Ian Wood. "Mining for
 the Meanings of a Murder: The Impact of OCR Quality on the Use of
 Digitized Historical Newspapers." *Digital Humanities Quarterly* 8, no.
-1 (2014). <http://digitalhumanities.org/dhq/vol/8/1/000168/000168.html>
+1 (2014). <http://digitalhumanities.org/dhq/vol/8/1/000168/000168.html>.
 
 Williams, Abigail. *The Social Life of Books: Reading Together in the
 Eighteenth-Century Home*. New Haven: Yale University Press, 2017.
@@ -318,13 +318,9 @@ Eighteenth-Century Home*. New Haven: Yale University Press, 2017.
 ### Notes
 
 [^1]: Among the landmark studies in this field, see, especially Furet et
-    al., *Lire et écrire*; Roche, *Le Peuple de Paris*; Darnton, *The
-    Literary Underground;* and more recent reevaluations, Curran, "Beyond the Forbidden Best-Sellers," 89--112; Multigraph Collective, *Interacting with Print*.
+    al., *Lire et écrire*; Roche, *Le Peuple de Paris*; Darnton, *The Literary Underground*; and more recent reevaluations, Curran, "Beyond the Forbidden Best-Sellers," 89--112; Multigraph Collective, *Interacting with Print*.
 
-[^2]: Research on readers' responses to Jean-Jacques Rousseau's *Julie,
-    ou La Nouvelle Heloïse, one of the most popular books of the
-    period, is particularly extensive. Darnton, "Readers Respond,
-    215--256; and Labrosse, *Lire au XVIIIe siècle*.
+[^2]: Research on readers' responses to Jean-Jacques Rousseau's *Julie, ou La Nouvelle Heloïse*, one of the most popular books of the period, is particularly extensive. Darnton, "Readers Respond," 215--256; and Labrosse, *Lire au XVIIIe siècle*.
 
 [^3]: This project is informed by scholarship on editorial citation,
     authorship, and republication practices in the eighteenth-and
