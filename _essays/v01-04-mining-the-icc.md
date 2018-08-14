@@ -232,7 +232,7 @@ and began the continuing process of political reconciliation.
 ### Bibliography
 
 Blackfeet, et. al. v. US and Fort Belknap v. US; Dkt 279-C, Dkt 250-A,
-Opinion, 6/7/1974, 34 Ind. Cl. Comm. 122 <https://cdm17279.contentdm.oclc.org/digital/api/collection/p17279coll10/id/2572/download>.
+Opinion, 6/7/1974, 34 Ind. Cl. Comm. 122. <https://cdm17279.contentdm.oclc.org/digital/api/collection/p17279coll10/id/2572/download>.
 
 Bushyhead, Yvonne. "In the Spirit of Crazy Horse: Leonard Peltier and
 the AIM Uprising." In *The Winds of Injustice: American Indians and the
