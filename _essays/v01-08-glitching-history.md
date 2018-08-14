@@ -39,7 +39,7 @@ slavery, and other social ills in America; yet here, even in this
 reformist milieu, everything still revolves around the white elites, who
 remain at the center.
 
-{% figure caption: "'Mississippi' John Hurt, Sam Hinton, and Arthel 'Doc' Watson at the Berkeley Folk Music Festival, 1964. Photograph: Kelly Hart." %}
+{% figure caption: "Figure 1. 'Mississippi' John Hurt, Sam Hinton, and Arthel 'Doc' Watson at the Berkeley Folk Music Festival, 1964. Photograph: Kelly Hart." %}
 ![A photograph showing "Mississippi" John Hurt holding a guitar, Sam Hinton, and Arthel "Doc" Watson holding a banjo at the Berkeley Folk Music Festival, 1964](/assets/img/v01/kramer/original-image.jpg)
 {% endfigure %}
 
@@ -127,7 +127,7 @@ the artifact. Moving the artifact away from its original form brings us
 closer to the stakes up for grabs in its originating historical moment:
 revising the "text," helped us better access the context.
 
-{% figure caption: "Student Nathan Anderson's 2013 glitch experiment with Kelly Hart's photograph of Hurt, Hinton, and Watson." %}
+{% figure caption: "Figure 2. Student Nathan Anderson's 2013 glitch experiment with Kelly Hart's photograph of Hurt, Hinton, and Watson." %}
 ![A glitched photograph showing from left to right, Arthel "Doc" Watson, "Mississippi" John Hurt and Sam Hinton.](/assets/img/v01/kramer/glitched-image.jpg)
 {% endfigure %}
 
