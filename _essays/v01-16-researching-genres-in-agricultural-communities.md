@@ -108,7 +108,7 @@ analysis of the times and contexts in which record books are mentioned
 in *ChronAm* newspapers, not a rhetorical analysis of actual record
 books.
 
-{% figure caption: "Screenshot of [Historical Agricultural News](http://ag-news.net) search screen. An article-level algorithm facilitates targeted searches of the Chronicling America database for agricultural topics." %}
+{% figure caption: "Figure 1. Screenshot of [Historical Agricultural News](http://ag-news.net) search screen. An article-level algorithm facilitates targeted searches of the Chronicling America database for agricultural topics." %}
 ![A screenshot of the search screen for the Historical Agricultural News website](/assets/img/v01/galbreath/figure1.png)
 {% endfigure %}
 
@@ -141,7 +141,7 @@ accounting by extension service agents, and the narrative section in the
 > of their realization of the advantages to be obtained from accurate
 > records when they compute income tax returns.[^17]
 
-{% figure caption: "Number of Times Farm Record Books Mentioned in Annual Reports. Florida Extension Service Annual Reports, 1915–1958." %}
+{% figure caption: "Table 1. Number of Times Farm Record Books Mentioned in Annual Reports. Florida Extension Service Annual Reports, 1915–1958." %}
 ![A table showing the number of times farm record books were mentioned in Flordia state reports fomr 1915 until 1958 based on different catagories such as farmers keeping full records, partial records or only assisting with records.](/assets/img/v01/galbreath/table1.png)
 {% endfigure %}
 
@@ -191,11 +191,11 @@ from an organizational perspective. But how did the extension service
 promote these genres, and how was this inculcation perceived at the
 local level?
 
-{% figure caption: "Agricultural Extension Service, “1921 Illinois Crop Record Book: Garden, Corn, Potato Projects,” in Extension Publications, Boys’ and Girls’ Club Work (Urbana: University of Illinois, 1917–1924), 844. This library compilation of extension service circulars was found in Google Books. Items are not listed chronologically." %}
+{% figure caption: "Figure 2. Agricultural Extension Service, “1921 Illinois Crop Record Book: Garden, Corn, Potato Projects,” in Extension Publications, Boys’ and Girls’ Club Work (Urbana: University of Illinois, 1917–1924), 844. This library compilation of extension service circulars was found in Google Books. Items are not listed chronologically." %}
 ![Example page from a crop record book used for Boys’ and Girls’ Club agricultural work in Illinois](/assets/img/v01/galbreath/figure2.png)
 {% endfigure %}
 
-{% figure caption: "United States Department of Agriculture, Farm Diary: A Business Record & Account Book (New York: World Book Company, 1918), 392." %}
+{% figure caption: "Figure 3. United States Department of Agriculture, Farm Diary: A Business Record & Account Book (New York: World Book Company, 1918), 392." %}
 ![Example page from a crop record book used to track costs, work hours, acreage, crop yields.](/assets/img/v01/galbreath/figure3.png)
 {% endfigure %}
 
@@ -208,7 +208,7 @@ These were captured through a downloadable spreadsheet that contains
 citation information, the article text, and a link to the original
 newspaper page.
 
-{% figure caption: "Spreadsheet from farm record search in Historical Agricultural News. The Body column contains Optical Character Recognition, or OCR, text from the articles identified in the search. The Link column has the URL that leads back to the original newspaper item in Chronicling America." %}
+{% figure caption: "Figure 4. Spreadsheet from farm record search in Historical Agricultural News. The Body column contains Optical Character Recognition, or OCR, text from the articles identified in the search. The Link column has the URL that leads back to the original newspaper item in Chronicling America." %}
 ![Screenshot of an Excel spreadsheet of the data retrieved during a search for farm records through the Historical Agricultural News website.](/assets/img/v01/galbreath/figure4.png)
 {% endfigure %}
 
@@ -225,15 +225,15 @@ success, bank approvals, and income tax verification, and one carries a
 stern warning of lost work days and fines from "not furnish[ing] a
 proper report to the income tax collector."[^29]
 
-{% figure caption: "“Oregon Farm Records Meet Bankers approval,” *Ashland Tidings* (Ashland, OR), March 7, 1919, [Chronicling America](https://chroniclingamerica.loc.gov/lccn/sn85042399/1919-03-07/ed-1/seq-8/pdf). This example, promoting the farm record book, shows the connections between the different institutions of agricultural college, financial instutions, farm bureau, and Internal Revenue Service. Farmers are encouraged to use the record book not just to build a successful business, but also as a way to establish credibility with the bank and verifiability with the IRS." %}
+{% figure caption: "Figure 5. “Oregon Farm Records Meet Bankers approval,” *Ashland Tidings* (Ashland, OR), March 7, 1919, [Chronicling America](https://chroniclingamerica.loc.gov/lccn/sn85042399/1919-03-07/ed-1/seq-8/pdf). This example, promoting the farm record book, shows the connections between the different institutions of agricultural college, financial instutions, farm bureau, and Internal Revenue Service. Farmers are encouraged to use the record book not just to build a successful business, but also as a way to establish credibility with the bank and verifiability with the IRS." %}
 ![Black and white image of newspaper article entitled "Oregon Farm Records Meet Bankers Approval"](/assets/img/v01/galbreath/figure5.png)
 {% endfigure %}
 
-{% figure caption: "“Wants Record Kept,” *Rogue River Courier* (Grants Pass, OR), March 12, 1917, [Chronicling America](http://chroniclingamerica.loc.gov/lccn/sn96088180/1917-03-12/ed-1/seq-3/pdf). This early example from the HAN search shows how the extension service advertised the utility of the farm record book. Words such as “simple” and “free of charge” are meant to encourage farmers to attend demonstrations. Also visible in this article is the tracking and inventory the extension service will conduct at the end of the year, when the “books will be taken up and summarized.”" %}
+{% figure caption: "Figure 6. “Wants Record Kept,” *Rogue River Courier* (Grants Pass, OR), March 12, 1917, [Chronicling America](http://chroniclingamerica.loc.gov/lccn/sn96088180/1917-03-12/ed-1/seq-3/pdf). This early example from the HAN search shows how the extension service advertised the utility of the farm record book. Words such as “simple” and “free of charge” are meant to encourage farmers to attend demonstrations. Also visible in this article is the tracking and inventory the extension service will conduct at the end of the year, when the “books will be taken up and summarized.”" %}
 ![Black and white image of newspaper article entitled "Wants Record Kept of Farm Expenses"](/assets/img/v01/galbreath/figure6.png)
 {% endfigure %}
 
-{% figure caption: "“Farm Bureau Notes,” *The Leon Reporter* (Leon, IA), January 15, 1920, [Chronicling America](http://chroniclingamerica.loc.gov/lccn/sn87057096/1920-01-15/ed-1/seq-3/pdf). In this example, the benefits of keeping a farm account book are combined with the idea that teaching these methods to boys will ensure the continuation of family farming by “keep[ing] those same boys on the farm.”" %}
+{% figure caption: "Figure 7. “Farm Bureau Notes,” *The Leon Reporter* (Leon, IA), January 15, 1920, [Chronicling America](http://chroniclingamerica.loc.gov/lccn/sn87057096/1920-01-15/ed-1/seq-3/pdf). In this example, the benefits of keeping a farm account book are combined with the idea that teaching these methods to boys will ensure the continuation of family farming by “keep[ing] those same boys on the farm.”" %}
 ![Black and white image of newspaper article about the benefits of keeping a farm record book](/assets/img/v01/galbreath/figure7.png)
 {% endfigure %}
 
@@ -255,7 +255,7 @@ the poultry market in Florida and one of the requirements of which were
 "the keeping of accurate records of the amount of feed, labor, number of
 eggs produced, chickens raised, marketed, etc."[^32]
 
-{% figure caption: "“Union County Boys and Girls Clubs Make Superb Record During the Past Year,” *Clayton News* (Clayton, NM), Dec. 1, 1917, [Chronicling America](http://chroniclingamerica.loc.gov/lccn/sn93061573/1917-12-01/ed-1/seq-1/pdf). The project record is a large part of judging criteria for the competitions involving Boys and Girls Clubs, prizes for which included cash awards and trips to the annual state Boys and Girls Club camp." %}
+{% figure caption: "Figure 8. “Union County Boys and Girls Clubs Make Superb Record During the Past Year,” *Clayton News* (Clayton, NM), Dec. 1, 1917, [Chronicling America](http://chroniclingamerica.loc.gov/lccn/sn93061573/1917-12-01/ed-1/seq-1/pdf). The project record is a large part of judging criteria for the competitions involving Boys and Girls Clubs, prizes for which included cash awards and trips to the annual state Boys and Girls Club camp." %}
 ![Black and white image of newspaper article about Boys and Girls club work](/assets/img/v01/galbreath/figure8.png)
 {% endfigure %}
 
@@ -346,7 +346,7 @@ Galbreath, Marcy L. "Sponsors of Agricultural Literacies: Intersections
 of Institutional and Local Knowledge in a Farming Community." *Community
 Literacy Journal* 10, no. 1 (2015): 59--72.
 
------. "Tractors and Genres: Knowledge-Making and Identity Formation
+Galbreath, Marcy L. "Tractors and Genres: Knowledge-Making and Identity Formation
 in an Agricultural Community." PhD diss., University of
 Central Florida, 2014.
 
@@ -373,7 +373,7 @@ Press, 2011.
 Miller, Carolyn R. "Genre as Social Action." *Quarterly Journal of
 Speech* 70, no. 2 (1984): 151--67. <https://doi.org/10.1080/00335638409383686>.
 
------. "Rhetorical Community: The Cultural Basis of Genre." In *Genre
+Miller, Carolyn R. "Rhetorical Community: The Cultural Basis of Genre." In *Genre
 and the New Rhetoric*, edited by Aviva Freedman and Peter Medway, 67--78. London:
 Taylor and Francis, 1994. 
 
