@@ -48,8 +48,17 @@ figure {
     margin: (4 * $card-margin-bottom) 0;
 }
 
+
 article.essay figure img {
     margin: 0 0 $paragraph-margin-bottom;
+}
+
+figure iframe {
+    background-color: transparent;
+    border: 0px none transparent;
+    padding: 0px;
+    overflow: hidden;
+    width: 100%;
 }
 
 figcaption {
