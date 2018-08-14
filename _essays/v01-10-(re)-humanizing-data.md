@@ -220,14 +220,10 @@ processes.[^25] Others recapitulate on the reports of Bellevue
 administrators or city officials to describe the intervening days or
 weeks.[^26] The voices of immigrants are absent.
 
-<<<<<<< HEAD
-{% figure caption: "Figure 1. Pathways through the Bellevue Almshouse. Each line represents
-=======
 <figure>
 <iframe src="/assets/iframe/shrout/disease.html" style="height:725px;"></iframe>
 <figcaption>
 Figure 1. Pathways through the Bellevue Almshouse. Each line represents
->>>>>>> 9a0faf11b466cca1152a77e40d60613192049fa3
 an inmate who encountered admittors, was diagnosed, and was sent to
 sites within New York City's public health system.
 </figcaption>
