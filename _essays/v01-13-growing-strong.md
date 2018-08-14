@@ -85,7 +85,7 @@ employees and Army officers during strategic dates offered opportunities
 to explore if there was a change from a homogenous information
 environment to a more diverse and specialized republic of letters.[^4]
 
-{% figure caption: "Network graph of selected early American societies and
+{% figure caption: "Figure 1. Network graph of selected early American societies and
 groups. 1811-1850. The size of the circles corresponds to the number of
 members and the thickness of lines indicate the number of shared
 members." %}
@@ -197,7 +197,7 @@ expansion of the federal government led to an expansion in scientific
 learning may not be as interconnected in the early nineteenth century as
 it is in the twentieth.[^9]
 
-{% figure caption: "Shared Group Memberships Between Washington D.C. based Federal
+{% figure caption: "Figure 2. Shared Group Memberships Between Washington D.C. based Federal
 Employees and Learned Societies." %}
 ![A bar graph showing the number of federal employees based in Washington D.C. that were members of certian learned societies.](/assets/img/v01/oberle/federal-employees.png)
 {% endfigure %}
@@ -368,7 +368,7 @@ Baatz, Simon. "Philadelphia Patronage: The Institutional Structure of
 Natural History in the New Republic, 1800-1833." *Journal of the Early
 Republic* 8, no. 2 (July 1, 1988): 111--138. <https://doi.org/10.2307/3123808>.
 
----------. "'Squinting at Silliman': Scientific Periodicals in the Early
+Baatz, Simon. "'Squinting at Silliman': Scientific Periodicals in the Early
 American Republic, 1810-1833." *Isis* 82, no. 2 (June 1, 1991): 223--244.
 
 Carrier, Lyman. "The United States Agricultural Society, 1852-1860: Its
@@ -385,7 +385,7 @@ American Scientific and Learned Societies from Colonial Times to the
 Civil War*, edited by Alexandra Oleson and Sanborn C. Brown, 21--32.
 Baltimore, MD: Johns Hopkins University Press, 1976.
 
----------. *Science in the Federal Government, a History of Policies and
+Dupree, A. Hunter. *Science in the Federal Government, a History of Policies and
 Activities to 1940*. Cambridge, Mass: Belknap Press of Harvard
 University Press, 1957.
 
@@ -418,7 +418,7 @@ Vol. 4. Washington: Smithsonian Institution Press, New York, 1981.
 Howe, Daniel Walker. *The Political Culture of the American Whigs*.
 Chicago: University of Chicago Press, 1979.
 
----------. *What Hath God Wrought: The Transformation of America,
+Howe, Daniel Walker. *What Hath God Wrought: The Transformation of America,
 1815-1848*. Oxford History of the United States. New York: Oxford University Press, 2007.
 
 Kerber, Linda K. *Federalists in Dissent; Imagery and Ideology in
@@ -428,7 +428,7 @@ Kohlstedt, Sally. "A Step Toward Scientific Self-Identity in the United
 States: The Failure of the National Institute, 1844." *ISIS: Journal of
 the History of Science in Society* 62, no. 3 (1971): 339--362.
 
----------. *The Formation of the American Scientific Community: The
+Kohlstedt, Sally. *The Formation of the American Scientific Community: The
 American Association for the Advancement of Science, 1848-60*. Urbana:
 University of Illinois Press, 1976.
 
@@ -477,7 +477,7 @@ Wilentz, Sean. *Chants Democratic: New York City and the Rise of the
 American Working Class, 1788-1850*. 20th anniversary ed. New York:
 Oxford University Press, 2004.
 
----------. *The Rise of American Democracy: Jefferson to Lincoln*. New
+Wilentz, Sean. *The Rise of American Democracy: Jefferson to Lincoln*. New
 York: Norton, 2005.
 
 ---
