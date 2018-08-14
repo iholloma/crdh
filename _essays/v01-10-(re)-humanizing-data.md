@@ -213,11 +213,14 @@ processes.[^25] Others recapitulate on the reports of Bellevue
 administrators or city officials to describe the intervening days or
 weeks.[^26] The voices of immigrants are absent.
 
-{% figure caption: "Pathways through the Bellevue Almshouse. Each line represents
+<figure>
+<iframe src="/assets/iframe/shrout/disease.html" style="height:725px;"></iframe>
+<figcaption>
+Figure 1. Pathways through the Bellevue Almshouse. Each line represents
 an inmate who encountered admittors, was diagnosed, and was sent to
-sites within New York City's public health system." %}
-![Visualization showing a series of lines that tracks each inmate by gender, age, occupation, whom they were sent by, the reason given, the site and institution.](/assets/img/v01/shrout/disease1.png)
-{% endfigure %}
+sites within New York City's public health system.
+</figcaption>
+</figure>
 
 The Digital Almshouse Project does not give access to immigrant voices,
 but it does help to make visible the forces working on immigrants, and
