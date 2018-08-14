@@ -36,16 +36,20 @@ layout: default
         </section>
         {{ content }}
         <hr>
+        {% if page.authors.size > 1 %}
+        <h3 id="author">Authors</h3>
+        {% else %}
         <h3 id="author">Author</h3>
+        {% endif %}
         <p>
         {% for author in page.authors %}
             {% assign author_name = author.first | append: ' ' | append: author.last %}
             {% if author.url.size > 0 %}
-                <a href="{{ author.url }}">{{ author_name }}</a>
+                <a href="{{ author.url }}">{{ author_name }}</a>,
             {% else %}
-                {{ author_name }}
+                {{ author_name }},
             {% endif %}
-            , {{ author.affiliation }}, <a href="mailto: {{ author.email }}">{{ author.email }}</a>, <a href="http://orcid.org/{{ author.orcid }}"><img src="{{ site.url }}/assets/img/orcid-logo.png" alt="ORC ID logo" class="orcid">{{ author.orcid }}</a>
+            {{ author.affiliation }}, <a href="mailto: {{ author.email }}">{{ author.email }}</a>, <a href="http://orcid.org/{{ author.orcid }}"><img src="{{ site.url }}/assets/img/orcid-logo.png" alt="ORC ID logo" class="orcid">{{ author.orcid }}</a>{% if forloop.index != page.authors.size %};{% endif %}
         {% endfor %}
         </p>
     </article>
