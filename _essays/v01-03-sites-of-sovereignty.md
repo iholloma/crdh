@@ -5,8 +5,6 @@ doi: "TK"
 category: "2018"
 volume-number: 1
 year: 2018
-abstract: |
-  This article examines earthwork activism in the Midwest at the turn of the twentieth century. The activism of Emma Big Bear Holt (Ho-Chunk) and the Conley sisters (Wyandot) in the early 20th century are connected by the history of Indian removal. Earthwork and burial site activists used traditional knowledge, alliance building, family kinship networks, and civic activism. The Midwest is a site of Indian removal and earthwork and burial site activism which revises narratives of Indian removal that textually erased the Ho-Chunk, Miami, and Wyandot. Earthwork and burial site activism bear the marks of indigenous self-determinative action in the past and present.  The activists’ history resists narratives of American Indian defeat.  Rather it supports the idea that American Indian activism can be found even in the most oppressive periods of federal policy.  Furthermore, their story demonstrates that “Indian Removal,” best known as the coerced relocation of the southeastern tribes to Indian Territory, affected many tribes, with devastating effect. Earthwork and burial site activism was self-determinative. The story of Indigenous activism at earthworks in the Midwest is not a simple one. Rather, this is a tale of continuous reform and activism that extends well into the twenty-first century.  
 authors:
 - last: Wise
   first: Mary
@@ -14,6 +12,8 @@ authors:
   affiliation: "College of University Libraries & Learning Sciences, University of New Mexico"
   orcid: 0000-0003-1551-1033
   url: "https://ulls.unm.edu/people/directory/w/wise-mary.php"
+abstract: |
+  This article examines earthwork activism in the Midwest at the turn of the twentieth century. The activism of Emma Big Bear Holt (Ho-Chunk) and the Conley sisters (Wyandot) in the early 20th century are connected by the history of Indian removal. Earthwork and burial site activists used traditional knowledge, alliance building, family kinship networks, and civic activism. The Midwest is a site of Indian removal and earthwork and burial site activism which revises narratives of Indian removal that textually erased the Ho-Chunk, Miami, and Wyandot. Earthwork and burial site activism bear the marks of indigenous self-determinative action in the past and present.  The activists’ history resists narratives of American Indian defeat.  Rather it supports the idea that American Indian activism can be found even in the most oppressive periods of federal policy.  Furthermore, their story demonstrates that “Indian Removal,” best known as the coerced relocation of the southeastern tribes to Indian Territory, affected many tribes, with devastating effect. Earthwork and burial site activism was self-determinative. The story of Indigenous activism at earthworks in the Midwest is not a simple one. Rather, this is a tale of continuous reform and activism that extends well into the twenty-first century.  
 appendix:
 - name: Data archive
   file: wise-v01/wise-crdh-data.zip
@@ -218,7 +218,7 @@ Conley consistently linked the Kansas Wyandot to treaties and
 appropriated treaty language. 
 
 {% figure caption: "Figure 3. A screenshot of a Voyant visualization created
-using Lyda Conley's corpus. An interactive version](https://voyant-tools.org/?corpus=61a9d41ae1f126c6a56c6d5290e60ea3) is also available." %}
+using Lyda Conley's corpus. An [interactive version](https://voyant-tools.org/?corpus=61a9d41ae1f126c6a56c6d5290e60ea3) is also available." %}
 ![A Voyant visualization created using Lyda Conley's corpus.](/assets/img/v01/wise/figure3.jpg)
 {% endfigure %}
 
@@ -288,7 +288,7 @@ Papers of Ellison Orr. "The Iowa (Oneota)" State Historical Society of Iowa, Iow
 Sleeper-Smith, Susan. *Indian Women and French Men: Rethinking Cultural
 Encounter in the Western Great Lakes*. Boston: University of Massachusetts Press, 2001.
 
-U.S. Census Bureau. *1930 Federal Census*. Enumerated by Bernadette Kensaw, April 8, 1930. 
+U.S. Census Bureau. *1930 Federal Census*. Enumerated by Bernadette Kensaw. April 8, 1930. 
 
 ---
 
