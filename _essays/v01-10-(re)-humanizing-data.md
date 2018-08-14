@@ -5,8 +5,6 @@ doi: "TK"
 category: "2018"
 volume-number: 1
 year: 2018
-abstract: |
-  Fleeing poverty, disease and violence at home, thousands immigrated to New York City in the 1840s. In an unknown city, with little support, many became destitute. City officials responded by consigning immigrants to the Bellevue Hospital Almshouse.  There they were diagnosed as “vagrant,” “destitute” and “recent emigrant” and incarcerated in New York’s nascent public health system.  This paper uses computational methods to reconstruct the experiences of incarcerated immigrants.  It demonstrates the (often archivally invisible) forces that structured immigrants’ lives. It also argues that, despite the violence they suffered at the hands of New York City, these men and women used the Almshouse to forge communities, demand medical care, and claim social support.
 authors:
 - last: Shrout
   first: Anelise H.
@@ -14,6 +12,15 @@ authors:
   affiliation: "Department of History, California State University, Fullerton"
   orcid: 0000-0001-6277-0607
   url: "http://www.anelisehshrout.com"
+abstract: |
+  Fleeing poverty, disease and violence at home, thousands immigrated to New York City in the 1840s. In an unknown city, with little support, many became destitute. City officials responded by consigning immigrants to the Bellevue Hospital Almshouse.  There they were diagnosed as “vagrant,” “destitute” and “recent emigrant” and incarcerated in New York’s nascent public health system.  This paper uses computational methods to reconstruct the experiences of incarcerated immigrants.  It demonstrates the (often archivally invisible) forces that structured immigrants’ lives. It also argues that, despite the violence they suffered at the hands of New York City, these men and women used the Almshouse to forge communities, demand medical care, and claim social support.
+appendix:
+- name: README
+  file: shrout-v01/README.txt
+- name: Data archive
+  file: shrout-v01/shrout-data.zip
+- name: Code archive
+  file: shrout-v01/shrout-code.zip
 ---
 
 On February 23rd, 1847, three adults and one child stepped off the
@@ -213,7 +220,7 @@ processes.[^25] Others recapitulate on the reports of Bellevue
 administrators or city officials to describe the intervening days or
 weeks.[^26] The voices of immigrants are absent.
 
-{% figure caption: "Pathways through the Bellevue Almshouse. Each line represents
+{% figure caption: "Figure 1. Pathways through the Bellevue Almshouse. Each line represents
 an inmate who encountered admittors, was diagnosed, and was sent to
 sites within New York City's public health system." %}
 ![Visualization showing a series of lines that tracks each inmate by gender, age, occupation, whom they were sent by, the reason given, the site and institution.](/assets/img/v01/shrout/disease1.png)
@@ -367,7 +374,7 @@ Chatterjee, Samprit, and Ali S. Hadi. "Logistic Regression." In
 Derrida, Jaques. *Archive Fever: A Freudian Impression*. Chicago:
 University of Chicago Press, 1996.
 
-Digital Almshouse Project," n.d. <http://www.nyuirish.net/almshouse>.
+"Digital Almshouse Project." <http://www.nyuirish.net/almshouse>.
 
 Diner, Hasia R. *Erin's Daughters in America: Irish Immigrant Women in
 the Nineteenth Century*. Baltimore: Johns Hopkins University Press,
@@ -383,7 +390,7 @@ Gray, Peter. "Irish Social Thought and the Relief of Poverty,
 1847--1880." *Transactions of the Royal Historical Society* 20 (December
 2010): 141--56.
 
----------. *The Making of the Irish Poor Law, 1815--43*. Manchester,
+Gray, Peter. *The Making of the Irish Poor Law, 1815--43*. Manchester,
 U.K.: Manchester University Press, 2010.
 
 Harcourt, Bernard E. "From the Asylum to the Prison: Rethinking the
@@ -404,7 +411,7 @@ Casey. New York: NYU Press, 2006.
 Kinealy, Christine. *Charity and the Great Hunger in Ireland: The
 Kindness of Strangers*. London: Bloomsbury, 2013.
 
----------. *This Great Calamity: The Irish Famine, 1845--52*. Dublin:
+Kinealy, Christine. *This Great Calamity: The Irish Famine, 1845--52*. Dublin:
 Gill & Macmillan, 1994.
 
 Klebaner, Benjamin J. "State and Local Immigration Regulation in the
@@ -570,28 +577,16 @@ Emigrant Vessel*. Boston: Coolidge and Wiley, 1848.
     Famine, Created, 1977 - 1989, Documenting the Period 1/12/1846 -
     12/31/1851."
 
-[^29]: R script repository:
-    <https://github.com/shrouta/bellevue_R_script>
+[^29]: R script repository: <https://github.com/shrouta/bellevue_R_script>
 
 [^30]: This finding, and the ones that follow are based on logistic
     regression, modeled on dummy variables created for disease,
     sent\_to, and by\_whom\_sent. Chatterjee and Hadi, "Logistic
     Regression."
 
-[^31]: The relation was tested with a logistic regression.
+[^31]: The relation was tested with a logistic regression. The coefficient for Moses Leonard was 2.91724, the standard error was .11985, the significance was \< 2e-16. The coefficient for the George W. Anderson was 2.63644, the standard error was .12535, the significance was \< 2e-16. For full details see <https://github.com/shrouta/bellevue_R_script/blob/master/recent_emigrant_logistic_output.txt>.
 
-    The coefficient for Moses Leonard was 2.91724, the standard error
-    was .11985, the significance was \< 2e-16.
-
-    The coefficient for the George W. Anderson was 2.63644, the standard
-    error was .12535, the significance was \< 2e-16.
-
-    For full details see
-
-    <https://github.com/shrouta/bellevue_R_script/blob/master/recent_emigrant_logistic_output.txt>
-
-[^32]: For a visualization of these forces, see
-    http://www.nyuirish.net/almshouse/data-pathways/
+[^32]: For a visualization of these forces, see <http://www.nyuirish.net/almshouse/data-pathways/>.
 
 [^33]: Board of Assistant Aldermen, *Proceedings and Documents of the
     Board of Assistant Aldermen, from Dec. 7th 1846 to May 10th, 1847.*,
@@ -604,12 +599,7 @@ Emigrant Vessel*. Boston: Coolidge and Wiley, 1848.
 
 [^35]: Klips, "Institutionalizing the Poor," 276.
 
-[^36]: The relation was tested with a logistic regression.
-
-    The coefficient for garret was 1.34441, the standard error was
-    0.23120, the significance was 6.16e-09.
-
-    <https://github.com/shrouta/bellevue_R_script/blob/master/recent_emigrant_logistic_output.txt>
+[^36]: The relation was tested with a logistic regression. The coefficient for garret was 1.34441, the standard error was 0.23120, the significance was 6.16e-09. <https://github.com/shrouta/bellevue_R_script/blob/master/recent_emigrant_logistic_output.txt>.
 
 [^37]: Board of Assistant Aldermen, *Proceedings and Documents of the
     Board of Assistant Aldermen, from Dec. 7th 1846 to May 10th, 1847.*,
