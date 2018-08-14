@@ -78,7 +78,7 @@ before other editorial content in the newspaper was read and
 contemplated. Was this prominence accompanied by an unbiased handling of
 differing political opinions?
 
-{% figure caption: "Typical layout of the *Washington Post*'s editorial page,
+{% figure caption: "Figure 1. Typical layout of the *Washington Post*'s editorial page,
 based on the paper's August 21, 1953 edition. The positioning of the
 Herblock cartoon at the top center of the page naturally draws the eye
 of the reader, making it likely to be the first element of the page to
@@ -107,11 +107,11 @@ but more importantly how his liberal ideology shaped the perhaps
 unconscious decisions that informed how he chose to depict specific
 issues, events, and administrations.
 
-{% figure caption: "(*a*) Herbert Block, 'Reveille,' *Washington Post,* April 11, 1951." %}
+{% figure caption: "Figure 2a. Herbert Block, 'Reveille,' *Washington Post,* April 11, 1951." %}
 ![A Herblock cartoon shows a man blowing a trumpet with the words "You're president of the United States" coming out of it next to a person sleeping on a cot.](/assets/img/v01/appleford/figure2a.jpg)
 {% endfigure %}
 
-{% figure caption: "(*b*) Herbert Block, 'Whence All But He Had Fled,' *Washington Post,* June 10, 1957." %}
+{% figure caption: "Figure 2b. Herbert Block, 'Whence All But He Had Fled,' *Washington Post,* June 10, 1957." %}
 ![A Herblock cartoon depicts a ship labeled "China Embargo Policy" sinking with a person on it while a second person rows away in a smaller boat labeled "Eisenhower Comments on China Trade."](/assets/img/v01/appleford/figure2b.jpg)
 {% endfigure %}
 
@@ -136,11 +136,11 @@ Democratic administration---28.7% in 1952, an election year in which the
 incumbent president did not seek reelection as the Democratic Party's
 nominee.
 
-{% figure caption: "Percentage of Herblock cartoons depicting Democrats, Republicans, and the generic character 'Administration,' 1946--1976. *Source:* Simon Appleford, *Herblock Cartoon Database, 1946--1976.* Data available at <https://github.com/apl4d/crdh>." %}
+{% figure caption: "Figure 3. Percentage of Herblock cartoons depicting Democrats, Republicans, and the generic character 'Administration,' 1946--1976. *Source:* Simon Appleford, *Herblock Cartoon Database, 1946--1976.* Data available at <https://github.com/apl4d/crdh>." %}
 ![Line graph showing the how the percentage of cartoons that depict the democrat, republican and administration characters changed over time."](/assets/img/v01/appleford/figure3.png)
 {% endfigure %}
 
-{% figure caption: "Herbert Block, 'The Short Cool Spring,' *Washington Post,* March 27, 1968." %}
+{% figure caption: "Figure 4. Herbert Block, 'The Short Cool Spring,' *Washington Post,* March 27, 1968." %}
 ![Herblock cartoon showing a man labeled “administration spokesmen” pouring a pitcher of water and ice cubes on a stack of papers labeled “Report on the Commission on Civil Disorders."](/assets/img/v01/appleford/figure4.jpg)
 {% endfigure %}
 
@@ -172,7 +172,7 @@ the White House. While these values are relatively strong, they are
 affected by such factors as the total number of cartoons drawn each year
 and especially by the impact of presidential elections.
 
-{% figure caption: "Percentage of Herblock cartoons depicting Democrats, Republicans, and the generic character 'Administration' averaged by presidential administration, 1946--1976. *Source:* Simon Appleford, *Herblock Cartoon Database, 1946--1976.* Data available at <https://github.com/apl4d/crdh>." %}
+{% figure caption: "Figure 5. Percentage of Herblock cartoons depicting Democrats, Republicans, and the generic character 'Administration' averaged by presidential administration, 1946--1976. *Source:* Simon Appleford, *Herblock Cartoon Database, 1946--1976.* Data available at <https://github.com/apl4d/crdh>." %}
 ![Line graph showing how the percentage of Herblock cartoons depicting Democrats,Republicans, and the generic character “Administration”changed during different presidential administrations from nineteen forty-six to nineteen seventy-six."](/assets/img/v01/appleford/figure5.png)
 {% endfigure %}
 
@@ -215,7 +215,7 @@ majority of these cartoons were predominantly white, Block was
 marginally more likely to make greater use of dark shading when
 depicting southerners than he was in the corpus as a whole (figure 6).
 
-{% figure caption: "Scatter graph of median brightness of civil rights cartoons depicting southerners, 1946--1970. Red dots indicate civil rights-related cartoons that depict southerners, grey dots are all other cartoons in the corpus. The figure only depicts cartoons up until 1970 because after that year Block only drew three more cartoons that fall into this category---one in 1975 and two in 1976. The graph maps the average grayscale value for the pixels in each cartoon and are on a scale of 0--255. For example, if a cartoon is pure black, its median brightness will be 0; if a cartoon is pure white, its median brightness will be 255. *Source:* Simon Appleford, *Herblock Cartoon Database, 1946--1976.* Data available at <https://github.com/apl4d/crdh>." %}
+{% figure caption: "Figure 6. Scatter graph of median brightness of civil rights cartoons depicting southerners, 1946--1970. Red dots indicate civil rights-related cartoons that depict southerners, grey dots are all other cartoons in the corpus. The figure only depicts cartoons up until 1970 because after that year Block only drew three more cartoons that fall into this category---one in 1975 and two in 1976. The graph maps the average grayscale value for the pixels in each cartoon and are on a scale of 0--255. For example, if a cartoon is pure black, its median brightness will be 0; if a cartoon is pure white, its median brightness will be 255. *Source:* Simon Appleford, *Herblock Cartoon Database, 1946--1976.* Data available at <https://github.com/apl4d/crdh>." %}
 ![Scatter graph showing the median brightness of civil rights cartoons depicting southerners from nineteen fourty-six to nineteen-seventy.](/assets/img/v01/appleford/figure6.png)
 {% endfigure %}
 
@@ -248,7 +248,7 @@ second administration of Republican Dwight Eisenhower, this despite the
 fact that Block found himself increasingly disillusioned with Johnson's
 administration.[^11]
 
-{% figure caption: "Slopegraph of percentage of major subjects depicted in
+{% figure caption: "Figure 7. Slopegraph of percentage of major subjects depicted in
 Herblock cartoons, 1957--1960. *Source:* Simon Appleford, *Herblock
 Cartoon Database, 1946--1976.* Note the trajectory of the 'Other'
 category, which lags significantly behind the 'Eisenhower
@@ -258,7 +258,7 @@ before steadily increasing to 22.80% in 1960. Data available at
 ![Slopegraph showing how the major subjects depicted in Herblock cartoons changed during Eisenhower's second adminstration, from nineteen fifty-seven to nineteen sixty, measured by the percetage of cartoons from each topic in each year.](/assets/img/v01/appleford/figure7.png)
 {% endfigure %}
 
-{% figure caption: "Slopegraph of percentage of major subjects depicted in
+{% figure caption: "Figure 8. Slopegraph of percentage of major subjects depicted in
 Herblock cartoons, 1965--1968. *Source:* Simon Appleford, *Herblock
 Cartoon Database, 1946--1976.* Note the trajectory of the 'Other'
 category, which in 1965 is ranked second, behind the 'Johnson
