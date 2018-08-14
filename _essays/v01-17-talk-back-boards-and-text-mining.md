@@ -9,7 +9,7 @@ authors:
 - last: Howard
   first: Josh
   email: josh@passelhc.com
-  affiliation: "text"
+  affiliation: "Passel Historical Consultants"
   orcid: 0000-0002-0303-093X
   url: "https://jhowardhistory.com"
 abstract: |
@@ -58,7 +58,7 @@ distribution of data was skewed toward the present as WORI employees did
 not prioritize gathering talk-back board responses until roughly the
 past decade.
 
-{% figure caption: "SRM Talk-Back Board and part of the 'Remembrance, Reconciliation, Renewal' Exhibit (Photo by Author)" %}
+{% figure caption: "Figure 1. SRM Talk-Back Board and part of the 'Remembrance, Reconciliation, Renewal' Exhibit (Photo by Author)" %}
 ![Photograph of a talk-back board at the Seminary Ridge Museum in Gettysburg, Pennsylvania. The question reads: What do you thin is the unfinished work for freedom?](/assets/img/v01/howard/smr.jpg)
 {% endfigure %}
 
@@ -143,7 +143,7 @@ setting. Rather than interrupting the ambiance of a site many consider
 sacred, new talk-back questions could tap into such complex questions
 one piece at a time.
 
-{% figure caption: "WORI Talk-Back Board, July 2014 (Photo by Author)" %}
+{% figure caption: "Figure 2. WORI Talk-Back Board, July 2014 (Photo by Author)" %}
 ![Photograph of a talk-back board at the Women's Rights National Historical Park in Seneca Falls, New York. The question reads: What will it be like when men and women are truly equal?](/assets/img/v01/howard/wori.jpg)
 {% endfigure %}
 
@@ -244,7 +244,7 @@ Experiences, Activities and Benefits at Three Religious Tourism Sites."
 
 Chen, Chia-Li. "Representing and Interpreting Traumatic History: A Study
 of Visitor Comment Books at the Hiroshima Peace Memorial Museum."
-*Museum Management and Curatorship* 27 (2012): 379. <https://doi.org/10.1080/09647775.2012.720186>
+*Museum Management and Curatorship* 27 (2012): 379. <https://doi.org/10.1080/09647775.2012.720186>.
 
 Falk, J. H., J.J. Koran, L.D. Dierking, and L. Dreblow. "Predicting
 Visitor Behavior." *Curator* 28 (1985): 249--257. <https://doi.org/10.1111/j.2151-6952.1985.tb01753.x>
@@ -335,8 +335,8 @@ Women's Rights National Historical Park Library. Talk-Back Board Collection. Sen
     talk-back board. For example, see the programs created from 2011 to
     2013 by the Smithsonian National Museum of American History.
     National Museum of American History, "Introducing TalkBack
-    Tuesdays." National Museum of American History, "Talking Back to the
-    Museum." National Museum of American History, "Calendar of
+    Tuesdays"; National Museum of American History, "Talking Back to the
+    Museum"; National Museum of American History, "Calendar of
     Exhibition and Events National Museum of American History December
     2015."
 
@@ -360,7 +360,7 @@ Women's Rights National Historical Park Library. Talk-Back Board Collection. Sen
 
 [^10]: Bond, Packer, and Ballantyne, "Exploring Visitor Experiences," 471--481.
 
-[^11]: Women's Rights National Historical Park (WORI), "The Good, the Bad, and the Funny;" WORI, "Melissa Grace Park---Music Event," WORI, "WORI to Hold Discussion in Commemoration of LGBT Month."
+[^11]: Women's Rights National Historical Park (WORI), "The Good, the Bad, and the Funny"; WORI, "Melissa Grace Park---Music Event"; WORI, "WORI to Hold Discussion in Commemoration of LGBT Month."
 
 [^12]: Frank, *Awakening*, 272--276.
 
