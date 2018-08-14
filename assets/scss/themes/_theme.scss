@@ -34,23 +34,38 @@ h3, h4, h5, h6 {
 }
 
 blockquote {
-    font-size: 2 * $base-font-size;
+    color: #000;
+    padding: 1rem 2rem;
     border-left: 0;
-    padding: 0 3rem;
+}
+
+blockquote p {
+    color: #000;
 }
 
 figure {
     text-align: center;
-    margin: (2 * $card-margin-bottom) 0;
+    margin: (4 * $card-margin-bottom) 0;
 }
+
 
 article.essay figure img {
     margin: 0 0 $paragraph-margin-bottom;
 }
 
+figure iframe {
+    background-color: transparent;
+    border: 0px none transparent;
+    padding: 0px;
+    overflow: hidden;
+    width: 100%;
+}
+
 figcaption {
-    font-weight: 700;
-    letter-spacing: 1px;
+    border-top: 5px solid #000;
+    padding: 1rem;
+    border-bottom: 1px solid #000;
+    text-align: left;
 }
 
 header,
@@ -115,6 +130,12 @@ div.essay .abstract {
     margin-bottom: $paragraph-margin-bottom;
 }
 
+.abstract + blockquote {
+    font-size: 2 * $base-font-size;
+    border-left: 0;
+    padding: 0 3rem;
+}
+
 .volume {
     position: relative;
     margin-bottom: $card-margin-bottom;
@@ -145,6 +166,11 @@ div.essay .abstract {
 
 article.essay img {
     margin: (2 * $card-margin-bottom) 0;
+}
+
+article.essay img.orcid {
+    margin: 0 .25rem .5rem 0;
+    display: inline-block;
 }
 
 .essay-header {
