@@ -82,7 +82,7 @@ metropolitan area as a device for displaying the migrations of the Brown
 Bros. workforce and incorporates brief biographies of each of the staff
 members found in the Census data.[^6] 
 
-{% figure caption: "Map of Worker Moblity in New York City. The red dots represent workers' locations in 1900. The green dots represent workers' locations in 1910. " %}
+{% figure caption: "Figure 1. Map of Worker Moblity in New York City. The red dots represent workers' locations in 1900. The green dots represent workers' locations in 1910. " %}
 ![A map of New York City, showing the location of workers in the years nineteen hundred and nineteen hundred and ten](/assets/img/v01/pertilla/map.jpg)
 {% endfigure %}
 
@@ -121,6 +121,8 @@ roughly comparable with other published studies of migration that use
 demographic records.[^12] Three-quarters of the 20 women working at
 Brown Bros. in either 1900 or 1910 were found in both Censuses.
 
+**Summary of Brown Bros. Census records database**
+
 || Total | Subtotal | Men | Women |
 |---|:---:|:---:|:---:|:---:|
 | Two records found: | 72 || 57 | 15|
@@ -132,8 +134,6 @@ Brown Bros. in either 1900 or 1910 were found in both Censuses.
 | ------ Emigrated, immigrated, or died || 4 | 4 ||       
 | No records found | 8 || 6 | 2 |        
 | Total number of employees | 123 || 103 | 20 |       
-
-Summary of Brown Bros. Census records database  
 
 Data on the 49 employees who were in the American workforce in both 1900
 and 1910 sheds light on the development of a metropolitan landscape
