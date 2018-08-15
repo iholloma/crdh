@@ -8,21 +8,23 @@ year: 2018
 authors:
 - last: Galbreath
   first: Marcy L.
-  email: marcyg@ucf.edu
+  email: marcy.galbreath@ucf.edu
   affiliation: "Department of Writing and Rhetoric, University of Central Florida"
   orcid: 0000-0001-5410-8007
-  url: ""
+  url: "http://writingandrhetoric.cah.ucf.edu/staff.php?id=807"
 - last: Giroux
   first: Amy L.
-  email: 
+  email: amy.giroux@ucf.edu
   affiliation: "The Center for Humanities and Digital Research, University of Central Florida"
   orcid: 0000-0002-5417-5311
-  url: ""
+  url: "http://humanities-kaleidoscope.net"
 abstract: |
-  In the late 19th and early 20th centuries, agriculture was not keeping pace with other areas of the U.S. economy, prompting the creation of institutions such as land-grant colleges, experiment stations and the extension service. The modernizing trends underlying these institutions, intended to promote specialized education and standardized practices, arose out of the ideologies of progressivism and represented a response to rapidly changing social dynamics. Political acts directed at farming signaled the increasing role of a federal bureaucracy intent on managing the development of the agricultural sector, and the written communications, or genres, employed in the effort reveal the interactions between institutions and local communities. Farm and 4-H record books, extension service genres, had direct contact with, and effects upon, farming communities, and were thus able to influence farmers and future farmers by establishing progressive ideas of commerce, science, and technology. In this paper we argue that traces of these institutional knowledge transmission efforts can be charted through the promotion of the farm and 4-H record book in newspapers of the time, and that combining genre analysis with a targeted digital search interface can illuminate these traces and enhance other qualitative methods.
+  In the late 19th and early 20th centuries, agriculture was not keeping pace with other areas of the U.S. economy, prompting the creation of institutions such as land-grant colleges, experiment stations and the extension service. The modernizing trends underlying these institutions, intended to promote specialized education and standardized practices, arose out of the ideologies of progressivism and represented a response to rapidly changing social dynamics. Political acts directed at farming signaled the increasing role of a federal bureaucracy intent on managing the development of the agricultural sector, and the written communications, or genres, employed in the effort reveal the interactions between institutions and local communities. Farm and 4-H record books—extension service genres—had direct contact with, and effects upon, farming communities, and were thus able to influence farmers and future farmers by establishing progressive ideas of commerce, science, and technology. In this paper we argue that traces of these institutional knowledge transmission efforts can be charted through the promotion of the farm and 4-H record book in newspapers of the time, and that combining genre analysis with a targeted digital search interface can illuminate these traces and enhance other qualitative methods.
 appendix:
 - name: Data archive
   file: galbreath-v01/galbreath-giroux-data.zip
+preview image: 
+- file: /assets/img/v01/galbreath/preview.png
 ---
 
 While much of U.S. industry experienced increased productivity and
@@ -108,7 +110,7 @@ analysis of the times and contexts in which record books are mentioned
 in *ChronAm* newspapers, not a rhetorical analysis of actual record
 books.
 
-{% figure caption: "Figure 1. Screenshot of [Historical Agricultural News](http://ag-news.net) search screen. An article-level algorithm facilitates targeted searches of the Chronicling America database for agricultural topics." %}
+{% figure caption: "Figure 1. Screenshot of [*Historical Agricultural News*](http://ag-news.net) search screen. An article-level algorithm facilitates targeted searches of the *Chronicling America* database for agricultural topics." %}
 ![A screenshot of the search screen for the Historical Agricultural News website](/assets/img/v01/galbreath/figure1.png)
 {% endfigure %}
 
@@ -208,7 +210,7 @@ These were captured through a downloadable spreadsheet that contains
 citation information, the article text, and a link to the original
 newspaper page.
 
-{% figure caption: "Figure 4. Spreadsheet from farm record search in Historical Agricultural News. The Body column contains Optical Character Recognition, or OCR, text from the articles identified in the search. The Link column has the URL that leads back to the original newspaper item in Chronicling America." %}
+{% figure caption: "Figure 4. Spreadsheet from farm record search in *Historical Agricultural News*. The Body column contains Optical Character Recognition, or OCR, text from the articles identified in the search. The Link column has the URL that leads back to the original newspaper item in *Chronicling America*." %}
 ![Screenshot of an Excel spreadsheet of the data retrieved during a search for farm records through the Historical Agricultural News website.](/assets/img/v01/galbreath/figure4.png)
 {% endfigure %}
 
@@ -225,15 +227,15 @@ success, bank approvals, and income tax verification, and one carries a
 stern warning of lost work days and fines from "not furnish[ing] a
 proper report to the income tax collector."[^29]
 
-{% figure caption: "Figure 5. “Oregon Farm Records Meet Bankers approval,” *Ashland Tidings* (Ashland, OR), March 7, 1919, [Chronicling America](https://chroniclingamerica.loc.gov/lccn/sn85042399/1919-03-07/ed-1/seq-8/pdf). This example, promoting the farm record book, shows the connections between the different institutions of agricultural college, financial instutions, farm bureau, and Internal Revenue Service. Farmers are encouraged to use the record book not just to build a successful business, but also as a way to establish credibility with the bank and verifiability with the IRS." %}
+{% figure caption: "Figure 5. “Oregon Farm Records Meet Bankers approval,” *Ashland Tidings* (Ashland, OR), March 7, 1919, [*Chronicling America*](https://chroniclingamerica.loc.gov/lccn/sn85042399/1919-03-07/ed-1/seq-8/pdf). This example, promoting the farm record book, shows the connections between the different institutions of agricultural college, financial instutions, farm bureau, and Internal Revenue Service. Farmers are encouraged to use the record book not just to build a successful business, but also as a way to establish credibility with the bank and verifiability with the IRS." %}
 ![Black and white image of newspaper article entitled "Oregon Farm Records Meet Bankers Approval"](/assets/img/v01/galbreath/figure5.png)
 {% endfigure %}
 
-{% figure caption: "Figure 6. “Wants Record Kept,” *Rogue River Courier* (Grants Pass, OR), March 12, 1917, [Chronicling America](http://chroniclingamerica.loc.gov/lccn/sn96088180/1917-03-12/ed-1/seq-3/pdf). This early example from the HAN search shows how the extension service advertised the utility of the farm record book. Words such as “simple” and “free of charge” are meant to encourage farmers to attend demonstrations. Also visible in this article is the tracking and inventory the extension service will conduct at the end of the year, when the “books will be taken up and summarized.”" %}
+{% figure caption: "Figure 6. “Wants Record Kept,” *Rogue River Courier* (Grants Pass, OR), March 12, 1917, [*Chronicling America*](http://chroniclingamerica.loc.gov/lccn/sn96088180/1917-03-12/ed-1/seq-3/pdf). This early example from the *HAN* search shows how the extension service advertised the utility of the farm record book. Words such as “simple” and “free of charge” are meant to encourage farmers to attend demonstrations. Also visible in this article is the tracking and inventory the extension service will conduct at the end of the year, when the “books will be taken up and summarized.”" %}
 ![Black and white image of newspaper article entitled "Wants Record Kept of Farm Expenses"](/assets/img/v01/galbreath/figure6.png)
 {% endfigure %}
 
-{% figure caption: "Figure 7. “Farm Bureau Notes,” *The Leon Reporter* (Leon, IA), January 15, 1920, [Chronicling America](http://chroniclingamerica.loc.gov/lccn/sn87057096/1920-01-15/ed-1/seq-3/pdf). In this example, the benefits of keeping a farm account book are combined with the idea that teaching these methods to boys will ensure the continuation of family farming by “keep[ing] those same boys on the farm.”" %}
+{% figure caption: "Figure 7. “Farm Bureau Notes,” *The Leon Reporter* (Leon, IA), January 15, 1920, [*Chronicling America*](http://chroniclingamerica.loc.gov/lccn/sn87057096/1920-01-15/ed-1/seq-3/pdf). In this example, the benefits of keeping a farm account book are combined with the idea that teaching these methods to boys will ensure the continuation of family farming by “keep[ing] those same boys on the farm.”" %}
 ![Black and white image of newspaper article about the benefits of keeping a farm record book](/assets/img/v01/galbreath/figure7.png)
 {% endfigure %}
 
@@ -255,7 +257,7 @@ the poultry market in Florida and one of the requirements of which were
 "the keeping of accurate records of the amount of feed, labor, number of
 eggs produced, chickens raised, marketed, etc."[^32]
 
-{% figure caption: "Figure 8. “Union County Boys and Girls Clubs Make Superb Record During the Past Year,” *Clayton News* (Clayton, NM), Dec. 1, 1917, [Chronicling America](http://chroniclingamerica.loc.gov/lccn/sn93061573/1917-12-01/ed-1/seq-1/pdf). The project record is a large part of judging criteria for the competitions involving Boys and Girls Clubs, prizes for which included cash awards and trips to the annual state Boys and Girls Club camp." %}
+{% figure caption: "Figure 8. “Union County Boys and Girls Clubs Make Superb Record During the Past Year,” *Clayton News* (Clayton, NM), Dec. 1, 1917, [*Chronicling America*](http://chroniclingamerica.loc.gov/lccn/sn93061573/1917-12-01/ed-1/seq-1/pdf). The project record is a large part of judging criteria for the competitions involving Boys and Girls Clubs, prizes for which included cash awards and trips to the annual state Boys and Girls Club camp." %}
 ![Black and white image of newspaper article about Boys and Girls club work](/assets/img/v01/galbreath/figure8.png)
 {% endfigure %}
 
