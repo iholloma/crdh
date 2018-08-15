@@ -14,6 +14,8 @@ authors:
   url: "http://erinbush.org/"
 abstract: |
   This article examines the reactions of Virginia’s public welfare reformers to fears about the rise of prostitution and sex delinquency near state military training facilities during World War I. By visualizing data derived from the admissions logs of Virginia’s two segregated female reformatories, this article argues that the war provided the needed rationale to fund the expansion of state institutions and their programs to reform delinquent girls. Additionally, maps of the data show that the social engineering that targeted delinquent girls in Virginia spread beyond both its war camps and its cities into the mountains and other rural areas of the state. Scholars studying the history of female delinquency have argued that the vast majority of girls targeted for behavioral rehabilitation in the early twentieth century were typically poor, urban-dwelling daughters of working-class or immigrant parents. Virginia's predominantly rural setting complicates our understanding of female delinquency as a problem stemming primarily from the challenges of vast urbanization. The case of Virginia suggests that delinquency studies to date may have been too urban in their focus, failing to see that rural communities were also targeting girls for incarceration and reform.
+preview image: 
+- file: /assets/img/v01/bush/preview.png
 ---
 
 When the United States government called its young men to duty to
@@ -111,7 +113,6 @@ after the war ended.
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTl2T-yY3A5q2gBRrsTdEdXeI_Uv0Q41T5YvZGZFaRuaEyRYI7OeZIg9B2B2P5AmHAvHtTSokg0aARi/pubchart?oid=1402910081&amp;format=interactive" width="900" height="533" frameborder="0" scrolling="no" seamless=""></iframe>
 <figcaption>Figure 1. Total Admittance by Year. Admittance totals by year signal a significant shift beginning in 1919. After 1919, admittance rates tripled for Bon Air (blue) and doubled for Peake's Turnout (red). This shift created a new baseline admittance rate that held steady throughout the 1920s and 1930s.</figcaption>
 </figure>
-<br>
 
 Although the perception of a war-time delinquency crisis increased
 public attention and funds to reformatory institutions, Virginia's two
@@ -191,7 +192,6 @@ other rural areas of Virginia.[^21]
 <iframe src="https://erinbush19.carto.com/builder/13473ba1-1bd9-4780-85b1-fcff71be8a4b/embed" width="100%" height="520" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <figcaption>Figure 2. War-Time Admittance. War-time admittance logs indicate that despite efforts to address war-related delinquency, war camp cities sentenced less than one-third (12 of 42 total) of all girls incarcerated during 1918. Instead, 52 percent (22) of reprobates originated in Richmond. The remaining girls originated in the western mountains along the Blue Ridge. Total admittance is scaled by volume and is represented by green points; gray points represent the seven war camp cities. Click on all points for more information.</figcaption>
 </figure>
-<br>
 
 During 1918, 42 girls were admitted to a reformatory. As indicated by
 figure 2, less than one-third (12) of the inmates incarcerated during
@@ -211,7 +211,6 @@ camps.[^23]
 <iframe src="https://erinbush19.carto.com/builder/7d85db88-744a-414b-9d6e-3737256b619c/embed" width="100%" height="520" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <figcaption>Figure 3. Post-War Admittance. After the war, commitments from Norfolk and Petersburg, both war camp cities, increased. Richmond's influence decreased from 52 percent (22 of 42 total) during the war to only 31 percent (57 of 182 total) after. Rural cities and towns in the western mountain areas and to the southwest of Petersburg committed more than one-third (61) of the delinquent girls admitted in 1919 and 1920. Total admittance is scaled by volume and is represented by green points; gray points represent the seven war camp cities. Click on all points for more information.</figcaption>
 </figure>
-<br>
 
 In the two years following the war, 182 girls total were admitted to the
 girls' reformatories in the state. As seen in Figure 3, Richmond's
@@ -295,17 +294,17 @@ unique "girl problem," especially in terms of race and class.
 
 ### Bibliography
 
-Additon, Henrietta S. "Work Among Delinquent Women and Girls." *The Annals of the American Academy of Political and Social Science* 79 (1918).
+Additon, Henrietta S. "Work Among Delinquent Women and Girls." *The Annals of the American Academy of Political and Social Science* 79 (1918): 152--160. <https://doi.org/10.1177/000271621807900116>.
 
 Alexander, Ruth M. *The "Girl Problem": Female Sexual Delinquency in New York, 1900-1930*. Ithaca: Cornell University Press, 1995. 
 
-*Annual Report of the Industrial Home School for Colored Girls*. The Library of Virginia.
+Barrett Juvenile Correctional Center (Hanover Va.), Records, 1915-2001. State government records collection, The Library of Virginia.
 
-Bon Air Learning Center (Va.) Office of the Superindentent. Minutes and Reports, 1913-1926. State government records collection. The Library of Virginia.
+Bon Air Learning Center (Va.) Office of the Superindentent. Minutes and Reports, 1913-1926. State government records collection, The Library of Virginia.
 
 Bristow, Nancy K. *Making Men Moral: Social Engineering During the Great War*. New York: New York University Press, 1996.
 
-Bush. Erin N. *Full Virginia Reform School Admittance by Origin 1918-1920*. Unpublished raw data, 2017. <https://docs.google.com/spreadsheets/d/1cssV5hVD1Y9aCWVpvUWWimHgISmptHkVgfIO230hKFM/edit#gid=0>
+Bush. Erin N. *Full Virginia Reform School Admittance by Origin 1918-1920*. Unpublished raw data. 2017. <https://docs.google.com/spreadsheets/d/1cssV5hVD1Y9aCWVpvUWWimHgISmptHkVgfIO230hKFM/edit#gid=0>.
 
 Bush, William S. *Who Gets a Childhood: Race and Juvenile Justice in Twentieth-Century Texas*. Athens: University of Georgia Press, 2010.
 
@@ -313,7 +312,7 @@ Cahn, Susan K. *Sexual Reckonings: Southern Girls in a Troubling Age*. Cambridge
 
 Dabney, Virginius. *Virginia the New Dominion: A History from 1607 to the Present*. Charlottesville: University of Virginia Press, 1971.
 
-Falconer, Martha P. "The Segregation of Delinquent Women and Girls as a War Problem." *The Annals of the American Academy of Political and Social Science* 79 (1918): 160--66.
+Falconer, Martha P. "The Segregation of Delinquent Women and Girls as a War Problem." *The Annals of the American Academy of Political and Social Science* 79 (1918): 160--66. <https://doi.org/10.1177/000271621807900117>.
 
 Odem, Mary. *Delinquent Daughters: Protecting and Policing Adolescent Female Sexuality in the United States, 1885-1920*. Chapel Hill: University of North Carolina Press, 1995.
 
@@ -323,7 +322,9 @@ Schlossman, Steven, and Stephanie Wallach. "The Crime of Precocious Sexuality
 
 Trost, Jennifer. *Gateway to Justice: The Juvenile Court and Progressive Child Welfare in a Southern City*. Athens: University of Georgia Press, 2005.
 
-U.S. Census Bureau. *Census*. 1910 and 1920. Population and Housing, Virgina. <https://www.census.gov/prod/www/decennial.html>.
+U.S. Census Bureau. *Census 1910--1920. Population and Housing. <https://www.census.gov/prod/www/decennial.html>.
+
+Virginia Home and Industrial School for Girls. *Annual Reports*. Richmond, 1918--1919. The Library of Virginia.
 
 Virginia State Board of Charities and Corrections. *Annual Report of the Board of Charities and Corrections to the Governor of Virginia for the Year Ending...*. Richmond: Davis Bottom, Supt. of Public Printing, 1917--1921. <https://babel.hathitrust.org/cgi/mb?a=listis&c=1239185609>.
 
