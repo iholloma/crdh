@@ -14,6 +14,8 @@ authors:
   url: "https://jamesperry.uk/"
 abstract: |
   The settlement of foreign-born migrant communities in London has received considerable scholarly attention. Using the recently released Integrated Census Microdata, this article contributes to the literature as it argues that individualised mapping processes can reveal distinct settlement patterns within migrant communities. Furthermore, it is demonstrated that migrants were highly mobile entities and that communities continuously underwent radical transformations. Two areas of East London are used as case studies to highlight the different behaviours exhibited by migrant groups during a period of intense arrival and settlement. These neighbourhoods were selected on account of the availability of geo-spatial and census data. After processing in a Geographic Information System, data is explored and mapped to illustrate the concentration and composition of individual properties. Ultimately, this article presents evidence of tight migrant clustering and the gradual expansion of migrants as they eventually settle entire streets. The decennial changes highlight some form of interchange. As migrants left one subsection, they moved to another. Although the literature indicated and suggested strong tendencies of residential clustering, this research has demonstrated the complexities of this point and revealed a number of previously unexplored behaviours.
+preview image: 
+- file: /assets/img/v01/murdock/preview.png
 ---
 
 ### I. Introduction
@@ -97,7 +99,7 @@ becoming an important space for socialising and interacting.[^7]
 Although the subsections differed, they are representative of the local
 area.
 
-{% figure caption: "Overview of East London" %}
+{% figure caption: "Figure 1. Overview of East London" %}
 ![A map of East London with an overlay showing subsect one and subsect two](/assets/img/v01/perry/east-london.jpg)
 {% endfigure %}
 
@@ -147,13 +149,21 @@ absorbed migrants, and clear evidence of congregating can be observed in
 the map of 1911. Within thirty years, the neighbourhood underwent
 profound changes, with the population radically changing in composition.
 
-![A map of subset one in the year eighteen hundred and eighty-one, showing absence of foreign-born persons, with only a scattering of isolated migrants](/assets/img/v01/perry/1881subset1.jpg)
+{% figure caption: "Figure 2. Case Study, Subsect 1, 1881" %}
+![A map of subsect one in the year eighteen hundred and eighty-one, showing absence of foreign-born persons, with only a scattering of isolated migrants](/assets/img/v01/perry/1881subsect1.jpg)
+{% endfigure %}
 
-![A map of subset one in the year eighteen hundred and ninety-one, showing the emergence of migrant clustering](/assets/img/v01/perry/1891subset1.jpg)
+{% figure caption: "Figure 3. Case Study, Subsect 1, 1891" %}
+![A map of subsect one in the year eighteen hundred and ninety-one, showing the emergence of migrant clustering](/assets/img/v01/perry/1891subsect1.jpg)
+{% endfigure %}
 
-![A map of subset one in the year nineteen hundred and one, showing minor segregating behaviour and the dominance of Russian migrants](/assets/img/v01/perry/1901subset1.jpg)
+{% figure caption: "Figure 4. Case Study, Subsect 1, 1901" %}
+![A map of subsect one in the year nineteen hundred and one, showing minor segregating behaviour and the dominance of Russian migrants](/assets/img/v01/perry/1901subsect1.jpg)
+{% endfigure %}
 
-![A map of subset one in the year nineteen hundred and eleven, showing an increase in the clustering of migrants](/assets/img/v01/perry/1911subset1.jpg)
+{% figure caption: "Figure 5. Case Study, Subsect 1, 1911" %}
+![A map of subsect one in the year nineteen hundred and eleven, showing an increase in the clustering of migrants](/assets/img/v01/perry/1911subsect1.jpg)
+{% endfigure %}
 
 ### IV. Subsect Two
 
@@ -192,13 +202,21 @@ As was noted, 'All were described by the police as foreign Jews, natives
 of Russian and Austrian Poland.' The apprehended all gave addresses in
 Spitalfields, which included streets in subsect two.[^10]
 
-![A map of subset two in the year eighteen hundred and eighty-one, showing segregating behaviour, espcially amoung migrants from Poland and Holland](/assets/img/v01/perry/1881subset2.jpg)
+{% figure caption: "Figure 6. Case Study, Subsect 2, 1881" %}
+![A map of subsect two in the year eighteen hundred and eighty-one, showing segregating behaviour, espcially amoung migrants from Poland and Holland](/assets/img/v01/perry/1881subsect2.jpg)
+{% endfigure %}
 
-![A map of subset two in the year eighteen hundred and ninety-one, showing less segregating behaviour](/assets/img/v01/perry/1891subset2.jpg)
+{% figure caption: "Figure 7. Case Study, Subsect 2, 1891" %}
+![A map of subsect two in the year eighteen hundred and ninety-one, showing less segregating behaviour](/assets/img/v01/perry/1891subsect2.jpg)
+{% endfigure %}
 
-![A map of subset two in the year nineteen hundred and one, showing an increase in the native born and second generation migrant population](/assets/img/v01/perry/1902subset1.jpg)
+{% figure caption: "Figure 8. Case Study, Subsect 2, 1901" %}
+![A map of subsect two in the year nineteen hundred and one, showing an increase in the native born and second generation migrant population](/assets/img/v01/perry/1901subsect2.jpg)
+{% endfigure %}
 
-![A map of subset two in the year nineteen hundred and eleven, showing a sizeable porportion of the remaining foreign-born population residing in a cluster on one side of Freeman Street](/assets/img/v01/perry/1911subset2.jpg)
+{% figure caption: "Figure 9. Case Study, Subsect 2, 1911" %}
+![A map of subsect two in the year nineteen hundred and eleven, showing a sizeable porportion of the remaining foreign-born population residing in a cluster on one side of Freeman Street](/assets/img/v01/perry/1911subsect2.jpg)
+{% endfigure %}
 
 ### V.
 
@@ -289,7 +307,7 @@ the Institute of British Geographers* 10, no. 3 (1985): 360-376.
 Rule, Fiona. *The Worst Street in London*. London: Ian Allen, 2008.
 
 "The Tenter Ground Estate." In *Survey of London, vol. 27, Spitalfields
-and Mile End New Town*, edited by F. H. W. Sheppard, 242-244. London: London County Council, 1957. Accessed 15 May 2018. British History. <http://www.british-history.ac.uk/survey-london/vol27/pp242-244>
+and Mile End New Town*, edited by F. H. W. Sheppard, 242-244. London: London County Council, 1957. Accessed 15 May 2018. British History. <http://www.british-history.ac.uk/survey-london/vol27/pp242-244>.
 
 *The Times*. "From A Correspondent. Alien London To-Day." March 16,
 1911.
