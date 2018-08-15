@@ -8,7 +8,7 @@ year: 2018
 authors:
 - last: Pertilla
   first: Atiba
-  email: pertilla@ghi-dc.org
+  email: pertilla@gscho.net
   affiliation: "German Historical Institute"
   orcid: 0000-0003-4424-1298
   url: "https://www.ghi-dc.org/ghi-staff/research-fellows/atiba-pertilla.html"
@@ -17,6 +17,8 @@ abstract: |
 appendix:
 - name: Data archive
   file: pertilla-v01/pertilla-data.csv
+preview image: 
+- file: /assets/img/v01/pertilla/preview.png
 ---
 
 "Mapping Mobility" uses a database of the homes of the Wall Street
@@ -43,7 +45,7 @@ United States' metropolitan areas, 23% of New York's banking workers
 lived there.[^1]
 
 Previous researchers into the lives of white-collar workers have
-typically had to decide whether to focus on the workplace or the home.
+usually had to decide whether to focus on the workplace or the home.
 White-collar workers tend to be broadly scattered, making data
 collection more difficult in an era before easily accessible digitized
 sources. Spatial analyses of the white-collar workforce have typically
@@ -146,7 +148,7 @@ shirking their destiny to become wives and mothers, closer examination
 of the seven women's households suggests their decision to work was
 attributable to fulfilling familial obligations. The average salary of
 female Brown Bros. workers was $1,000, far higher than what
-stenographers in other cities earned and also the $800 mark considered
+stenographers in other cities earned and also than the $800 mark considered
 a desirable working-class "family wage."[^15] At a time when one in five
 working women in New York was a boarder or a lodger, all seven women
 lived with family members.[^16] In fact, among the eighteen women
@@ -159,12 +161,12 @@ The handful of experiences in the Brown Bros. data suggest that women in
 the white-collar workforce took on responsibility for their relatives
 that might well entail moving a considerable distance. This attachment
 produced two different patterns in the data. One pattern was of class
-stasis:the four working women who lived in urban New York in both years
+stasis: the four working women who lived in urban New York in both years
 were in the same houses in 1910 as they had been in 1900, and all were
 living with family members. In a period when moving indicated class
 mobility, this suggests women's salaries were necessary for maintaining
 their families' homes and status. The other pattern found is of women
-moving with or joining family members in New York. Frances Kingsland,
+moving with or joining family members in New York City. Frances Kingsland,
 for example, a schoolteacher in western New York in 1900, moved to
 Harlem with her widowed mother; Helen Heydinger, who in 1900 was a
 stenographer living on her own in Boston, a decade later was working at
@@ -175,8 +177,7 @@ they were seen as fulfilling their "natural" role as homemakers even as
 they left the home to earn the income to sustain it.[^18]
 
 Meredith Waterbury's experiences further illustrate this pattern.
-Waterbury, who joined the firm in 1904 and became the head of the
-firm's stenography department in 1909, was a unique example of an adult
+Waterbury, who joined the firm in 1904 and became the head of its stenography department in 1909, was a unique example of an adult
 woman who was not in the workforce in 1900 but later entered it. In
 1900, she was living near West 131st Street in Harlem with her husband,
 Sherman, a jewelry salesman. The 1905 New York State Census shows the
@@ -190,14 +191,14 @@ support herself and her son.
 
 The women whose salaries supported their families were not acknowledged
 as "breadwinners" and the Brown Bros. salary data show that while they
-often hired with larger salaries than men they were less likely than men
+were often hired with larger salaries than men they were less likely than men
 to enjoy substantial salary increases over the following years. The
 digitized government records available within Ancestry.com suggest that
 working women turned to each other for support. Thus, the 1915 New York
 state census reveals that Meredith Waterbury and Gertrude Hulst, who had
 worked alongside her at Brown Bros. from 1906 to 1909, were lodgers of a
 family living on West 70th Street.[^19] Similarly, a digitized U.S.
-State Department passport reveals that when Waterbury sought to become
+State Department passport shows that when Waterbury sought to become
 an American Red Cross nurse in France in summer 1917, she turned to
 Amelia A. Thompson, another stenographer at Brown Bros., to affirm her
 identity.[^20] Thompson, in turn, was recorded in a 1928 passenger
@@ -313,7 +314,7 @@ Wall Street Workforce, 1890--1914." Updated May 25, 2018.
 <http://gscho.net/scalar/mapping-clerks/index>.
 
 Ruggles, Steven, Katie Genadek, Ronald Goeken, Josiah Grover, and
-Matthew Sobek. *Integrated Public Use Microdata Series: Version 7.0*. Accessed May 21, 2018). Minneapolis: University of Minnesota, 2017. <https://doi.org/10.18128/D010.V7.0>.
+Matthew Sobek. *Integrated Public Use Microdata Series: Version 7.0*. Accessed May 21, 2018. Minneapolis: University of Minnesota, 2017. <https://doi.org/10.18128/D010.V7.0>.
 
 Srole, Carole. *Transcribing Class and Gender: Masculinity and
 Femininity in Nineteenth-Century Courts and Offices*. Ann Arbor, MI:
