@@ -51,6 +51,8 @@ figure {
 
 article.essay figure img {
     margin: 0 0 $paragraph-margin-bottom;
+    max-height: 90vh;
+    width: auto;
 }
 
 figure iframe {
