@@ -13,7 +13,9 @@ authors:
   orcid: 0000-0002-1894-1058
   url: "http://history.scotfrench.com"
 abstract: |
-  Between 1785, when the first English-language edition of <em>Notes on the State of Virginia</em> was published, and January 1826, less than six months before his death at Monticello, Thomas Jefferson and his Virginia-born friend and "adoptive son," William Short, engaged in a remarkable conversation about the fate of blacks in Virginia's post-emancipation future. From their respective posts in Europe and United States, they discussed issues of race, slavery, emancipation, agricultural reform, and alternative labor systems based on European models (<em>villeinage</em> or serfdom, and <em>metayage</em>, or sharecropping). Both men observed the condition of Europe's white laboring poor while serving there as diplomats in the 1780s; both recognized the dangers posed by slavery in the Haitian Revolution of the 1790s and Gabriel's Rebellion of 1800; and both expressed a desire to experiment with new labor systems that could provide a way out of slavery while preserving the agricultural basis of Virginian and American society. Yet they differed pointedly on the racial destiny of African Americans and the best path to a post-emancipation society in Virginia. Short directly challenged Jefferson's views on black inferiority and questioned his continuing support for the colonization/expatriation/expopulation of blacks as the only viable alternative to slavery.
+  Between 1785, when the first English-language edition of <em>Notes on the State of Virginia</em> was published, and January 1826, less than six months before his death at Monticello, Thomas Jefferson and his Virginia-born friend and "adoptive son," William Short, engaged in a remarkable conversation about the fate of blacks in Virginia's post-emancipation future. From their respective posts in Europe and United States, they discussed issues of race, slavery, emancipation, agricultural reform, and alternative labor systems based on European models (<em>villeinage</em>, or serfdom, and <em>metayage</em>, or sharecropping). Both men observed the condition of Europe's white laboring poor while serving there as diplomats in the 1780s; both recognized the dangers posed by slavery in the Haitian Revolution of the 1790s and Gabriel's Rebellion of 1800; and both expressed a desire to experiment with new labor systems that could provide a way out of slavery while preserving the agricultural basis of Virginian and American society. Yet they differed pointedly on the racial destiny of African Americans and the best path to a post-emancipation society in Virginia. Short directly challenged Jefferson's views on black inferiority and questioned his continuing support for the colonization/expatriation/expopulation of blacks as the only viable alternative to slavery.
+preview image: 
+- file: /assets/img/v01/french/preview.png
 ---
 
 Thomas Jefferson's views on race and slavery are well known to
@@ -59,7 +61,7 @@ correspondence, as presented in the digital companion to this article,
 reveals the frustration Short experienced in urging Jefferson to
 reconsider his views and the strategic thinking behind Short's
 ideological retreat from European-style abolition to a more
-Jefferson-friendly plan of gradual reform and amelioration.[^4]
+Jefferson-friendly plan of gradual reform and amelioration.
 
 Jefferson's public speculations on black inferiority and his insistence
 that slaves, when freed, must "be removed beyond the reach of mixture"
@@ -74,19 +76,18 @@ Jefferson wrote Banneker a polite, if somewhat opaque, reply: "No body
 wishes more than I do to see such proofs as you exhibit, that nature has
 given to our black brethren talents equal to those of other colors of
 men, & that the appearance of a want of them is owing merely to the
-degraded condition of their existence both in Africa & America."[^5]
+degraded condition of their existence both in Africa & America."[^4]
 Yet, privately, as historian Winthrop Jordan and others have observed,
 Jefferson "could not rid himself of the suspicion that the Negro was
 naturally inferior." Jefferson rejected evidence of Negro "genius" as
 anecdotal or---worse---fabricated by friends of the race, and he held
 fast to his insistence on the colonization of emancipated slaves and
 free blacks as the only viable solution to the inextricably intertwined
-problems of race and slavery in Virginia.[^6]
+problems of race and slavery in Virginia.[^5]
 
 Perhaps the most sustained critique of Jefferson's views came from
-within his own inner circle. Short -- who born to a prominent
-slaveholding family in Surry County, Virginia, and related to Jefferson
-by marriage---enjoyed many of the same social privileges and political
+within his own inner circle. Short---who was born to a prominent
+slaveholding family in Surry County, Virginia, and was related to Jefferson by marriage---enjoyed many of the same social privileges and political
 advantages as his mentor. Like Jefferson, Short attended the College of
 William & Mary, where he studied moral philosophy and became a founding
 member of the Society of Phi Beta Kappa. Like Jefferson, Short studied
@@ -99,12 +100,12 @@ he had inherited from his father, left the Commonwealth of
 Virginia---never to settle there again---and moved to Paris to serve as
 Jefferson's private secretary. There he embraced radical ideas on human
 freedom and equality and questioned the idea of race at the foundation
-of America's slave society.[^7]
+of America's slave society.[^6]
 
 While in Paris, Short's clerical duties included the preparation of
 Jefferson's *Notes* for their first authorized publication. "Suffice it
 to say," writes Short's biographer, George Green Shackelford, "that
-William Short was proof-reader and copy-boy for this undertaking."[^8]
+William Short was proof-reader and copy-boy for this undertaking."[^7]
 It is clear, from their correspondence during their joint European
 residency (1784--88), that Short embraced Jefferson's idea of replacing
 slave with free labor, but rejected Jefferson's insistence that blacks
@@ -112,15 +113,15 @@ be removed "beyond the reach of mixture" as a condition of their
 freedom. In a letter to Jefferson dated October 2, 1788, Short reports
 on his investigation into the European agricultural labor system of
 *metairie* (sharecropping) and comments on the prospects for
-transforming "our slaves" into *metayers* on the French model.[^9]
+transforming "our slaves" into *metayers* on the French model.[^8]
 Likewise, in a letter dated October 28, 1788, Short reports that the
 Milanois system of sharecropping is "less complicated in one respect
 than in France, and of course better for the genius of the
-negroes."[^10] Where Jefferson saw no viable future for blacks in
+negroes."[^9] Where Jefferson saw no viable future for blacks in
 Virginia, Short envisioned a permanent place for them as sharecroppers
 and tenant farmers in a post-emancipation economy.
 
-When Jefferson returned to the United States in 1788, Short---to Jefferson’s dismay---remained behind, preferring the cosmopolitan world of Paris to the plantation slave society of Virginia.[^11] Throughout his long residency in Europe, Short corresponded regularly with Jefferson about diplomatic appointments, investment opportunities,
+When Jefferson returned to the United States in 1788, Short---to Jefferson’s dismay---remained behind, preferring the cosmopolitan world of Paris to the plantation slave society of Virginia.[^10] Throughout his long residency in Europe, Short corresponded regularly with Jefferson about diplomatic appointments, investment opportunities,
 and, most notably, Virginia's future as a post-emancipation society. In
 an extraordinarily pointed letter to Jefferson, dated February 27, 1798,
 Short argued that "keeping 700,000 people & their descendants in
@@ -141,15 +142,15 @@ black color, formed into powerful societies who will par in every
 respect with whites under the same circumstances." Short acknowledged
 the depths of anti-black prejudice among white Americans, but saw
 movement in law and society toward "the restoration of the rights of
-citizenship of those blacks who inhabit the U.S."[^12]
+citizenship of those blacks who inhabit the U.S."[^11]
 
-Jefferson’s silence on the subject was deafening. Receiving no response to his lengthy missive from Jefferson for nearly
+Jefferson’s silence on the topic spoke volumes. Receiving no response to his lengthy missive from Jefferson for nearly
 two years, Short wrote a follow-up letter dated December 18, 1800: "I
 have never heard from you whether you recd. a very long letter I wrote
 you some years ago of the date of Feb. 27. 98....It went a good deal
 on a subject to which I think it of importance that our countrymen
 should pay attention---that of slaves---I know none more deserving of
-their most profound researches."[^13] Jefferson eventually answered
+their most profound researches."[^12] Jefferson eventually answered
 Short, but without ever acknowledging the substance of the 1798 letter.
 
 In *The Hemingses of Monticello: An American Family*, historian Annette Gordon-Reed offers a brilliant close reading of Short’s 1798 letter—--and Jefferson’s apparent reluctance to respond—--within the context of Jefferson’s intimate sexual relationship with his slave, Sally Hemings. With the 1798 letter, Gordon-Reed speculates, Short sought to move
@@ -157,7 +158,7 @@ Jefferson toward recognition of African Americans---and not just the
 mixed-race Hemings family of Monticello---as worthy of manumission and a
 path to citizenship. Jefferson, she concludes, ignored the letter and
 "changed the subject" to avoid an extended foray into matters both
-highly personal and politically explosive.[^14]
+highly personal and politically explosive.[^13]
 
 Historiographically, Gordon-Reed provides the rationale for my *longue
 duree* study of the Jefferson-Short correspondence by viewing Short's
@@ -165,17 +166,17 @@ February 1798 letter as part of an extended "conversation" that began
 with Short's preparation of *Notes* for publication. "Short knew the
 exact significance of his choice of words [on race and race-mixing],"
 she writes, "for this was a direct challenge to some of the best-known
-of Jefferson's passages in Query 14 of the *Notes*."[^15]
+of Jefferson's passages in Query 14 of the *Notes*."[^14]
 
 Like Gordon-Reed, I view *Notes* as a critical reference point in a
 running dialogue between Short and Jefferson on race, slavery, and
 Virginia's post-emancipation future. Where Gordon-Reed focuses on a
 single noteworthy and seemingly isolated exchange, I expand the corpus
 to include nearly 75 letters between Short and Jefferson spanning nearly
-four decades, 1787--1826.[^16] Where Gordon-Reed advances her argument
+four decades, 1787--1826.[^15] Where Gordon-Reed advances her argument
 in narrative form, within the context of a book-length study, I present
 mine using an open-access interactive visualization platform---VisualEyes---that employs multiple "views" and invites readers to explore selected "themes" and "threads" running through the
-correspondence.[^17] While this dialogical approach cannot capture the
+correspondence.[^16] While this dialogical approach cannot capture the
 fullness of Jefferson's thought, or the various positions he took in
 correspondence with others, it can illuminate the rhetorical thrust and
 parry, across *time* and *space*, between Jefferson and one of his
@@ -184,7 +185,7 @@ closest friends and confidants.
 *Notes on the Future of Virginia: The Jefferson-Short Letters,
 1787-1826*, culls Jefferson-Short letters from a range of published
 sources to create an online essay/exhibit/interactive visualization that
-doubles as a scholar's resource.[^18] It invites users to explore
+doubles as a scholar's resource.[^17] It invites users to explore
 selected "themes" and "threads" running through Jefferson and Short's
 extended "conversation" and ruminate on the significance of time and
 place and key events in framing their ideological positions and
@@ -202,7 +203,7 @@ running through the curated collection of 75 Jefferson-Short letters, with conte
 
 In the StoryLine view users can isolate topical threads---slave labor,
 agriculture, sharecropping, serfdom, tenancy, manumission, colonization,
-rebellion, and Short's property at Indian Camp---for easy tracking of in
+rebellion, and Short's property at Indian Camp---for easy tracking in
 a timeline format. Color-coded bands at the top provide framing context.
 When users click on individual letters, a text box displays relevant
 data (author, date, location), key excerpt in italics, analysis/summary
@@ -226,22 +227,6 @@ visualizes the convergence/divergence of Jefferson's and Short's
 positions on key issues (expatriation/forced removal) across time and
 space in sync with the threaded display of letters.
 
-Yet Jefferson and Short differed profoundly on the inevitability and
-desirability of "race-mixing," the capacity of black people for
-citizenship in America, and the prospects for a peaceful transition to
-bi-racial democracy in post-emancipation Virginia. Short directly
-challenged Jefferson's views on black inferiority and rejected
-Jefferson's scheme of state-sponsored colonization as the only viable
-alternative to slavery. An early advocate for black citizenship, Short
-pushed Jefferson to consider the transformation of slaves into serfs
-(*villeins*) or sharecroppers (*metayers*) as part of a larger societal
-transition, following the European model, to a more advanced state of
-freedom and civilization. That Jefferson ignored or rejected all such
-appeals from Short, over the course of forty years, is significant. It
-confirms his almost routine exposure to opposing views from within his
-inner circle and accentuates the closed-mindedness that characterized
-his thinking on the subjects of race and slavery.[^19]
-
 The local-global dimensions of the Jefferson-Short discourse can be seen
 clearly in a subset of 40 letters dealing with a property known as
 Indian Camp. In 1795, hoping to entice Short to return from his
@@ -262,12 +247,30 @@ to demonstrate the profitability of "converting" slaves into tenant
 farmers. "Let all the minute calculations of detail be entered into &
 published in the gazettes---Whatever may be the result of the first
 essays, time & repetition will I think infallibly shew the advantage of
-free, above forced, labor."[^20]  Jefferson disregarded Short's
+free, above forced, labor."[^18]  Jefferson disregarded Short's
 suggestion and instead recruited white tenant farmers to work the Indian
 Camp land---possibly with the assistance of rented slaves---according
 to his strict rules of crop rotation. The property served, I would argue,
 as a canvas on which the two men sketched their competing visions of
-Virginia's post-emancipation future.[^21]
+Virginia's post-emancipation future.[^19]
+
+The visualizations provide a stereoscopic view of two prominent white, native-born Virginians---bound by ties of family and social class---as they grappled with the most pressing social, political, and economic issues of their day. Both men observed firsthand the condition of Europe's white laboring poor (serfs and sharecroppers) and drew pointed comparisons to that of America's enslaved blacks; both recognized the mortal dangers posed by slavery in the Haitian Revolution of the 1790s and Gabriel's Rebellion of 1800; and both expressed a desire to experiment with new labor systems that could provide a way out of slavery while preserving the agricultural basis of Virginian and Southern society. 
+
+Yet Jefferson and Short differed profoundly on the inevitability and
+desirability of "race-mixing," the capacity of black people for
+citizenship in America, and the prospects for a peaceful transition to
+bi-racial democracy in post-emancipation Virginia. Short directly
+challenged Jefferson's views on black inferiority and rejected
+Jefferson's scheme of state-sponsored colonization as the only viable
+alternative to slavery. An early advocate for black citizenship, Short
+pushed Jefferson to consider the transformation of slaves into serfs
+(*villeins*) or sharecroppers (*metayers*) as part of a larger societal
+transition, following the European model, to a more advanced state of
+freedom and civilization. That Jefferson ignored or rejected all such
+appeals from Short, over the course of forty years, is significant. It
+confirms his almost routine exposure to opposing views from within his
+inner circle and accentuates the closed-mindedness that characterized
+his thinking on the subjects of race and slavery.[^20]
 
 Upon his return to America in 1810, Short settled in Philadelphia and
 steadily retreated from his more radical views on race, emancipation,
@@ -290,13 +293,13 @@ favor of the expopulating system. If you should have now, like myself,
 become convinced of the impracticability, or even of the inhumanity of
 this plan, would it not be worth while to encourage the idea of changing
 the condition of these slaves into that of serfs attached to the
-glebe?"[^22] Jefferson was unmoved. In a reply to Short, written six
+glebe?"[^21] Jefferson was unmoved. In a reply to Short, written six
 months before his death, Jefferson conceded Short's point that
 converting slaves into serfs might improve their lot, but said he still
 favored the "expatriation" of emancipated blacks to countries governed
 and populated by people "of their own colour." Jefferson declared this
 scheme "entirely practicable" and "greatly preferable to the mixture of
-colour here."[^23]
+colour here."[^22]
 
 Jefferson's death on July 4, 1826, freed Short to ponder the what-ifs of
 their long-distance correspondence. What if Jefferson had been more
@@ -311,7 +314,7 @@ satisfy the owners & the Legislature of the State as to it. Mr. J., to
 whom I had written on the subject a short time before his death, agreed
 that mine would be the best remedy save one, wch. was his old one of
 shipping them off. You know he did not easily renounce any idea which
-he had taken up in this way."[^24]
+he had taken up in this way."[^23]
 
 ---
 
@@ -385,6 +388,19 @@ Jefferson with Related Documents*. Boston: Bedford/St. Martin's, 2002.
 ---
 
 ### Notes
+An early version of this paper was presented at the Robert H.
+    Smith International Center for Jefferson Studies, Charlottesville,
+    Virginia, on May 17, 2011. The author would like to thank the
+    moderator, Peter S. Onuf, and fellow panelists Annette Gordon-Reed,
+    Billy A. Wayson, Randall J. Winston, and Nicholas P. Wood for their
+    comments. A poster version, "Notes on the Future of Virginia: An
+    Experiment in Visualized Discourse Analysis," was presented at the
+    American Historical Association annual meeting in Chicago on Jan. 7,
+    2012 (see [abstract](https://aha.confex.com/aha/2012/webprogram/Paper9336.html)). The author would also like to thank Bill Ferster, interactive visualization specialist at the University of Virginia, for
+    designing the user interface for the web companion to this paper,
+    "[Notes on the Future of Virginia: The Jefferson-Short Letter, 1787-1826](http://www.viseyes.org/show/?id=notes.xml)." Finally, thanks to Stewart Gamage and the University of Virginia Foundation for
+    supporting my research on William Short and the Indian Camp property
+    as part of a 2010-11 research appointment.
 
 [^1]: The literature on Jefferson, race, and slavery is voluminous. For
     book-length studies, see Miller, *The Wolf by the Ears*; Finkelman, *Slavery and the Founders*, and Stanton, *"Those Who Labor for My Happiness."* For a discussion of Jefferson's
@@ -408,21 +424,7 @@ Jefferson with Related Documents*. Boston: Bedford/St. Martin's, 2002.
     makes no reference to the correspondence on race and slavery
     examined in this project.
 
-[^4]: An early version of this paper was presented at the Robert H.
-    Smith International Center for Jefferson Studies, Charlottesville,
-    Virginia, on May 17, 2011. The author would like to thank the
-    moderator, Peter S. Onuf, and fellow panelists Annette Gordon-Reed,
-    Billy A. Wayson, Randall J. Winston, and Nicholas P. Wood for their
-    comments. A poster version, "Notes on the Future of Virginia: An
-    Experiment in Visualized Discourse Analysis," was presented at the
-    American Historical Association annual meeting in Chicago on Jan. 7,
-    2012 (see [abstract](https://aha.confex.com/aha/2012/webprogram/Paper9336.html)). The author would also like to thank Bill Ferster, interactive visualization specialist at the University of Virginia, for
-    designing the user interface for the web companion to this paper,
-    "[Notes on the Future of Virginia: The Jefferson-Short Letter, 1787-1826](http://www.viseyes.org/show/?id=notes.xml)." Finally, thanks to Stewart Gamage and the University of Virginia Foundation for
-    supporting my research on William Short and the Indian Camp property
-    as part of a 2010-11 research appointment.
-
-[^5]: Benjamin Banneker and Thomas Jefferson, letters, 19 and 30 August 1791," in Waldstreicher, *Notes*, 208--213. Jefferson made similar professions of
+[^4]: Benjamin Banneker and Thomas Jefferson, letters, 19 and 30 August 1791," in Waldstreicher, *Notes*, 208--213. Jefferson made similar professions of
     open-mindedness in exchanges with other Enlightenment-era
     contemporaries, such as the French abolitionist Henri Gregoire: "Be
     assured," he wrote to Gregoire in 1809, "that no person living
@@ -432,34 +434,34 @@ Jefferson with Related Documents*. Boston: Bedford/St. Martin's, 2002.
     respect they are on a par with ourselves." Thomas Jefferson to Henri
     Gregoire, 25 February 1809, in Ford, *The Works of Thomas Jefferson*, <http://memory.loc.gov/service/mss/mtj/mtj1/043/043_0836_0836.pdf>.
 
-[^6]: In an 1809 letter to Joel Barlow, written in confidence, Jefferson
+[^5]: In an 1809 letter to Joel Barlow, written in confidence, Jefferson
     wrote that the Banneker possessed "a mind of very common stature
     indeed" and questioned whether Banneker had the "aid" of a white
     neighbor and friend, the Quaker abolitionist Ellicott, in creating
     his famous almanac. Jordan, *White Over Black*, 449--457.
 
-[^7]: "Connected to Jefferson by marriage (Short was the nephew of Henry
+[^6]: "Connected to Jefferson by marriage (Short was the nephew of Henry
     and Robert Skipwith, each of whom had married half-sisters of Martha
     Jefferson), Short may have attended Jefferson's wedding in 1772. He
     visited Monticello several times before Martha Jefferson died in
     1782, and he accompanied the Jefferson family to Poplar Forest in
     1781 when the family escaped Tarleton's troops." Bowman, "William Short."
 
-[^8]: Shackelford, "William Short," 171--172.
+[^7]: Shackelford, "William Short," 171--172.
 
-[^9]: William Short to Thomas Jefferson, 2 October 1788, *Papers of Thomas Jefferson*, <http://rotunda.upress.virginia.edu/founders/TSJN-01-13-02-0531>.
+[^8]: William Short to Thomas Jefferson, 2 October 1788, *Papers of Thomas Jefferson*, <http://rotunda.upress.virginia.edu/founders/TSJN-01-13-02-0531>.
 
-[^10]: Short to Jefferson, 28 October, 1788, *Papers of Thomas Jefferson*, <http://rotunda.upress.virginia.edu/founders/TSJN-01-14-02-0036>.
+[^9]: Short to Jefferson, 28 October, 1788, *Papers of Thomas Jefferson*, <http://rotunda.upress.virginia.edu/founders/TSJN-01-14-02-0036>.
 
-[^11]: Short held diplomatic posts as Chargé d’Affaires in Paris (1789--1792) U.S. Minister at the Hague, Netherlands (1792--1793), and Joint Commissioner/Minister Resident in Madrid, Spain (1793--1795). In 1795, Jefferson sought to lure Short back to Virginia by purchasing Indian Camp, a 1,334-acre property near Monticello, on behalf of his friend and “adoptive son.” Short, however, saw the property as an investment only and declined to live there. When Short returned to the United States in 1810, he settled in Philadelphia and resided there for the rest of his long life. For full biographical details, see Shackelford, *Jefferson’s Adoptive Son*.
+[^10]: Short held diplomatic posts as Chargé d’Affaires in Paris (1789--1792) U.S. Minister at the Hague, Netherlands (1792--1793), and Joint Commissioner/Minister Resident in Madrid, Spain (1793--1795). In 1795, Jefferson sought to lure Short back to Virginia by purchasing Indian Camp, a 1,334-acre property near Monticello, on behalf of his friend and “adoptive son.” Short, however, saw the property as an investment only and declined to live there. When Short returned to the United States in 1810, he settled in Philadelphia and resided there for the rest of his long life. For full biographical details, see Shackelford, *Jefferson’s Adoptive Son*.
     
-[^12]: Short to Jefferson, 27 February 1798, *Papers of Thomas
+[^11]: Short to Jefferson, 27 February 1798, *Papers of Thomas
     Jefferson*, <http://rotunda.upress.virginia.edu/founders/TSJN-01-30-02-0098>.
 
-[^13]: Short to Jefferson, 18 December 1800, *Papers of Thomas
+[^12]: Short to Jefferson, 18 December 1800, *Papers of Thomas
     Jefferson*, <http://rotunda.upress.virginia.edu/founders/TSJN-01-32-02-0096>.
 
-[^14]: Short, Gordon-Reed notes, had lived and worked with
+[^13]: Short, Gordon-Reed notes, had lived and worked with
     Jefferson in Paris and witnessed his daily interactions with two
     members of the Hemings family, Sally and James. "Short had
     personally observed Jefferson living with two intelligent and
@@ -470,9 +472,9 @@ Jefferson with Related Documents*. Boston: Bedford/St. Martin's, 2002.
     general affection for her family. Why could not Jefferson's
     experiences be replicated all over the United States?" Gordon-Reed, *Hemingses of Monticello,* 536--539.
 
-[^15]: Gordon-Reed, *Hemingses of Monticello*, 537.
+[^14]: Gordon-Reed, *Hemingses of Monticello*, 537.
 
-[^16]: Only transcribed letters from scholarly editions of Jefferson
+[^15]: Only transcribed letters from scholarly editions of Jefferson
     papers were included; no effort was made to conduct original
     research in archival manuscripts for this beta version of the
     project. The bulk of the letters were accessible through the Library
@@ -482,7 +484,7 @@ Jefferson with Related Documents*. Boston: Bedford/St. Martin's, 2002.
     bound print volumes only, most notably Princeton University's *The
     Papers of Thomas Jefferson: Retirement Series*.
 
-[^17]: Future iterations of the project, currently in development, will
+[^16]: Future iterations of the project, currently in development, will
     update the project to a more robust, mobile-friendly, HTML5 version
     of VisualEyes <http://viseyes.org/visualeyes> and revamp the
     interpretive display to include (a) relevant documents from outside
@@ -490,32 +492,21 @@ Jefferson with Related Documents*. Boston: Bedford/St. Martin's, 2002.
     agency of marginalized groups (free blacks, slaves, women, tenant
     farmers, sharecroppers, etc.) referenced in the correspondence.
 
-[^18]: French and Ferster, "[Notes on the Future of Virginia](http://www.viseyes.org/show/?id=notes.xml)."
+[^17]: French and Ferster, "[Notes on the Future of Virginia](http://www.viseyes.org/show/?id=notes.xml)."
 
-[^19]: The visualization provides a stereoscopic view of two prominent
-    white, native-born Virginians---bound by ties of family and social
-    class---as they grappled with the most pressing social, political,
-    and economic issues of their day. Both men observed firsthand the
-    condition of Europe's white laboring poor (serfs and sharecroppers)
-    and drew pointed comparisons to that of America's enslaved blacks;
-    both recognized the mortal dangers posed by slavery in the Haitian
-    Revolution of the 1790s and Gabriel's Rebellion of 1800; and both
-    expressed a desire to experiment with new labor systems that could
-    provide a way out of slavery while preserving the agricultural basis
-    of Virginian and Southern society. The term "adoptive son" is taken
-    from Shackelford, *Jefferson's Adoptive Son*.
-
-[^20]: Short to Jefferson, 27 February 1798, *Papers of Thomas Jefferson*,
+[^18]: Short to Jefferson, 27 February 1798, *Papers of Thomas Jefferson*,
     <http://rotunda.upress.virginia.edu/founders/TSJN-01-30-02-0098>.
 
-[^21]: For a discussion of research on the white tenant farmers, see George, "Surveying the Past," 16--23; Cannon, "Early Archaeology at Morven," <https://news.virginia.edu/content/early-archaeology-morven-taps-little-studied-veins-history>.
+[^19]: For a discussion of research on the white tenant farmers, see George, "Surveying the Past," 16--23; Cannon, "Early Archaeology at Morven," <https://news.virginia.edu/content/early-archaeology-morven-taps-little-studied-veins-history>.
 
-[^22]: Short to Jefferson, 9 October, 1823, Jefferson Papers, Library of
+[^20]: The term "adoptive son" is taken from Shackelford, *Jefferson's Adoptive Son*.
+
+[^21]: Short to Jefferson, 9 October, 1823, Jefferson Papers, Library of
     Congress, <https://www.loc.gov/item/mtjbib024765/>.
 
-[^23]: Jefferson to Short, 18 January 1826, Jefferson Papers, *Founders Online*, National
+[^22]: Jefferson to Short, 18 January 1826, Jefferson Papers, *Founders Online*, National
     Archives, <http://founders.archives.gov/documents/Jefferson/98-01-02-5842>.
 
-[^24]: Short to John Hartwell Cocke, 8 January 1829, Cocke Family Papers,
+[^23]: Short to John Hartwell Cocke, 8 January 1829, Cocke Family Papers,
     Accession #640, Box 58, Special Collections, University of Virginia
     Library.
