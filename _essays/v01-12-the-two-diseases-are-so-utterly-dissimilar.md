@@ -10,7 +10,7 @@ authors:
 - last: Ewing
   first: E. Thomas
   email: etewing@vt.edu
-  affiliation: "Department of History, Virginia Tech University"
+  affiliation: "Department of History, Virginia Tech"
   orcid: 0000-0002-4757-1623
   url: "http://ethomasewing.org/"
 abstract: |
@@ -18,6 +18,8 @@ abstract: |
 appendix:
 - name: Data archive
   file: ewing-v01/ewing-influenza-cholera-data.numbers
+preview image: 
+- file: /assets/img/v01/ewing/preview.png
 ---
 
 On December 15, 1889, the *Omaha Daily Bee* newspaper quoted a French
@@ -40,7 +42,7 @@ Analyzing this statement by Robin using a digital humanities approach
 can enhance scholarly understanding of significant questions about the
 functioning of medical networks on a global scale; the relationship
 between expert knowledge and public understanding; and the role of new
-technologies in shaping beliefs and attitudes.[^2] In this example, an
+technologies in shaping beliefs and attitudes. In this example, an
 American newspaper quoted a European expert invoking scientific
 knowledge of how diseases are transmitted in order to reassure the
 public about a public health threat. Just as the relatively new
@@ -51,13 +53,13 @@ search capacity allows the historian to quickly and thoroughly track the
 spread of information on a global scale. Locating the article cited here
 from the *Omaha Daily Bee* through a keyword proximity search of
 digitized newspapers is an example of how digital humanities tools have
-transformed historical analysis.[^3] The Russian influenza, which first
+transformed historical analysis.[^2] The Russian influenza, which first
 received broad attention in St. Petersburg in November 1889 and spread
 across Europe and into the Americas over the next two months, occurred
 at a critical moment in the development of mass journalism, medical
 knowledge, and information technology, as the telegraph allowed news to
 spread faster than diseases at the same time that bacteriological
-research revealed distinct paths of contagion.[^4] The fact that a daily
+research revealed distinct paths of contagion.[^3] The fact that a daily
 newspaper in Nebraska published an interview with a French scientist was
 very common in this historical context where public discourse included
 extensive international reporting on medical topics. Yet Robin's
@@ -67,7 +69,7 @@ close reading, contextual analysis, and layered interpretation.
 
 In fact, this question of whether "influenza is the forerunner of
 cholera" was prompted by a single statement by Russian physician Nikolai
-Fedorovich Zdekauer.[^5] As reported in the St Petersburg daily
+Fedorovich Zdekauer.[^4] As reported in the St Petersburg daily
 newspaper, *Novoe Vremia*, on November 18 [29], 1889, Zdekauer told
 the Society for the Improvement of Public Health that influenza could be
 followed by an even greater threat to public health:
@@ -86,10 +88,10 @@ followed by an even greater threat to public health:
 > consideration, warned Zdekauer, we need to pay attention to improving
 > the health of the city, as the experiences of 1830, 1848, 1865, and
 > 1884 show that even a quarantine does not guarantee the end of
-> cholera. The latest choleras develop most of all in Spain and Italy,
+> cholera. The most recent choleras develop most of all in Spain and Italy,
 > countries with more positive conditions in terms of sanitation.
 > Cholera almost never appears in England, a country with excellent
-> sanitary conditions.[^6]
+> sanitary conditions.[^5]
 
 The potential impact of this comment became evident in the first
 international report published on December 2, 1889 in the *London
@@ -102,14 +104,14 @@ Standard*:
 > as that now raging. He considered it highly probable that the present
 > disease would be succeeded by cholera next Spring. He called on the
 > authorities, therefore, to undertake at once such sanitary measures as
-> had led to such excellent results in England.[^7]
+> had led to such excellent results in England.[^6]
 
 On the same day, the *St. Paul Daily Globe* offered a slightly
 abbreviated report under the ominous headline, "Forerunner of Cholera":
 "Prof. Zdenecker [sic], one of the leading Russian medical
 authorities, declares his belief that the influenza now prevailing here
 is a forerunner of cholera. The same signs, he says, preceded the last
-five cholera epidemics here."[^8]
+five cholera epidemics here."[^7]
 
 Tracking term frequency in digitized newspaper collections (see figures
 1--4) clearly indicates how Zdekauer's statement changed reporting on the
@@ -140,7 +142,7 @@ again been given currency in the telegrams from St. Petersburg that
 epidemic influenza is a forerunner of cholera need only be mentioned in
 order that it may be condemned as utterly unfounded." While influenza
 and cholera epidemics may occur in chronological proximity, the pattern
-"has abundantly proved that there is no kind of causal connection."[^9]
+"has abundantly proved that there is no kind of causal connection."[^8]
 In the United States, the *Medical Record* offered an equally sweeping
 statement in a front-page editorial on December 14, 1889:
 
@@ -151,10 +153,10 @@ statement in a front-page editorial on December 14, 1889:
 > cholera. The micro-organisms of the two diseases are as essentially
 > different as are the diseases themselves. The cholera germ lives in
 > water and soil, the influenza germ in the air. The relationship
-> between the two diseases has been, we believe, purely accidental.[^10]
+> between the two diseases has been, we believe, purely accidental.[^9]
 
 Newspapers also cited the opinions of doctors, either individually in
-interviews[^11] or as the collective view of the profession, as in this
+interviews[^10] or as the collective view of the profession, as in this
 *New Haven Register* article on December 14, 1889:
 
 > One reason why this disease is dreaded is because it is thought by
@@ -173,7 +175,7 @@ influenza could not cause cholera nor were the causes of the two
 diseases at all similar. As this review of evidence clearly suggests,
 however, the two diseases were connected because they were part of the
 medical imagination of the era and thus appeared in proximity to each
-other in newspapers, journals, and doctors' public statements.[^12]
+other in newspapers, journals, and doctors' public statements.[^11]
 
 Zdekauer was aware of how his statement had been misinterpreted and
 tried to correct the record. On December 3 (15), 1889, the Russian
@@ -182,7 +184,7 @@ newspaper *Novoe Vremia* published his letter claiming that his remarks
 claimed any organic connection between the two diseases, but he affirmed
 instead the goal of raising concerns about cholera with the intention of
 prompting the Society and government to implement sanitary measures,
-which were described in some detail in the rest of the letter.[^13]
+which were described in some detail in the rest of the letter.[^12]
 Through this public appeal, Zdekauer engaged with debates prompted by
 misinterpretations of his comments which had been reproduced,
 questioned, and repudiated on a global scale.
@@ -190,7 +192,7 @@ questioned, and repudiated on a global scale.
 This study of reports about causal relationships between influenza and
 cholera builds upon, but also challenges, the analysis of viral texts
 published by Ryan Cordell in an influential article in *American
-Literary History*.[^14] Drawing on the materials and methods associated
+Literary History*.[^13] Drawing on the materials and methods associated
 with the Viral Texts digital humanities project, Cordell makes extensive
 use of digitized newspapers to explore the "networks of information
 exchange" created, sustained, and broadened by selection and
@@ -214,7 +216,7 @@ interdisciplinary research.
 This study also confirms the arguments of Christopher Hamlin's *Cholera.
 The Biography* about the distinctive ways cholera connected expert,
 political, and popular discourses about health, culture, and
-community.[^15] Hamlin's research is especially productive in its
+community.[^14] Hamlin's research is especially productive in its
 examination of how broad claims about cholera were often based on
 limited, doubtful, and even non-existent evidence. Newspaper editorials
 and even doctors made frightening predictions of future cholera
@@ -249,7 +251,7 @@ to offer a reasoned critique.
 In spring 1892, just two years later, a devastating cholera epidemic
 struck Russia, causing more than 250,000 deaths, and prompting health
 officials to acknowledge that unsanitary living conditions, particularly
-lack of clean water, contributed to high case and death rates.[^16] In
+lack of clean water, contributed to high case and death rates.[^15] In
 other words, the 1892 cholera outbreak validated demands for preventive
 measures raised by Zdekauer during the 1889 influenza outbreak. In fact,
 following Zdekauer's death in early 1897, the *British Medical Journal*,
@@ -257,7 +259,7 @@ which had adamantly denounced any connection between influenza and
 cholera, offered a belated concession: "It will be remembered that when
 influenza appeared in Russia in the autumn of 1889, Zdekauer was
 strongly of the opinion that an epidemic of cholera might be expected to
-follow, a view which was justified by subsequent events."[^17]
+follow, a view which was justified by subsequent events."[^16]
 
 For historians, understanding the significance of Zdekauer's statement
 requires both the large scale searching and sorting available from
@@ -378,11 +380,7 @@ Journal*, 1, no. 1885, (February 13, 1897): 428. <https://www.ncbi.nlm.nih.gov/p
 
 ### Notes
 
-[^1]: The same comments from Dr. Albert Robin also appeared in the
-    [*Evening Star*](http://chroniclingamerica.loc.gov/lccn/sn83045462/1889-12-17/ed-1/seq-9/) (Washington DC), December 17, 1889, 1; ten days later, in the [*Iowa County Democrat*](https://chroniclingamerica.loc.gov/lccn/sn86086852/1889-12-27/ed-1/seq-1/), December 27, 1889, 1; and another week later, in the [*Wood County Reporter*](https://chroniclingamerica.loc.gov/lccn/sn85033078/1890-01-02/ed-1/seq-5/), January 2,
-    1890, 5.
-
-[^2]: Funding for this project was provided by a bilateral digital
+Funding for this project was provided by a bilateral digital
     humanities grant, Tracking the Russian Flu, from the National
     Endowment for the Humanities, and from the Department of History at
     Virginia Tech. In its initial stages, the project benefited from
@@ -392,7 +390,10 @@ Journal*, 1, no. 1885, (February 13, 1897): 428. <https://www.ncbi.nlm.nih.gov/p
     participants at the 2015 American Association for the History of
     Medicine Annual Meeting.
 
-[^3]: This article was located with a proximity search tool that found
+[^1]: The same comments from Dr. Albert Robin also appeared in the
+     [*Omaha Daily Bee*](https://chroniclingamerica.loc.gov/lccn/sn99021999/1889-12-15/ed-1/seq-1/), December 15, 1889, 1; [*Evening Star*](http://chroniclingamerica.loc.gov/lccn/sn83045462/1889-12-17/ed-1/seq-9/) (Washington DC), December 17, 1889, 1; ten days later, in the [*Iowa County Democrat*](https://chroniclingamerica.loc.gov/lccn/sn86086852/1889-12-27/ed-1/seq-1/), December 27, 1889, 1; and another week later, in the [*Wood County Reporter*](https://chroniclingamerica.loc.gov/lccn/sn85033078/1890-01-02/ed-1/seq-5/), January 2, 1890, 5.
+
+[^2]: This article was located with a proximity search tool that found
     approximately fifty pages in the Library of Congress Chronicling
     America database with the terms "influenza" and "cholera" within 50
     words of each other during December 1889, the month when the Russian
@@ -414,12 +415,12 @@ Journal*, 1, no. 1885, (February 13, 1897): 428. <https://www.ncbi.nlm.nih.gov/p
     depends on an understanding of the distinctive historical context as
     well as the identification of the right questions.
 
-[^4]: Bresalier, "'A Most Protean Disease' 481--510; Honigsbaum, *A
+[^3]: Bresalier, "'A Most Protean Disease' 481--510; Honigsbaum, *A
     History of the Great Influenza Pandemics*; Mussell, "Pandemic in
     print," 12--17; Ewing, Kimmerly and Ewing-Nelson, "'Look Out for La
     Grippe'," 129--131; Ewing, "'Will It Come Here?'," 474--477.
 
-[^5]: *Novoe Vremia*, November 18 (30), 1889, 3. Nikolai Fedorovich
+[^4]: *Novoe Vremia*, November 18 (30), 1889, 3. Nikolai Fedorovich
     Zdekauer was born in 1815, entered the medical faculty at St.
     Petersburg University in 1831, and became a professor after
     completing his Doctor of Medicine degree in 1842. In the 1860s, he
@@ -437,7 +438,7 @@ Journal*, 1, no. 1885, (February 13, 1897): 428. <https://www.ncbi.nlm.nih.gov/p
     many different spelling variations, which further complicates the
     use of text search tools to trace the spread of these reports.
 
-[^6]: The difference with the Russian calendar was 12 days, so the
+[^5]: The difference with the Russian calendar was 12 days, so the
     conference was November 17 (29), 1889. Russian newspapers included
     both dates on their front page. An article published on November 19
     (30), in the Moscow newspaper, *Moskovskie vedomosti*, offered a
@@ -445,17 +446,17 @@ Journal*, 1, no. 1885, (February 13, 1897): 428. <https://www.ncbi.nlm.nih.gov/p
     mention of the claim that the influenza microbe could develop into
     cholera.
 
-[^7]: [*London Evening Standard*](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000183/18891202/041/0005), December 2, 1889, 5.
+[^6]: [*London Evening Standard*](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000183/18891202/041/0005), December 2, 1889, 5.
 
-[^8]: Similar reports, with various spellings of the doctor's name,
+[^7]: Similar reports, with various spellings of the doctor's name,
     appeared on [*Los Angeles Daily Herald*](https://chroniclingamerica.loc.gov/lccn/sn85042460/1889-12-02/ed-1/seq-7/), December 2, 1889, 7 (Zoeker); [*St. Paul Daily Globe*](<https://chroniclingamerica.loc.gov/lccn/sn90059522/1889-12-02/ed-1/seq-4/>), 4 (Zdenecker); [*Omaha Daily Bee*](https://chroniclingamerica.loc.gov/lccn/sn99021999/1889-12-02/ed-1/seq-3/), 3;
     [*Deseret Evening News*](<https://chroniclingamerica.loc.gov/lccn/sn83045555/1889-12-02/ed-1/seq-4/>), 4
     (Zedsaner); [*Indianapolis Journal*](<https://chroniclingamerica.loc.gov/lccn/sn82015679/1889-12-02/ed-1/seq-1/>), 1;
     [*Waterbury Evening Democrat*](https://chroniclingamerica.loc.gov/lccn/sn94053256/1889-12-02/ed-1/seq-4/), 4; and [*The Sun*](https://chroniclingamerica.loc.gov/lccn/sn83030272/1889-12-02/ed-1/seq-2/), 2 (all spelled Zdekaner).
 
-[^9]: "Epidemic Influenza," *British Medical Journal*, 1290--1291.
+[^8]: "Epidemic Influenza," *British Medical Journal*, 1290--1291.
 
-[^10]: "Epidemic Influenza," *Medical Record*, 661. Further amplifying
+[^9]: "Epidemic Influenza," *Medical Record*, 661. Further amplifying
     this dismissal, Dr. Shrady, editor of the *Medical Record*, was
     quoted in an interview published in the *Evening World*, on December
     13, 1889: "Dr. Shrady recalls epidemics of influenza in 1847 and
@@ -480,7 +481,7 @@ Journal*, 1, no. 1885, (February 13, 1897): 428. <https://www.ncbi.nlm.nih.gov/p
     kept out without any trouble." [*Salt Lake Herald*](https://chroniclingamerica.loc.gov/lccn/sn85058130/1889-12-14/ed-1/seq-1/), December 14,
     1889, 1.
 
-[^11]: In a *Pittsburg Dispatch* article published December 17, 1889,
+[^10]: In a *Pittsburg Dispatch* article published December 17, 1889,
     Dr. William Pepper from the University of Pennsylvania reviewed the
     symptoms of influenza, and ended with this summary statement: "There
     is, therefore, no ground whatever for alarm about a possible
@@ -489,7 +490,7 @@ Journal*, 1, no. 1885, (February 13, 1897): 428. <https://www.ncbi.nlm.nih.gov/p
     greater danger than the resperator type." [*Pittsburg Dispatch*](<https://chroniclingamerica.loc.gov/lccn/sn84024546/1889-12-17/ed-1/seq-1/>),
     December 17, 1889, 1.
 
-[^12]: One interesting feature of this discussion, however, was the
+[^11]: One interesting feature of this discussion, however, was the
     tendency to suggest that the public continued to believe in a
     connection between these diseases, despite the repeated affirmations
     of medical experts. *The New York Times* on December 10, 1889
@@ -530,16 +531,16 @@ Journal*, 1, no. 1885, (February 13, 1897): 428. <https://www.ncbi.nlm.nih.gov/p
     whooping cough." [*Pittsburg Dispatch*](https://chroniclingamerica.loc.gov/lccn/sn84024546/1890-01-05/ed-1/seq-16/
     ), January 5, 1890, 16.
 
-[^13]: *Novoe Vremia*, December 3 (15), 1889, 3.
+[^12]: *Novoe Vremia*, December 3 (15), 1889, 3.
 
-[^14]: Cordell, "Reprinting, Circulation, and the Network," 417--445.
+[^13]: Cordell, "Reprinting, Circulation, and the Network," 417--445.
 
-[^15]: Hamlin, *Cholera. The Biography*.
+[^14]: Hamlin, *Cholera. The Biography*.
 
-[^16]: Clemow, *Cholera Epidemic of 1892*. The cholera outbreak prompted
+[^15]: Clemow, *Cholera Epidemic of 1892*. The cholera outbreak prompted
     Russian physicians to take an increasingly active, visible, and
     public role in advocating for effective measures such as improved
     sanitation, consistent quarantines, and health education. Frieden,
     "Russian Cholera Epidemic, 1892--1893." 538--559.
 
-[^17]: "St. Petersburg. Death of Professor Zdekauer," 428.
+[^16]: "St. Petersburg. Death of Professor Zdekauer," 428.
