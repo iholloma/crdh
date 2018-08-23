@@ -60,3 +60,7 @@ compress_html:
     envs: [development]
 
 highlighter:      rouge
+
+# CRDH
+
+appendices:       ""

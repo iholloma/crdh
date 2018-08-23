@@ -35,6 +35,15 @@ layout: default
             </div>
         </section>
         {{ content }}
+        {% if page.appendix.size > 1 %}
+        <hr>
+        <h3 id="appendix">Appendix</h3>
+        <ul>
+        {% for item in page.appendix %}
+            <li><a href="{{ site.appendices }}/{{ item.file }}" download>{{ item.name }}</a></li>
+        {% endfor %}
+        </ul>
+        {% endif %}
         <hr>
         {% if page.authors.size > 1 %}
         <h3 id="author">Authors</h3>
