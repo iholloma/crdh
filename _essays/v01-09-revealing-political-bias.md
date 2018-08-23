@@ -11,7 +11,7 @@ authors:
   email: simonappleford@creighton.edu
   affiliation: "Department of History, Creighton University"
   orcid: 0000-0003-2192-7860
-  url: "https://www.creighton.edu/ccas/history/people/facultystaff/simonappleford/"
+  url: "https://simonappleford.org"
 abstract: |
   Better known by his <em>nom de plume</em> “Herblock,” Herbert Block was one of the most prominent voices of liberalism in the postwar era. In his role as political cartoonist for the <em>Washington Post</em>, he articulated the values of liberalism to a much broader national audience than was reached by the writings of other liberal writers and played a critical role in shaping public opinion across a wide-range of political and social issues. Yet traditional discussions of Block’s cartoons, in common with analysis of the work of other political cartoonists, rely on a close reading of a sample of hand-selected cartoons that are extrapolated to draw broad conclusions about the nature of his work. In contrast, this paper uses digital methods to analyze Block’s body of work from 1946 to 1976—a corpus of 8,500 political cartoons—in its entirety. Through a series of visualizations, it illuminates longer-scale trends in Block’s output that are otherwise obfuscated by the day-to-day nature of his working schedule and explores how Block’s political ideology was reflected through his cartoons.
 appendix:
@@ -19,6 +19,8 @@ appendix:
   file: appleford-v01/appleford-data.zip
 - name: Code archive
   file: appleford-v01/appleford-code.zip
+preview image: 
+- file: /assets/img/v01/appleford/preview.png
 ---
 
 In the space of a single week in March 1951, the *Washington Post*'s
@@ -107,12 +109,8 @@ but more importantly how his liberal ideology shaped the perhaps
 unconscious decisions that informed how he chose to depict specific
 issues, events, and administrations.
 
-{% figure caption: "Figure 2a. Herbert Block, 'Reveille,' *Washington Post,* April 11, 1951." %}
-![A Herblock cartoon shows a man blowing a trumpet with the words "You're president of the United States" coming out of it next to a person sleeping on a cot.](/assets/img/v01/appleford/figure2a.jpg)
-{% endfigure %}
-
-{% figure caption: "Figure 2b. Herbert Block, 'Whence All But He Had Fled,' *Washington Post,* June 10, 1957." %}
-![A Herblock cartoon depicts a ship labeled "China Embargo Policy" sinking with a person on it while a second person rows away in a smaller boat labeled "Eisenhower Comments on China Trade."](/assets/img/v01/appleford/figure2b.jpg)
+{% figure caption: "Figure 2. (a) Herbert Block, 'Reveille,' *Washington Post,* April 11, 1951. (b) Herbert Block, 'Whence All But He Had Fled,' *Washington Post,* June 10, 1957." %}
+![Two Herblock cartoons. Cartoon A shows a man blowing a trumpet with the words "You're president of the United States" coming out of it next to a sleeping Harry Truman. Cartoon B depicts a ship labeled "China Embargo Policy" sinking with a person on it while a second person rows away in a smaller boat labeled "Eisenhower Comments on China Trade."](/assets/img/v01/appleford/figure2.jpg)
 {% endfigure %}
 
 A straightforward place to start is the frequency with which members of
