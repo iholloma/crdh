@@ -166,6 +166,18 @@ div.essay .abstract {
     }
 }
 
+
+.volume a img:last-child,
+.volume a:hover img:first-child,
+.volume a:active img:first-child {
+    display: none;
+}
+
+.volume a:hover img:last-child,
+.volume a:active img:last-child {
+    display: block;
+}
+
 article.essay img {
     margin: (2 * $card-margin-bottom) 0;
 }
