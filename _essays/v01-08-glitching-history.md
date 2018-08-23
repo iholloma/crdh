@@ -5,15 +5,17 @@ doi: "TK"
 category: "2018"
 volume-number: 1
 year: 2018
-abstract: |
-  Tactics of glitching and deformance, which alter existing digital data into new outputs through the manipulation of underlying code, offer underdeveloped possibilities for historical inquiry. A photograph of musicians Mississippi John Hurt, Doc Watson, and Sam Hinton at the 1964 Berkeley Folk Music Festival serves as a case study for discovering how glitching and deformance reveal previously undetected aspects of the historical record: when glitched, the photograph sparks a heightened awareness of how Hurt and Watson, forced to be carriers of a limiting racial and regional authenticity, also found ways to expand their freedom and agency within the constraints of early 1960s consensus liberalism in the United States. While most histories of the folk revival focus on its primarily white, middle-class audiences, if even to critique their actions, the glitched image aids us in accessing the experiences of Hurt and Watson more robustly. In this way, a digital distortion of a photograph paradoxically produces a more accurate interpretation of the history it captures, enabling a compelling intervention in historiographic debates about the folk revival and its post-World War II American context.
 authors:
 - last: Kramer
   first: Michael J.
   email: michaelk@middlebury.edu
-  affiliation: "Center for Teaching, Learning and Research, Middlebury College"
+  affiliation: "Digital Liberal Arts Initiative, Middlebury College"
   orcid: 0000-0002-4522-0547
   url: "http://www.michaeljkramer.net"
+abstract: |
+  Tactics of glitching and deformance, which alter existing digital data into new outputs through the manipulation of underlying code, offer untapped possibilities for historical inquiry. A photograph of musicians Mississippi John Hurt, Doc Watson, and Sam Hinton at the 1964 Berkeley Folk Music Festival serves as a case study for discovering how glitching and deformance reveal previously undetected aspects of the historical record: when glitched, the photograph sparks a heightened awareness of how Hurt and Watson, forced to be carriers of a limiting racial and regional authenticity, also found ways to expand their freedom and agency within the constraints of early 1960s consensus liberalism in the United States. While most histories of the folk revival focus on its primarily white, middle-class audiences, if even to critique their actions, the glitched image aids us in accessing the experiences of Hurt and Watson more robustly. In this way, a digital distortion of a photograph paradoxically produces a more accurate interpretation of the history it captures, enabling a compelling intervention in historiographic debates about the folk revival and its post-World War II American context.
+preview image: 
+- file: /assets/img/v01/kramer/preview.png
 ---
 
 The photograph from the Berkeley Folk Music Revival presents a Mount
@@ -125,7 +127,7 @@ officials out of official photographs; rather, he (Nathan not Stalin)
 created a remix that raises new questions about the meanings lurking in
 the artifact. Moving the artifact away from its original form brings us
 closer to the stakes up for grabs in its originating historical moment:
-revising the "text," helped us better access the context.
+revising the "text" helped us better access the context.
 
 {% figure caption: "Figure 2. Student Nathan Anderson's 2013 glitch experiment with Kelly Hart's photograph of Hurt, Hinton, and Watson." %}
 ![A glitched photograph showing from left to right, Arthel "Doc" Watson, "Mississippi" John Hurt and Sam Hinton.](/assets/img/v01/kramer/glitched-image.jpg)
@@ -152,7 +154,7 @@ figured Hurt was long dead by the 1960s, but he had, in fact, been
 working as a farmhand near his hometown of Avalon, Mississippi. In 1963,
 a young white blues fan from Washington, DC, Tom Hoskins, found him and
 invited Hurt to perform and record again.[^13] Typically put in the role
-of avuncular inspirer of the revival, supposedly pinned down into having
+of avuncular inspirer of the revival, supposedly trapped into having
 to play the authentic folk musician, Hurt also, as Nathan's glitch
 suggests, made the most of being thrust to stage center of the folk
 revival.[^14] Hoskins and other revivalists forced Hurt into performing
