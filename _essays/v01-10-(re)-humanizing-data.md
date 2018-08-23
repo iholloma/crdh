@@ -7,20 +7,20 @@ volume-number: 1
 year: 2018
 authors:
 - last: Shrout
-  first: Anelise H.
-  email: ashrout@fullerton.edu
-  affiliation: "Department of History, California State University, Fullerton"
+  first: Anelise Hanson
+  email: ashrout@bates.edu
+  affiliation: "Digital and Computational Studies, Bates College"
   orcid: 0000-0001-6277-0607
   url: "http://www.anelisehshrout.com"
 abstract: |
   Fleeing poverty, disease and violence at home, thousands immigrated to New York City in the 1840s. In an unknown city, with little support, many became destitute. City officials responded by consigning immigrants to the Bellevue Hospital Almshouse.  There they were diagnosed as “vagrant,” “destitute” and “recent emigrant” and incarcerated in New York’s nascent public health system.  This paper uses computational methods to reconstruct the experiences of incarcerated immigrants.  It demonstrates the (often archivally invisible) forces that structured immigrants’ lives. It also argues that, despite the violence they suffered at the hands of New York City, these men and women used the Almshouse to forge communities, demand medical care, and claim social support.
 appendix:
-- name: README
-  file: shrout-v01/README.txt
 - name: Data archive
   file: shrout-v01/shrout-data.zip
 - name: Code archive
   file: shrout-v01/shrout-code.zip
+preview image: 
+- file: /assets/img/v01/shrout/preview.png
 ---
 
 On February 23rd, 1847, three adults and one child stepped off the
@@ -146,7 +146,7 @@ archivally on March 12th, when Eliza-Jane and Ellen were "sent" to the
 city's public Almshouse at Bellevue.[^18] James and Arthur do not appear
 again. It is impossible to know how voluntary Eliza-Jane and Ellen's
 incarceration was. The Almshouse admissions ledgers only note "by whom"
-they were "sent," two city officials: George W. Anderson and Peter C.
+they were "sent," two city officials named George W. Anderson and Peter C.
 Johnston. However, Eliza-Jane and Ellen would not have entered Bellevue
 without work by city officials, who were able to exert considerable
 power over newly-arrived immigrants.
@@ -244,7 +244,7 @@ the public health site that inmates were ultimately sent to). Each set
 of variables signified one stage in immigrants' passage through the
 public health system.[^29]
 
-Being diagnosed as "recent emigrant," was also significantly predicted
+Being diagnosed as "recent emigrant," was significantly predicted
 by who sent an immigrant to Bellevue.[^30] Two officials in particular,
 Moses G. Leonard (the Commissioner of the Almshouse) and George W.
 Anderson (the Superintendent of Out Door Poor), were significant in
@@ -288,7 +288,7 @@ institutions, felt about their new surroundings.[^34] On the one hand,
 their presence in Bellevue was evidence that in the short term at least,
 New York officials were able to control their physical circumstances in
 exchange for relief. The production of data about them meant that any
-ailments that might experience were filtered through a set of
+ailments that they might experience were filtered through a set of
 assumptions about their status as immigrants. Their incarceration also
 meant that they were potentially subject to physical violence at the
 hands of Bellevue administrators.
@@ -471,14 +471,14 @@ Emigrant Vessel*. Boston: Coolidge and Wiley, 1848.
 
 ### Notes
 
-[^1]: The author would like to thank Marion Casey, Kalani Craig,
+ The author would like to thank Marion Casey, Kalani Craig,
     Jessica Marie Johnson, Michelle Moravec, Lincoln Mullen, Stephen
     Robertson and Scott Weingart for their support and comments on early
     iterations of this paper, as well as Tyler Anbinder and participants
     in the 2018 Current Research in Digital History for their comments
     and suggestions.
 
-    Balch Institute for Ethnic Studies. Center for Immigration
+[^1]: Balch Institute for Ethnic Studies. Center for Immigration
     Research. "Records for Passengers Who Arrived at the Port of New
     York During the Irish Famine, Created, 1977 - 1989, Documenting the
     Period 1/12/1846 - 12/31/1851."
