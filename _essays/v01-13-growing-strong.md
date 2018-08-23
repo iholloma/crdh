@@ -10,11 +10,11 @@ authors:
 - last: Oberle III
   first: George D.
   email: goberle@gmu.edu
-  affiliation: "Department of History and Art History, George Mason University"
+  affiliation: "University Libraries and Department of History and Art History, George Mason University"
   orcid: 0000-0003-3810-3681
   url: "https://historyarthistory.gmu.edu/people/goberle"
 abstract: |
-  This essay explores how the use of social network graphs can be utilized to explore the relationships between people in civil societies. This study focuses on the membership data from a sample of learned societies as well as federal employees and Army officers during the early republic. Using software constructs a visualization which indicates the shared connections between groups. This offers opportunities to explore if memberships in civil societies mirrored political relationships or if civil societies offered a space to cross political boundaries. Network graphs can help us visualize many relationships and if utilized with traditional sources it can offer a richer understanding of the past. This article provides early insights into an ongoing project which seeks to test Alexander de Tocqueville famous observation which focused on the importance of civil societies to expansion of democracy. 
+  This essay explores how social network graphs can be utilized to explore the relationships between people in civil societies. This study focuses on the membership data from a sample of learned societies as well as federal employees and U.S. Army officers during the early republic. Using software constructs a visualization which indicates the shared connections between groups. This offers opportunities to explore if memberships in civil societies mirrored political relationships or if civil societies offered a space to cross political boundaries. Network graphs can help us visualize many relationships and if utilized with traditional sources it can offer a richer understanding of the past. This article provides early insights into an ongoing project which seeks to test Alexander de Tocqueville famous observation which focused on the importance of civil societies to expansion of democracy. 
 appendix:
 - name: README
   file: oberle-v01/README.txt
@@ -22,6 +22,8 @@ appendix:
   file: oberle-v01/oberle-data.zip
 - name: Code archive
   file: oberle-v01/oberle-code.zip
+preview image: 
+- file: /assets/img/v01/oberle/preview.png
 ---
 
 It is often enticing to see the proliferation of knowledge and knowledge
@@ -66,7 +68,7 @@ nineteenth century.
 
 The social network graph included herein is a part of an ongoing project
 to compare shared memberships between the different groups during the
-first half century of the early republic.[^3] The list currently consists of
+first half century of the early republic. The list currently consists of
 7,745 names and 17 organizations. Selection of these groups started by
 identifying the oldest learned societies in the republic and then adding
 many of the specialized institutions such as the East India Marine
@@ -83,7 +85,7 @@ Columbian Agricultural Society published the names of their membership
 in their journals or other proceedings. Finally, adding in federal
 employees and Army officers during strategic dates offered opportunities
 to explore if there was a change from a homogenous information
-environment to a more diverse and specialized republic of letters.[^4]
+environment to a more diverse and specialized republic of letters.[^3]
 
 {% figure caption: "Figure 1. Network graph of selected early American societies and
 groups. 1811-1850. The size of the circles corresponds to the number of
@@ -96,13 +98,13 @@ Using software constructs a visualization where the thickness of the
 edges indicates more connections between different institutions. This
 network graph also provides a visualization of the size of each
 organization represented in the list based on the total number of
-members.[^5] For example, the American Association for the Advancement
+members.[^4] For example, the American Association for the Advancement
 of Science (AmAssocAdvSci) is obviously the largest single group in the
 graph, while the Medical Society of the District of Columbia is the
 smallest based upon the relative sizes of the circles. This helps
 distinguish the relative size of the groups. Coloring the nodes of
 organizations by type of group also offers an opportunity to show the
-diversity and expansive nature and diversity of interests in civil
+diversity and expansive nature and variation of interests in civil
 society. The thickness of the adjoining lines indicates more shared
 memberships between groups. Clearly, figure 1 shows a significant
 level of connections between individuals across different groups and
@@ -136,7 +138,7 @@ organizations, which are mostly based in New England and the
 Mid-Atlantic region. These officers were scattered throughout the
 country. Additionally, using the federal employees that worked in the
 District of Columbia can offer insights into the impact of the federal
-city as a metropole for the nation.[^6] Additionally, this visualization
+city as a metropole for the nation.[^5] Additionally, this visualization
 can help demonstrate the diversity in the exploration of knowledge away
 from learned societies which focused on universal aspects of knowledge,
 such as the American Philosophical Society and the American Academy of
@@ -157,7 +159,7 @@ as an important defense against tyrannical government and as a way to
 defend liberty. Establishing and joining groups formed a crucial part of
 the democratic experience. Alexander de Tocqueville famously observed,
 "Americans of all ages, of all conditions, of all minds, constantly
-unite."[^7] They did this on a scale and scope that was surprising to
+unite."[^6] They did this on a scale and scope that was surprising to
 Tocqueville, yet he found these societies necessary to a democratic
 society. People joined all kinds of societies including scientific
 societies and proto-professional societies. These were a crucial part of
@@ -167,7 +169,7 @@ participating in a project which was advancing American civilization
 through moral improvement and by learning. The craving for new
 scientific wonders and knowledge gripped the populace as more people
 participated in manufacturing, engineering, mining, and an ever more
-rationalized agricultural system.[^8]
+rationalized agricultural system.[^7]
 
 Some of the most interesting relationships in this graph are the federal
 employees who lived in the Washington D.C. In figure 2 this graph breaks
@@ -185,7 +187,7 @@ fifty-three people that remained represent eight percent of the total
 number of employees in 1841. Additionally, the graph shows us an
 interesting challenge with examining these types of groups. Groups start
 and end. When examining figure 2 we can see that the National Institute
-has no share members in 1816 because it was not formed at this point in
+has no shared members in 1816 because it was not formed at this point in
 time. The Columbian Institute for the Promotion of Arts and Sciences was
 it predecessor, yet it had only sixteen shared memberships with the 1816
 Federal government and was technically still in existence in 1841,
@@ -195,7 +197,7 @@ seem to be associated with employment in the federal government at this
 point in time. This may suggest that the traditional notion that the
 expansion of the federal government led to an expansion in scientific
 learning may not be as interconnected in the early nineteenth century as
-it is in the twentieth.[^9]
+it is in the twentieth.[^8]
 
 {% figure caption: "Figure 2. Shared Group Memberships Between Washington D.C. based Federal
 Employees and Learned Societies." %}
@@ -207,7 +209,7 @@ there were significant numbers of connections between groups. The
 democratic impulse which is evident from the expansion of white male
 voting rights and expansion of the marketplace between 1820-1850 also
 offered an expansion of the chaotic knowledge production
-environment.[^10] Ironically the expanding democratic view of knowledge,
+environment.[^9] Ironically the expanding democratic view of knowledge,
 which offered opportunities for non-elite citizen scientists to collect,
 codify, and even explain objects within the world in which they lived,
 added to the sense of disarray amongst the populace due to the multitude
@@ -223,9 +225,9 @@ associations, such as the United States Agricultural Society. Each group
 focused on their own disciplinary interests which they believed would
 promote and expand knowledge for the good of all. These new national
 institutions, mostly specialized, also offered a mechanism to assure
-credibility to scientific discourse in the United States. However,
+credibility to scientific discourse in the United States.
 
-The establishment of both the groups such as the American Academy for
+The establishment of groups such as the American Academy for
 the Advancement of Science led to, what one scholar called, a "level of
 maturity" for American society to develop an important combined voice to
 enhance scientific progress. These groups also marked a change from the
@@ -245,7 +247,7 @@ were both nationally focused organizations which were based in
 Washington D.C. It seems as if many from the AAAS believed that only a
 clear focus on science scholarship would allow these organizations to
 shed partisanship in order to guide scientific policy for the
-nation.[^11] In their view there were too many unqualified participants
+nation.[^10] In their view there were too many unqualified participants
 in scientific endeavors. One example includes Joseph Henry, professor of
 Natural Science at the College of New Jersey (and future Smithsonian
 Secretary), who complained that journal editors across the country were
@@ -258,7 +260,7 @@ scientist, Benjamin Silliman, the founder of the *American Journal of
 Science* that he was especially concerned that there were not enough
 reviewers of the content published in his journal. Henry reminded Bache
 of their goal: "we must put down quackery or quackery will put down
-science."[^12] Since scientific learning needed to become apolitical,
+science."[^11] Since scientific learning needed to become apolitical,
 and thus not subject to the egalitarian inclination in society, those
 that saw themselves as serious scholars longed for the establishment of
 systematic processes for analysis to thwart the proliferation of
@@ -287,12 +289,12 @@ differentiate between those that he viewed as savants from those that
 were true scientists. He counted at least 28 societies in the country
 spread across ten states and the District of Columbia. Of the
 twenty-eight reported, two-thirds were located in the three states of
-New York (11), Pennsylvania (4), and Massachusetts (4).[^13] Also,
+New York (11), Pennsylvania (4), and Massachusetts (4).[^12] Also,
 twenty-four of them were specialized scientific societies, or lyceums,
 promoting scientific topics and only four were universal institutions
 that resembled the American Philosophical Society. This move toward
 professionalization and popular infatuation with science became a
-national trend until the Civil War.[^14]
+national trend until the Civil War.[^13]
 
 Even though these numbers are impressive they pale when compared to
 other proto-professional societies and fraternal societies which
@@ -304,7 +306,7 @@ agriculture and, like with many organizations, there were some that
 called for a national institution to join together the disparate groups.
 Since many of these states did not adequately fund their state boards
 and institutions they called for the establishment of the United States
-Agricultural Society (USAS).[^15] The USAS, established in 1852, both
+Agricultural Society (USAS).[^14] The USAS, established in 1852, both
 attempted to unite the estimated over nine hundred agricultural society
 groups across the republic under a single umbrella and sought for
 federal funding of the work to promote agriculture. The society,
@@ -319,7 +321,7 @@ Springfield Massachusetts, Springfield Ohio, Boston, Philadelphia,
 Louisville, Richmond, and Chicago. The group promoted the display of a
 host of the finest agricultural specimens, mechanical implements,
 domestic productions, and even artistic and scientific productions by
-offering twenty thousand dollars in premiums to participants.[^16] From
+offering twenty thousand dollars in premiums to participants.[^15] From
 the inception of the USAS their members called for a federal department
 of agricultural which infuriated many southern agricultural advocates
 that saw this move as both inappropriate and unnecessary. Edmund Ruffin,
@@ -331,13 +333,13 @@ government while still supporting their objective to promote
 agricultural knowledge because he saw the organization as a political
 arm of antislavery interests. At times he even felt "conscious-struck
 for my general dislike to all Yankees" yet this did not change his
-distrust of them.[^17] Ruffin was a member of the American Association
+distrust of them.[^16] Ruffin was a member of the American Association
 for the Advancement of Society which was a national institution that
 many judged at the time to be an apolitical organization.
 
 In the end, network graphs can help us visualize many relationships and
 if utilized with traditional sources it can offer a richer understanding
-of the past. The above graph shows that very diverse groups often have
+of the past. Figure 1 shows that very diverse groups often have
 shared memberships that one would not necessarily expect. Still, there
 are many limitations to the graph. Although this graph shows that many
 people were connected in many diverse groups in many cases only a few
@@ -483,15 +485,7 @@ York: Norton, 2005.
 ---
 
 ### Notes
-
-[^1]: Oleson and Brown, *The Pursuit of
-    Knowledge in the Early American Republic*; Dupree,
-    *Science in the Federal Government*; Oberle III,
-    "Institutionalizing the Information Revolution."
-
-[^2]: Funk and Mullen, "The Spine of American Law," 132--164.
-
-[^3]: This work originated with a seminar class taught by Lincoln Mullen
+This work originated with a seminar class taught by Lincoln Mullen
     at George Mason University in the Fall semester 2014 called
     Programming in Digital History/New Media (see
     <http://lincolnmullen.com/courses/clio3.2014>)
@@ -506,7 +500,14 @@ York: Norton, 2005.
     for the anonymous reviewers and Dr. Stephen Robertson who all
     graciously provided very helpful insights and suggestions.
 
-[^4]: This began by using the Scholarly Societies project formally
+[^1]: Oleson and Brown, *The Pursuit of
+    Knowledge in the Early American Republic*; Dupree,
+    *Science in the Federal Government*; Oberle III,
+    "Institutionalizing the Information Revolution."
+
+[^2]: Funk and Mullen, "The Spine of American Law," 132--164.
+
+[^3]: This began by using the Scholarly Societies project formally
     hosted at University of Waterloo Library which can now be found at <http://www.references.net/societies/>.
     I was very strict at first to only use "learned societies" however
     it became clear the project could benefit by using other membership
@@ -516,43 +517,43 @@ York: Norton, 2005.
     the Army helped expand scientific knowledge and bind the disparate
     nation together.
 
-[^5]: The software used was RStudio and the network graph constructed
+[^4]: The software used was RStudio and the network graph constructed
     with the package called igraph.
 
-[^6]: Which an earlier study suggests that the organizations in
+[^5]: Which an earlier study suggests that the organizations in
     Washington D.C. were relatively isolated from the rest of the
     republic. See Oberle III., "Institutionalizing Knowledge in
     Washington's Early Republic."
 
-[^7]: Tocqueville, *Democracy in America*, 489.
+[^6]: Tocqueville, *Democracy in America*, 489.
 
-[^8]: Wilentz, *The Rise of American Democracy*; Wilentz,
+[^7]: Wilentz, *The Rise of American Democracy*; Wilentz,
     *Chants Democratic*; Howe, *The Political Culture of
     the American Whigs*; Howe, *What Hath God Wrought*;
     Gross and Kelly, *An Extensive Republic*; Neem, *Creating a Nation of Joiners*.
 
-[^9]: Dupree, *Science in the Federal Government*.
+[^8]: Dupree, *Science in the Federal Government*.
 
-[^10]: Oleson and Brown, *The Pursuit of Knowledge in the Early American
+[^9]: Oleson and Brown, *The Pursuit of Knowledge in the Early American
     Republic*; Baatz, "Philadelphia Patronage," 111-138; Kohlstedt, *The Formation of the American Scientific Community*; These ideas are being developed for a book which is a
     revision of my dissertation titled "The Institutionalization of
     Knowledge."
 
-[^11]: Dupree, *Science in the Federal Government*, 115--119.
+[^10]: Dupree, *Science in the Federal Government*, 115--119.
 
-[^12]: Henry, *Papers*; Oberle, "Institutionalizing the Information Revolution," 228-231.
+[^11]: Henry, *Papers*; Oberle, "Institutionalizing the Information Revolution," 228-231.
 
-[^13]: Oberle, 2016.
+[^12]: Oberle, "Institutionalizing the Information Revolution."
 
-[^14]: Kerber, *Federalists in Dissent*; Greene, *American Science in the Age of Jefferson*;    here I also rely on the an understanding of the conflict over access to the public      sphere by scholars such as Grasso, *A Speaking Aristocracy*; Dupree, "The
+[^13]: Kerber, *Federalists in Dissent*; Greene, *American Science in the Age of Jefferson*; here I also rely on the an understanding of the conflict over access to the public sphere by scholars such as Grasso, *A Speaking Aristocracy*; Dupree, "The
     National Pattern of American Learned Societies" 21--32.
 
-[^15]: Unfortunately, I have not found a good source for the membership
+[^14]: Unfortunately, I have not found a good source for the membership
     list for the USAS at this time.
 
-[^16]: Carrier, "The United States Agricultural Society,
+[^15]: Carrier, "The United States Agricultural Society,
     1852-1860"; Rossiter, *The Emergence of Agricultural
     Science*; Danhof, *Change in Agriculture*; Mathew,
     *Edmund Ruffin and the Crisis of Slavery*; Ellsworth, "The Philadelphia Society," 189-99; United States Agricultural Society, *Seventh National Exhibition*.
 
-[^17]: Ruffin, *The Diary of Edmund Ruffin*, 145-146; Walther, *The Fire Eaters,* 228.
+[^16]: Ruffin, *The Diary of Edmund Ruffin*, 145-146; Walther, *The Fire Eaters,* 228.
