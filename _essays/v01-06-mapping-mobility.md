@@ -16,7 +16,7 @@ abstract: |
   This project melds archival salary data and demographic data to examine the lives of men and women working in a Wall Street investment bank in the early twentieth century. Linking online database records for the 1900 and 1910 U.S. Censuses, it traces workers’ moves over time and the emergence of a gendered landscape in the New York metropolitan area that prefigured trends in other cities. While male employees grew increasingly likely to live in or move to the suburbs, women employees tended to move to or remain in urban neighborhoods. Examining household data reveals that while women did not receive acknowledgement as family “breadwinners” in fact both male and female workers on Wall Street supported other relatives with the ample salaries they received. In addition, the data indicate female white-collar workers were likely to move considerable distances for employment, often accompanied by other family members rather than being solitary “women adrift.” Government records from other online databases reveal the forms of material and social support women workers provided each other as roommates, traveling companions, and recommenders. The findings illustrate the potential of using digital databases to examine middle-class lives and particularly working women’s lives.
 appendix:
 - name: Data archive
-  file: pertilla-v01/pertilla-data.csv
+  file: pertilla-v01/pertilla-brown-bros-data.xlsx
 preview image: 
 - file: /assets/img/v01/pertilla/preview.png
 ---
