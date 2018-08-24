@@ -1,6 +1,6 @@
 ---
 title: "Quantitative and Qualitative Approaches to the Development of Darwin’s Origin of Species"
-doi: "TK"
+doi: "https://doi.org/10.31835/crdh.2018.14"
 category: "2018"
 volume-number: 1
 year: 2018

@@ -2,7 +2,7 @@
 title: "Synthesis and Large-Scale Textual Corpora"
 subtitle: "A Nested Topic Model of Britain's Debates over Landed Property in the
 Nineteenth Century"
-doi: "TK"
+doi: "https://doi.org/10.31835/crdh.2018.01"
 category: "2018"
 volume-number: 1
 year: 2018
