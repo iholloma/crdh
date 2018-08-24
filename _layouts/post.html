@@ -26,7 +26,7 @@ layout: default
                 <br><small>{{ page.subtitle }}</small>
                 {% endif %}
             </h2>
-            <span class="meta">from volume {{ page.volume-number }} ({{ page.category }}), <a href="{[ page.doi }}">{{ page.doi }}</a></span>
+            <span class="meta">from <a href="/volume/{{ page.category }}/">volume {{ page.volume-number }} ({{ page.category }})</a>, <a href="{{ page.doi }}">{{ page.doi }}</a></span>
         </header>
         <section class="abstract callout">
             <h3>Abstract</h3>
