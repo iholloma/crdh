@@ -15,6 +15,8 @@ authors:
 abstract: |
   Fleeing poverty, disease and violence at home, thousands immigrated to New York City in the 1840s. In an unknown city, with little support, many became destitute. City officials responded by consigning immigrants to the Bellevue Hospital Almshouse.  There they were diagnosed as “vagrant,” “destitute” and “recent emigrant” and incarcerated in New York’s nascent public health system.  This paper uses computational methods to reconstruct the experiences of incarcerated immigrants.  It demonstrates the (often archivally invisible) forces that structured immigrants’ lives. It also argues that, despite the violence they suffered at the hands of New York City, these men and women used the Almshouse to forge communities, demand medical care, and claim social support.
 appendix:
+- name: Medical terms
+  file: shrout-v01/medical_terms.csv
 - name: Data archive
   file: shrout-v01/shrout-data.zip
 - name: Code archive
