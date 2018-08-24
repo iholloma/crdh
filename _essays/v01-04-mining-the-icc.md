@@ -15,12 +15,8 @@ authors:
 abstract: |
   Conservative white politicians created the Indian Claims Commission (ICC) as part of a movement to terminate Indian tribes in the 1940s. Many indigenous studies scholars see the ill intent and certain unjust outcomes as proof of the ICC's damage to tribal sovereignty. Using topic modeling to follow discourses in the decisions, this paper argues the Commission be seen rather as a modest, symbolic step towards meeting federal promises. Topic modeling or macroanalysis allows researchers to read all of the legal decisions distantly. Viewed over time, the decisions categorize the changing relationship between Indian Country and the Federal Government from a policy of terminating tribes' status to much great tribal sovereignty. Text mining also highlighted certain types of decisions, driving analysis and allowing exploration of the corpus. The "accounting" topic and related decisions importantly required the Federal government to symbolically recognize their treaty obligations. The decisions mark a legal process and major events in the late 1960s and 1970s affected their changing discourse. The ICC itself subsequently affected the relationship between tribes and government. By directing an "accounting," the decisions encouraged an additional step in the continuing process of political reconciliation.
 appendix:
-- name: README
-  file: jones-v01/README.md
-- name: Data archive
-  file: jones-v01/jones-data.zip
-- name: Code archive
-  file: jones-v01/jones-code.zip
+- name: Data and Code archive
+  file: jones-v01/jones-data-code.zip
 preview: "/assets/img/v01/jones/preview.png"
 ---
 
