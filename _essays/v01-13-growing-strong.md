@@ -16,12 +16,10 @@ authors:
 abstract: |
   This essay explores how social network graphs can be utilized to explore the relationships between people in civil societies. This study focuses on the membership data from a sample of learned societies as well as federal employees and U.S. Army officers during the early republic. Using software constructs a visualization which indicates the shared connections between groups. This offers opportunities to explore if memberships in civil societies mirrored political relationships or if civil societies offered a space to cross political boundaries. Network graphs can help us visualize many relationships and if utilized with traditional sources it can offer a richer understanding of the past. This article provides early insights into an ongoing project which seeks to test Alexander de Tocqueville famous observation which focused on the importance of civil societies to expansion of democracy. 
 appendix:
-- name: README
-  file: oberle-v01/README.txt
 - name: Data archive
-  file: oberle-v01/oberle-data.zip
+  file: oberle-v01/oberle-data.csv
 - name: Code archive
-  file: oberle-v01/oberle-code.zip
+  file: oberle-v01/oberle-code.Rmd
 preview image: 
 - file: /assets/img/v01/oberle/preview.png
 ---
