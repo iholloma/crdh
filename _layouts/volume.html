@@ -5,9 +5,9 @@ layout: default
 <div class="grid-container">
     <div class="grid-x" aria-role="main">
         <div class="large-9 columns" id="article-list">
-            <h2>{{ site.current_volume }}</h2>
-            {% assign current_essays = site.essays | where:'category',site.current_volume %}
-            {% for essay in current_essays %}
+            <h2>Volume {{ page.volume }}</h2>
+            {% assign volume_essays = site.essays | where:'category',page.volume %}
+            {% for essay in volume_essays %}
               {% assign essay_index = forloop.index %}
               <div class="essay clearfix media-object stack-for-small">
                   <div class="media-object-section">
@@ -45,8 +45,8 @@ layout: default
             <div class="volume">
                 <span class="volume-number">{{ forloop.index }}</span>
                 <a href="{{ site.baseurl }}/volume/{{ volume.title }}">
-                <img src="assets/img/{{ volume.img_dir }}/cover-bw.jpg" alt="Cover for Volume {{ volume.volume }} {{ volume.title }}">
-                <img src="assets/img/{{ volume.img_dir }}/cover-color.jpg" alt="Cover for Volume {{ volume.volume }} {{ volume.title }}">
+                <img src="{{ site.baseurl }}/assets/img/{{ volume.img_dir }}/cover-bw.jpg" alt="Cover for Volume {{ volume.volume }} {{ volume.title }}">
+                <img src="{{ site.baseurl }}/assets/img/{{ volume.img_dir }}/cover-color.jpg" alt="Cover for Volume {{ volume.volume }} {{ volume.title }}">
                 </a>
             </div>
             {% endfor %}
