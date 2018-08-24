@@ -13,9 +13,9 @@ authors:
   orcid: 0000-0003-1473-1210
   url: "http://u.osu.edu/bond.282"
 abstract: |
-  In the decades preceding the French Revolution, newspapers in France published thousands of letters from their readers. Such sources are a rich source for studying the ways in which readers responded to print. This article explores how the practices that readers and publishers employed to reference print matter helped the reading public conceptualize connections between the text they were reading and the larger media landscape. Editors invited their readers to contribute their opinions, and readers responded to the editors and to one another. They referenced articles in the paper, books, or other publications that had inspired their response. Readers also reacted to a periodical other than the one to which they addressed their letter. Using network analysis, the publications that letter writers responded to were tracked across newspapers. Visualizing citations as a network reveals the relationship between literary or political publications and the provincial general information newspapers known as <em>affiches</em>. Readers consumed such disparate publications together. In fact, readers placed the periodicals in direct dialogue by responding to uncensored and international publications in their letters to the censored affiches. Parisian and international publications were read and discussed in provincial centers, even in the censored Old Regime press.
-appendix:
-- none
+  In the decades preceding the French Revolution, newspapers in France published thousands of letters from their readers. Such letters are a rich source for studying the ways in which readers responded to print. This article explores how the practices that readers and publishers employed to reference print matter helped the reading public conceptualize connections between the text they were reading and the larger media landscape. Editors invited their readers to contribute their opinions, and readers responded to the editors and to one another. They referenced articles in the paper, books, or other publications that had inspired their response. Readers also reacted to a periodical other than the one to which they addressed their letter. Using network analysis, the publications that letter writers responded to were tracked across newspapers. Visualizing citations as a network reveals the relationship between literary or political publications and the provincial general information newspapers known as <em>affiches</em>. Readers consumed such disparate publications together. In fact, readers placed the periodicals in direct dialogue by responding to uncensored and international publications in their letters to the censored affiches. Parisian and international publications were read and discussed in provincial centers, even in the censored Old Regime press.
+preview image: 
+- file: /assets/img/v01/bond/preview.png
 ---
 
 Readers in eighteenth-century France witnessed both the slow rise of
@@ -49,7 +49,7 @@ necessarily mean one had read it. Even if one did read a particular
 book, what each reader made of the text varied considerably.[^2]
 
 The sources under study have received little scholarly attention, but
-that are nevertheless particularly well suited to the study of reception
+they are nevertheless particularly well suited to the study of reception
 in the eighteenth century: the thousands of letters to the editor
 published in French newspapers in the last decades of the Old Regime.
 The first French daily newspaper, the *Journal de Paris,* began
@@ -68,10 +68,7 @@ appeared in other newspapers, which they indicated in an editorial note
 that cited the publication.[^3] But they also cut and pasted sentences,
 paragraphs, or entire articles without attributing the content.
 
-In addition to the book manuscript, a digital history project titled
-"Crowdsourcing Enlightenment," which draws upon on these sources is
-currently underway. First, with a team of undergraduate students, we are
-converting the images of the letters to the editor into text files
+The newspapers also hold promise for further digital history research. First, with a team of undergraduate students, we are converting the images of the letters to the editor into text files
 suitable for text analysis. This effort is ongoing.[^4] Second, I am
 building a database of the approximately 7,000 letters. The sources are
 rich in metadata, which include location data (where it was written,
@@ -98,10 +95,7 @@ the safety of bathing an infant in cold water, or whether women should
 be so vocal in the paper. In their responses, they referenced articles
 in the paper, books, or other publications that had inspired their
 response. The citation practices between newspapers, where readers
-reacted to content they had read in a periodical, show that rather than
-writing to that particular periodical for their response, readers
-responded instead in their local *affiches*. The practice was employed
-by a subset of the *affiches* in the dataset, which included the
+reacted to content they had read in a periodical, show that rather than writing to that particular periodical for their response, readers wrote instead to their local  *affiches*. The practice was employed by a subset of the *affiches* in the dataset, which included the
 newspapers published in Paris, Toulouse, Troyes, Grenoble, Marseille,
 Amiens, Angers, Rouen, and Dijon, and only by a small proportion of
 writers. In fact, about one percent of the letters in the corpus of
@@ -137,7 +131,7 @@ of figure 1 show a cluster of literary periodicals that included two
 literary journals published in France: the *Mercure de France*, run by
 the prominent publisher, Charles-Joseph Panckoucke, and *L'Année
 Littéraire*, a more conservative publication by Élie Fréron, who often
-debated Voltaire and other philosophes. The state-run *Gazette de
+debated Voltaire and other philosophes. The *Gazette de
 France*, which published short, censored news reports on geopolitical
 matters, was referenced by Parisian and provincial *affiches*. Readers
 responded to specialized periodicals on jurisprudence (*Gazette des
@@ -160,8 +154,7 @@ medicine.
 The newspapers at the center of the network plot include the Parisian
 *affiches*, the *Journal général de France* and the first daily, the
 *Journal de Paris*. Further from the center lie provincial *affiches*,
-especially from northern and northeastern France followed this trend.
-For example, the *affiches* published in Amiens cited the *Affiches de
+especially from northern and northeastern France. For example, the *affiches* published in Amiens cited the *Affiches de
 Tours*, but also the *Journal de Physique* and the *Mercure de France*.
 The *affiches* from Rouen cited the specialist content of the *Gazette
 d'Agriculture* and the *Gazette des Tribunaux*. But newspapers in
