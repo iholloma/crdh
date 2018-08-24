@@ -8,15 +8,17 @@ year: 2018
 authors:
 - last: Wise
   first: Mary
-  email: mwise@unm.edu
-  affiliation: "College of University Libraries & Learning Sciences, University of New Mexico"
+  email: mary-wise@uiowa.edu
+  affiliation: "History Department, University of Iowa"
   orcid: 0000-0003-1551-1033
-  url: "https://ulls.unm.edu/people/directory/w/wise-mary.php"
+  url: "http://thestudio.uiowa.edu/historycorps/exhibits/show/members"
 abstract: |
   This article examines earthwork activism in the Midwest at the turn of the twentieth century. The activism of Emma Big Bear Holt (Ho-Chunk) and the Conley sisters (Wyandot) in the early 20th century are connected by the history of Indian removal. Earthwork and burial site activists used traditional knowledge, alliance building, family kinship networks, and civic activism. The Midwest is a site of Indian removal and earthwork and burial site activism which revises narratives of Indian removal that textually erased the Ho-Chunk, Miami, and Wyandot. Earthwork and burial site activism bear the marks of indigenous self-determinative action in the past and present.  The activists’ history resists narratives of American Indian defeat.  Rather it supports the idea that American Indian activism can be found even in the most oppressive periods of federal policy.  Furthermore, their story demonstrates that “Indian Removal,” best known as the coerced relocation of the southeastern tribes to Indian Territory, affected many tribes, with devastating effect. Earthwork and burial site activism was self-determinative. The story of Indigenous activism at earthworks in the Midwest is not a simple one. Rather, this is a tale of continuous reform and activism that extends well into the twenty-first century.  
 appendix:
 - name: Data archive
-  file: wise-v01/wise-crdh-data.zip
+  file: wise-v01/wise-data.zip
+preview image: 
+- file: /assets/img/v01/wise/preview.png
 ---
 
 In 1917, some McGregor, Iowa residents were surprised when Emma Big
@@ -258,8 +260,6 @@ Lower Great Lakes*. Norman: University of Oklahoma Press, 2011.
 
 Carman, Mary. "The Last Winnebago In Northeast Iowa" *Journal of the Iowa Archaeological Society* 35 (1988): 72--76.
 
-"Census of the Wisconsin-Winnebago Indians of Grand Rapids Agency, Wisconsin." Enumerated by W.E. Dunn.
-
 Clark, Florence. "Economic Problems No Bother to Indian Family; Lives
 Close to Nature." *Cedar Rapids Gazette and Republican*, July 18, 1931.
 
@@ -273,7 +273,7 @@ Dean, Samantha Rae. "'As Long As Grass Grows And Water Flows': Lyda Conley And T
 
 English, Jan. "A Chronological History of the Wyandot Nation of Kansas at 1902." Unpublished manuscript, on file with author. Wyandotte County Historical Society, 1994.
 
-*Indian Census Rolls, 1885-1940*. Washington: National Archives and Records Service, 1965.
+*Indian Census Rolls, 1885-1940.* National Archives Microfilm Publication M595. *Family Search.org*. Washshington, D.C.: National Archives and Records Administration, 1967.
 
 Kappler, Charles L., ed. *Indian Affairs: Laws and Treaties 2*. Washington: Government Printing Office, 1904.
 
@@ -299,7 +299,7 @@ U.S. Census Bureau. *1930 Federal Census*. Enumerated by Bernadette Kensaw. Apri
     address. See Carman, "The Last Winnebago In Northeast
     Iowa." On June 30, 1918, Emma Big Bear Holt reported at the
     Grand Rapids Agency in Wisconsin. See "Census of the
-    Wisconsin-Winnebago," June 30, 1918, p. 128.
+    Wisconsin-Winnebago," enumerated by W.E. Dunn, in *Indian Census Rolls, 1885-1940*, June 30, 1918, film 312, <https://familysearch.org/ark:/61903/1:1:QPQC-TJS9>.
 
 [^2]: For a general history on the Ho-Chunk Removals, see Oestreich, *Wisconsin Indians*.
 
