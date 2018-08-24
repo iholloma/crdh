@@ -1,16 +1,12 @@
-# use tabs for indentation!
+all :
+	@echo "Tell me what you want to do: no default for your safety."
 
-SSH-USER = my-username
-SSH-HOST = my-host
-REMOTE-PATH = /my-remote-path with trailing slash/
+deploy :
+	@echo "Deploying to server ..."
+	rsync --checksum --delete -avz _site/* athena:/websites/crdh/www/
 
-deploy:
-	rsync -cavze ssh --delete ./_site/ $(SSH-USER)@$(SSH-HOST):$(REMOTE-PATH)
+appendices :
+	rsync --checksum -avz ../crdh-appendices/* \
+	 athena:/websites/crdh/www/appendices 
 
-install:
-	bundle install
-	yarn install
-	# composer install
-
-ssh:
-	ssh $(SSH-USER)@$(SSH-HOST)
+.PHONY: all deploy appendices

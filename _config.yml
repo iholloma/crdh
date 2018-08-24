@@ -63,5 +63,5 @@ highlighter:      rouge
 
 # CRDH
 
-appendices:       ""
+appendices:       "http://crdh.rrchnm.org/appendices"
 current_volume:   "2018"
