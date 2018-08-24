@@ -272,7 +272,7 @@ Dean, Samantha Rae. "'As Long As Grass Grows And Water Flows': Lyda Conley And T
 
 English, Jan. "A Chronological History of the Wyandot Nation of Kansas at 1902." Unpublished manuscript, on file with author. Wyandotte County Historical Society, 1994.
 
-*Indian Census Rolls, 1885-1940.* National Archives Microfilm Publication M595. *Family Search.org*. Washshington, D.C.: National Archives and Records Administration, 1967.
+*Indian Census Rolls, 1885-1940*. National Archives Microfilm Publication M595, 692 rolls. Records of the Bureau of Indian Affairs, Record Group 75. National Archives, Washington, D.C. Accessed at Ancestry.com. Provo, UT: Ancestry.com, 2007.
 
 Kappler, Charles L., ed. *Indian Affairs: Laws and Treaties 2*. Washington: Government Printing Office, 1904.
 
@@ -297,8 +297,7 @@ U.S. Census Bureau. *1930 Federal Census*. Enumerated by Bernadette Kensaw. Apri
     Holt and Federal Indian Census Records that report Emma's change in
     address. See Carman, "The Last Winnebago In Northeast
     Iowa." On June 30, 1918, Emma Big Bear Holt reported at the
-    Grand Rapids Agency in Wisconsin. See "Census of the
-    Wisconsin-Winnebago," enumerated by W.E. Dunn, in *Indian Census Rolls, 1885-1940*, June 30, 1918, film 312, <https://familysearch.org/ark:/61903/1:1:QPQC-TJS9>.
+    Grand Rapids Agency in Wisconsin. See "1920 Indian Census," Grand Rapids Agency, Grand Rapids Wisconsin, Roll M595, Line 17, in *Indian Census Rolls, 1885-1940*.
 
 [^2]: For a general history on the Ho-Chunk Removals, see Oestreich, *Wisconsin Indians*.
 
@@ -351,7 +350,7 @@ U.S. Census Bureau. *1930 Federal Census*. Enumerated by Bernadette Kensaw. Apri
 [^11]: U.S. Census Bureau, *1930 Federal Census*, sheet no. 2B, pg. 940. In the 1930 Federal Census, Bernadette Kensaw listed Robert F. Holt as a nephew to William Henry Holt, a resident of Allamakee County, Iowa. 
 
 [^12]: For general information on the Indian Census, see *Indian Census
-    Rolls, 1885-1940*, NARA. Emma Big Bear reported to the Grand Rapids Agency
+    Rolls, 1885-1940*, National Archives. Emma Big Bear reported to the Grand Rapids Agency
     from 1919 to 1937.
 
 [^13]: Dayton, "Trespassers, Beware," 4-10.
