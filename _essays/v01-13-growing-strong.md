@@ -1,7 +1,7 @@
 ---
 title: "Growing Strong"
-subtitle: "The institutional expansion of knowledge in the early
-republic"
+subtitle: "The Institutional Expansion of Knowledge in the Early
+Republic"
 doi: "TK"
 category: "2018"
 volume-number: 1

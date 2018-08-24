@@ -1,6 +1,6 @@
 ---
-title: "Geo-locating census micro-data"
-subtitle: "Segregation, clustering, and residential behaviours of migrant communities in London, 1881-1911"
+title: "Geo-Locating Census Micro-Data"
+subtitle: "Segregation, Clustering, and Residential Behaviours of Migrant Communities in London, 1881-1911"
 doi: "TK"
 category: "2018"
 volume-number: 1
