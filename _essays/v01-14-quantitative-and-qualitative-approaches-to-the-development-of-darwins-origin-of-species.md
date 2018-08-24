@@ -5,27 +5,27 @@ doi: "TK"
 category: "2018"
 volume-number: 1
 year: 2018
-abstract: |
-  From 1837, when he returned to England aboard the <em>HMS Beagle</em>, to 1860, just after publication of <em>The Origin of Species</em>, Charles Darwin kept detailed notes of each book he read or wanted to read. His notes and manuscripts provide information about decades of individual scientific practice. Previously, we trained topic models on the full texts of each reading, and applied information-theoretic measures to detect that changes in his reading patterns coincided with the boundaries of his three major intellectual projects in the period 1837-1860. In this new work we apply the reading model to five additional documents, four of them by Darwin: the first edition of <em>The Origin of Species</em>, two private essays stating intermediate forms of his theory in 1842 and 1844, a third essay of disputed dating, and Alfred Russel Wallace's essay, which Darwin received in 1858. We address three historical inquiries, previously treated qualitatively: 1) the mythology of "Darwin's Delay," that despite completing an extensive draft in 1844, Darwin waited until 1859 to publish <em>The Origin of Species</em> due to external pressures; 2) the relationship between Darwin and Wallace's contemporaneous theories, especially in light of their joint presentation; and 3) dating of the "Outline and Draft" which was rediscovered in 1975 and postulated first as an 1839 draft preceding the Sketch of 1842, then as an interstitial draft between the 1842 and 1844 essays.
 authors:
 - last: Murdock
   first: Jaimie
   email: jammurdo@indiana.edu
   affiliation: "School of Informatics, Computing, and Engineering, Indiana University"
-  orcid: text
+  orcid: 0000-0002-1732-5499
   url: "http://www.jamram.net/"
 - last: Allen
   first: Colin
   email: colallen@indiana.edu
   affiliation: "Department of History and Philosophy of Science, Indiana University"
-  orcid: text
-  url: "text"
+  orcid: 0000-0003-4497-1725
+  url: "http://colinallen.dnsalias.org/"
 - last: DeDeo
   first: Simon
   email: sdedeo@andrew.cmu.edu
   affiliation: "Social and Decision Sciences, Carnegie Mellon University"
-  orcid: text
-  url: "text"
+  orcid: 0000-0002-5346-9393
+  url: "http://tuvalu.santafe.edu/~simon/"
+abstract: |
+  From 1837, when he returned to England aboard the <em>HMS Beagle</em>, to 1860, just after publication of <em>The Origin of Species</em>, Charles Darwin kept detailed notes of each book he read or wanted to read. His notes and manuscripts provide information about decades of individual scientific practice. Previously, we trained topic models on the full texts of each reading, and applied information-theoretic measures to detect that changes in his reading patterns coincided with the boundaries of his three major intellectual projects in the period 1837-1860. In this new work we apply the reading model to five additional documents, four of them by Darwin: the first edition of <em>The Origin of Species</em>, two private essays stating intermediate forms of his theory in 1842 and 1844, a third essay of disputed dating, and Alfred Russel Wallace's essay, which Darwin received in 1858. We address three historical inquiries, previously treated qualitatively: 1) the mythology of "Darwin's Delay," that despite completing an extensive draft in 1844, Darwin waited until 1859 to publish <em>The Origin of Species</em> due to external pressures; 2) the relationship between Darwin and Wallace's contemporaneous theories, especially in light of their joint presentation; and 3) dating of the "Outline and Draft" which was rediscovered in 1975 and postulated first as an 1839 draft preceding the Sketch of 1842, then as an interstitial draft between the 1842 and 1844 essays.
 preview: 
 - file: /assets/img/v01/murdock/preview.png
 ---
