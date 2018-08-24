@@ -94,7 +94,7 @@ member of the Society of Phi Beta Kappa. Like Jefferson, Short studied
 law under George Wythe and joined the Virginia Bar. Like Jefferson,
 Short served on Virginia's Executive Council---a prestigious appointment
 that might have served as a stepping-stone to higher office. Yet, unlike
-Jefferson, Short chose a path that took him out of state and -- for more
+Jefferson, Short chose a path that took him out of state and---for more
 than two decades---out of country. In 1784, he sold his slaves, which
 he had inherited from his father, left the Commonwealth of
 Virginia---never to settle there again---and moved to Paris to serve as
@@ -270,7 +270,7 @@ freedom and civilization. That Jefferson ignored or rejected all such
 appeals from Short, over the course of forty years, is significant. It
 confirms his almost routine exposure to opposing views from within his
 inner circle and accentuates the closed-mindedness that characterized
-his thinking on the subjects of race and slavery.[^20]
+his thinking on the subjects of race and slavery.
 
 Upon his return to America in 1810, Short settled in Philadelphia and
 steadily retreated from his more radical views on race, emancipation,
@@ -293,13 +293,13 @@ favor of the expopulating system. If you should have now, like myself,
 become convinced of the impracticability, or even of the inhumanity of
 this plan, would it not be worth while to encourage the idea of changing
 the condition of these slaves into that of serfs attached to the
-glebe?"[^21] Jefferson was unmoved. In a reply to Short, written six
+glebe?"[^20] Jefferson was unmoved. In a reply to Short, written six
 months before his death, Jefferson conceded Short's point that
 converting slaves into serfs might improve their lot, but said he still
 favored the "expatriation" of emancipated blacks to countries governed
 and populated by people "of their own colour." Jefferson declared this
 scheme "entirely practicable" and "greatly preferable to the mixture of
-colour here."[^22]
+colour here."[^21]
 
 Jefferson's death on July 4, 1826, freed Short to ponder the what-ifs of
 their long-distance correspondence. What if Jefferson had been more
@@ -314,7 +314,7 @@ satisfy the owners & the Legislature of the State as to it. Mr. J., to
 whom I had written on the subject a short time before his death, agreed
 that mine would be the best remedy save one, wch. was his old one of
 shipping them off. You know he did not easily renounce any idea which
-he had taken up in this way."[^23]
+he had taken up in this way."[^22]
 
 ---
 
@@ -445,7 +445,7 @@ An early version of this paper was presented at the Robert H.
     Jefferson), Short may have attended Jefferson's wedding in 1772. He
     visited Monticello several times before Martha Jefferson died in
     1782, and he accompanied the Jefferson family to Poplar Forest in
-    1781 when the family escaped Tarleton's troops." Bowman, "William Short."
+    1781 when the family escaped Tarleton's troops." Bowman, "William Short"; The term "adoptive son" is taken from Shackelford, *Jefferson's Adoptive Son*.
 
 [^7]: Shackelford, "William Short," 171--172.
 
@@ -499,14 +499,12 @@ An early version of this paper was presented at the Robert H.
 
 [^19]: For a discussion of research on the white tenant farmers, see George, "Surveying the Past," 16--23; Cannon, "Early Archaeology at Morven," <https://news.virginia.edu/content/early-archaeology-morven-taps-little-studied-veins-history>.
 
-[^20]: The term "adoptive son" is taken from Shackelford, *Jefferson's Adoptive Son*.
-
-[^21]: Short to Jefferson, 9 October, 1823, Jefferson Papers, Library of
+[^20]: Short to Jefferson, 9 October, 1823, Jefferson Papers, Library of
     Congress, <https://www.loc.gov/item/mtjbib024765/>.
 
-[^22]: Jefferson to Short, 18 January 1826, Jefferson Papers, *Founders Online*, National
+[^21]: Jefferson to Short, 18 January 1826, Jefferson Papers, *Founders Online*, National
     Archives, <http://founders.archives.gov/documents/Jefferson/98-01-02-5842>.
 
-[^23]: Short to John Hartwell Cocke, 8 January 1829, Cocke Family Papers,
+[^22]: Short to John Hartwell Cocke, 8 January 1829, Cocke Family Papers,
     Accession #640, Box 58, Special Collections, University of Virginia
     Library.
