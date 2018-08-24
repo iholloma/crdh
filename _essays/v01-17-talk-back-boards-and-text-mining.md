@@ -14,6 +14,8 @@ authors:
   url: "https://jhowardhistory.com"
 abstract: |
   A simple analog tool–the post-it or sticky note–alongside text mining methodologies can open up new information about museum visitors. Since the late-1970s, museums have sought visitor engagement through talk-back boards, essentially a blank museum space with a printed question and a method of public response within reach. Visitors typically respond with short responses of less than ten words. Digitally exploring talk-back boards provides museums with a new visitor studies approach that provides increased simplicity in implementation, mass data creation, and low cost. The only significant shortcomings are the absence of demographic data collection and that talk-back boards remain an under-researched and method. Talk-back boards offer insight into visitor sensibilities that are often privately held and divorced from the museum setting itself, an insight that compliments the findings of the most common visitor studies methods. This study analyzes results from this approach gathered at two museums: Seminary Ridge Museum in Gettysburg, PA and Women's Rights National Historical Park in Seneca Falls, NY.
+preview image: 
+- file: /assets/img/v01/howard/preview.png
 ---
 
 Museum visitor studies are in a bit of a rut. This is a statement that
