@@ -1,7 +1,7 @@
 ---
 title: "\"Attracted by the Khaki\""
 subtitle: "War Camps and Wayward Girls in Virginia, 1918-1920"
-doi: "TK"
+doi: "https://doi.org/10.31835/crdh.2018.07"
 category: "2018"
 volume-number: 1
 year: 2018

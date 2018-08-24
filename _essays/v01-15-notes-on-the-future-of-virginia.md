@@ -1,7 +1,7 @@
 ---
 title: "Notes on the Future of Virginia"
 subtitle: "Visualizing a 40-Year Conversation on Race and Slavery in the Correspondence of Jefferson and Short"
-doi: "TK"
+doi: "https://doi.org/10.31835/crdh.2018.15"
 category: "2018"
 volume-number: 1
 year: 2018

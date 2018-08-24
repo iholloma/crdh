@@ -1,7 +1,7 @@
 ---
 title: "(Re)Humanizing Data"
 subtitle: "Digitally Navigating the Bellevue Almshouse"
-doi: "TK"
+doi: "https://doi.org/10.31835/crdh.2018.10"
 category: "2018"
 volume-number: 1
 year: 2018
