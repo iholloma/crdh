@@ -14,8 +14,7 @@ authors:
   url: "http://www.michaeljkramer.net"
 abstract: |
   Tactics of glitching and deformance, which alter existing digital data into new outputs through the manipulation of underlying code, offer untapped possibilities for historical inquiry. A photograph of musicians Mississippi John Hurt, Doc Watson, and Sam Hinton at the 1964 Berkeley Folk Music Festival serves as a case study for discovering how glitching and deformance reveal previously undetected aspects of the historical record: when glitched, the photograph sparks a heightened awareness of how Hurt and Watson, forced to be carriers of a limiting racial and regional authenticity, also found ways to expand their freedom and agency within the constraints of early 1960s consensus liberalism in the United States. While most histories of the folk revival focus on its primarily white, middle-class audiences, if even to critique their actions, the glitched image aids us in accessing the experiences of Hurt and Watson more robustly. In this way, a digital distortion of a photograph paradoxically produces a more accurate interpretation of the history it captures, enabling a compelling intervention in historiographic debates about the folk revival and its post-World War II American context.
-preview image: 
-- file: /assets/img/v01/kramer/preview.png
+preview: "/assets/img/v01/kramer/preview.png"
 ---
 
 The photograph from the Berkeley Folk Music Revival presents a Mount

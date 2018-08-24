@@ -14,8 +14,7 @@ authors:
   url: "http://history.scotfrench.com"
 abstract: |
   Between 1785, when the first English-language edition of <em>Notes on the State of Virginia</em> was published, and January 1826, less than six months before his death at Monticello, Thomas Jefferson and his Virginia-born friend and "adoptive son," William Short, engaged in a remarkable conversation about the fate of blacks in Virginia's post-emancipation future. From their respective posts in Europe and United States, they discussed issues of race, slavery, emancipation, agricultural reform, and alternative labor systems based on European models (<em>villeinage</em>, or serfdom, and <em>metayage</em>, or sharecropping). Both men observed the condition of Europe's white laboring poor while serving there as diplomats in the 1780s; both recognized the dangers posed by slavery in the Haitian Revolution of the 1790s and Gabriel's Rebellion of 1800; and both expressed a desire to experiment with new labor systems that could provide a way out of slavery while preserving the agricultural basis of Virginian and American society. Yet they differed pointedly on the racial destiny of African Americans and the best path to a post-emancipation society in Virginia. Short directly challenged Jefferson's views on black inferiority and questioned his continuing support for the colonization/expatriation/expopulation of blacks as the only viable alternative to slavery.
-preview image: 
-- file: /assets/img/v01/french/preview.png
+preview: "/assets/img/v01/french/preview.png"
 ---
 
 Thomas Jefferson's views on race and slavery are well known to

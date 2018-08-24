@@ -22,8 +22,7 @@ appendix:
   file: oberle-v01/oberle-data.zip
 - name: Code archive
   file: oberle-v01/oberle-code.zip
-preview image: 
-- file: /assets/img/v01/oberle/preview.png
+preview: "/assets/img/v01/oberle/preview.png"
 ---
 
 It is often enticing to see the proliferation of knowledge and knowledge

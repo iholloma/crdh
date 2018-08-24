@@ -23,8 +23,7 @@ abstract: |
 appendix:
 - name: Data archive
   file: galbreath-v01/galbreath-giroux-data.zip
-preview image: 
-- file: /assets/img/v01/galbreath/preview.png
+preview: "/assets/img/v01/galbreath/preview.png"
 ---
 
 While much of U.S. industry experienced increased productivity and

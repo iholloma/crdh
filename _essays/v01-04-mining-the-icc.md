@@ -21,8 +21,7 @@ appendix:
   file: jones-v01/jones-data.zip
 - name: Code archive
   file: jones-v01/jones-code.zip
-preview image: 
-- file: /assets/img/v01/jones/preview.png
+preview: "/assets/img/v01/jones/preview.png"
 ---
 
 From 1946 until 1978, the Indian Claims commission (ICC) deliberated

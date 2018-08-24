@@ -14,8 +14,7 @@ authors:
   url: "http://u.osu.edu/bond.282"
 abstract: |
   In the decades preceding the French Revolution, newspapers in France published thousands of letters from their readers. Such letters are a rich source for studying the ways in which readers responded to print. This article explores how the practices that readers and publishers employed to reference print matter helped the reading public conceptualize connections between the text they were reading and the larger media landscape. Editors invited their readers to contribute their opinions, and readers responded to the editors and to one another. They referenced articles in the paper, books, or other publications that had inspired their response. Readers also reacted to a periodical other than the one to which they addressed their letter. Using network analysis, the publications that letter writers responded to were tracked across newspapers. Visualizing citations as a network reveals the relationship between literary or political publications and the provincial general information newspapers known as <em>affiches</em>. Readers consumed such disparate publications together. In fact, readers placed the periodicals in direct dialogue by responding to uncensored and international publications in their letters to the censored affiches. Parisian and international publications were read and discussed in provincial centers, even in the censored Old Regime press.
-preview image: 
-- file: /assets/img/v01/bond/preview.png
+preview: "/assets/img/v01/bond/preview.png"
 ---
 
 Readers in eighteenth-century France witnessed both the slow rise of

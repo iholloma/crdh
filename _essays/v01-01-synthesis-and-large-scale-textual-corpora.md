@@ -28,8 +28,7 @@ appendix:
   file: guldi-v01/guldi-williams-data.zip
 - name: Code archive
   file: guldi-v01/guldi-williams-code.zip
-preview image: 
-- file: /assets/img/v01/guldi/preview.png
+preview: "/assets/img/v01/guldi/preview.png"
 ---
 
 Faced with a previously-undigested body of documents, how can a scholar

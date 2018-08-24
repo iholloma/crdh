@@ -17,8 +17,7 @@ abstract: |
 appendix:
 - name: Data archive
   file: pertilla-v01/pertilla-data.csv
-preview image: 
-- file: /assets/img/v01/pertilla/preview.png
+preview: "/assets/img/v01/pertilla/preview.png"
 ---
 
 "Mapping Mobility" uses a database of the homes of the Wall Street

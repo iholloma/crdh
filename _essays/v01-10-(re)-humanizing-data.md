@@ -19,8 +19,7 @@ appendix:
   file: shrout-v01/shrout-data.zip
 - name: Code archive
   file: shrout-v01/shrout-code.zip
-preview image: 
-- file: /assets/img/v01/shrout/preview.png
+preview: "/assets/img/v01/shrout/preview.png"
 ---
 
 On February 23rd, 1847, three adults and one child stepped off the

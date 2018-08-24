@@ -14,8 +14,7 @@ authors:
   url: "https://jamesperry.uk/"
 abstract: |
   The settlement of foreign-born migrant communities in London has received considerable scholarly attention. Using the recently released Integrated Census Microdata, this article contributes to the literature as it argues that individualised mapping processes can reveal distinct settlement patterns within migrant communities. Furthermore, it is demonstrated that migrants were highly mobile entities and that communities continuously underwent radical transformations. Two areas of East London are used as case studies to highlight the different behaviours exhibited by migrant groups during a period of intense arrival and settlement. These neighbourhoods were selected on account of the availability of geo-spatial and census data. After processing in a Geographic Information System, data is explored and mapped to illustrate the concentration and composition of individual properties. Ultimately, this article presents evidence of tight migrant clustering and the gradual expansion of migrants as they eventually settle entire streets. The decennial changes highlight some form of interchange. As migrants left one subsection, they moved to another. Although the literature indicated and suggested strong tendencies of residential clustering, this research has demonstrated the complexities of this point and revealed a number of previously unexplored behaviours.
-preview image: 
-- file: /assets/img/v01/perry/preview.png
+preview: "/assets/img/v01/perry/preview.png"
 ---
 
 ### I. Introduction

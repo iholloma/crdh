@@ -18,8 +18,7 @@ abstract: |
 appendix:
 - name: Data archive
   file: ewing-v01/ewing-influenza-cholera-data.numbers
-preview image: 
-- file: /assets/img/v01/ewing/preview.png
+preview: "/assets/img/v01/ewing/preview.png"
 ---
 
 On December 15, 1889, the *Omaha Daily Bee* newspaper quoted a French

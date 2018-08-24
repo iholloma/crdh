@@ -17,8 +17,7 @@ abstract: |
 appendix:
 - name: Data archive
   file: wise-v01/wise-data.zip
-preview image: 
-- file: /assets/img/v01/wise/preview.png
+preview: "/assets/img/v01/wise/preview.png"
 ---
 
 In 1917, some McGregor, Iowa residents were surprised when Emma Big

@@ -21,8 +21,7 @@ appendix:
   file: catalano-v01/catalano-data.zip
 - name: Code archive
   file: catalano-v01/catalano-code.zip
-preview image: 
-- file: /assets/img/v01/catalano/preview.png
+preview: "/assets/img/v01/catalano/preview.png"
 ---
 
 > “How smooth must be the language of the whites, when they can make right look like wrong, and wrong like right.” ---Blackhawk

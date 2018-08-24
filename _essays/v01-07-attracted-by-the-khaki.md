@@ -17,8 +17,7 @@ abstract: |
 appendix:
 - name: Data archive
   file: bush-v01/bush-data.zip  
-preview image: 
-- file: /assets/img/v01/bush/preview.png
+preview: "/assets/img/v01/bush/preview.png"
 ---
 
 When the United States government called its young men to duty to

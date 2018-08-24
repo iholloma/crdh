@@ -19,8 +19,7 @@ appendix:
   file: appleford-v01/appleford-data.zip
 - name: Code archive
   file: appleford-v01/appleford-code.zip
-preview image: 
-- file: /assets/img/v01/appleford/preview.png
+preview: "/assets/img/v01/appleford/preview.png"
 ---
 
 In the space of a single week in March 1951, the *Washington Post*'s
