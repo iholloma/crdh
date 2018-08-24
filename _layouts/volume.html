@@ -16,7 +16,11 @@ layout: default
                       </div>
                   </div>
                   <div class="media-object-section">
+                      {% if essay.subtitle %}
+                      <h3><a href="{{ essay.url }}">{{ essay.title }}: {{ essay.subtitle }}</a></h3>
+                      {% else %}
                       <h3><a href="{{ essay.url }}">{{ essay.title }}</a></h3>
+                      {% endif %}
                       <span class="author">
                       {% for author in essay.authors %}
                           {% assign author_index = forloop.index %}
