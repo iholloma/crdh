@@ -5,7 +5,7 @@ layout: default
 <div class="grid-container">
     <div class="grid-x" aria-role="main">
         <div class="large-9 columns" id="article-list">
-            <h2>{{ site.current_volume }}</h2>
+            <h2>Current Volume ({{ site.current_volume }})</h2>
             {% assign current_essays = site.essays | where:'category',site.current_volume %}
             {% for essay in current_essays %}
               {% assign essay_index = forloop.index %}
