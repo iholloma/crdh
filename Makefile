@@ -1,5 +1,5 @@
-all :
-	@echo "Tell me what you want to do: no default for your safety."
+preview :
+	gulp
 
 deploy :
 	@echo "Deploying to server ..."
@@ -9,4 +9,4 @@ appendices :
 	rsync --checksum -avz ../crdh-appendices/* \
 	 athena:/websites/crdh/www/appendices 
 
-.PHONY: all deploy appendices
+.PHONY: preview deploy appendices
