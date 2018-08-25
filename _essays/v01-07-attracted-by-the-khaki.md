@@ -1,6 +1,6 @@
 ---
-title: "\"Attracted by the Khaki\""
-subtitle: "War Camps and Wayward Girls in Virginia, 1918-1920"
+title: "“Attracted by the Khaki”"
+subtitle: "War Camps and Wayward Girls in Virginia, 1918–1920"
 doi: "https://doi.org/10.31835/crdh.2018.07"
 category: "2018"
 volume-number: 1
@@ -13,7 +13,7 @@ authors:
   orcid: 0000-0002-5958-9038
   url: "http://erinbush.org/"
 abstract: |
-  This article examines the reactions of Virginia’s public welfare reformers to fears about the rise of prostitution and sex delinquency near state military training facilities during World War I. By visualizing data derived from the admissions logs of Virginia’s two segregated female reformatories, this article argues that the war provided the needed rationale to fund the expansion of state institutions and their programs to reform delinquent girls. Additionally, maps of the data show that the social engineering that targeted delinquent girls in Virginia spread beyond both its war camps and its cities into the mountains and other rural areas of the state. Scholars studying the history of female delinquency have argued that the vast majority of girls targeted for behavioral rehabilitation in the early twentieth century were typically poor, urban-dwelling daughters of working-class or immigrant parents. Virginia's predominantly rural setting complicates our understanding of female delinquency as a problem stemming primarily from the challenges of vast urbanization. The case of Virginia suggests that delinquency studies to date may have been too urban in their focus, failing to see that rural communities were also targeting girls for incarceration and reform.
+  This article examines the reactions of Virginia’s public welfare reformers to fears about the rise of prostitution and sex delinquency near state military training facilities during World War I. By visualizing data derived from the admissions logs of Virginia’s two segregated female reformatories, this article argues that the war provided the needed rationale to fund the expansion of state institutions and their programs to reform delinquent girls. Additionally, maps of the data show that the social engineering that targeted delinquent girls in Virginia spread beyond both its war camps and its cities into the mountains and other rural areas of the state. Scholars studying the history of female delinquency have argued that the vast majority of girls targeted for behavioral rehabilitation in the early twentieth century were typically poor, urban-dwelling daughters of working-class or immigrant parents. Virginia’s predominantly rural setting complicates our understanding of female delinquency as a problem stemming primarily from the challenges of vast urbanization. The case of Virginia suggests that delinquency studies to date may have been too urban in their focus, failing to see that rural communities were also targeting girls for incarceration and reform.
 appendix:
 - name: Data archive
   file: bush-v01/bush-data.zip  

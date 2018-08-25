@@ -1,6 +1,6 @@
 ---
 title: "Synthesis and Large-Scale Textual Corpora"
-subtitle: "A Nested Topic Model of Britain's Debates over Landed Property in the
+subtitle: "A Nested Topic Model of Britain’s Debates over Landed Property in the
 Nineteenth Century"
 doi: "https://doi.org/10.31835/crdh.2018.01"
 category: "2018"
@@ -20,7 +20,7 @@ authors:
   orcid: 0000-0001-8474-5066
   url: "https://github.com/williamsbenjamin"
 abstract: |
-  Scholars need tools that will allow them to generalize about the fit of themes, events, and rhetorical styles represented in a body of texts. In this article, we introduce the concept of "nested topics," an approach to topic modeling large-scale textual corpora that highlights implicit ontologies and relationships <em>within</em> the texts themselves. This tool exploits the fact that topic modeling can be used to generalize about topics on an aggregate level as well as a fine-grained level, an approach that has the consequences of revealing overarching <em>themes</em> that appear across all texts as well as more idosyncratic events and rehtorical styles that adhere to only a few documents. The tool's effectiveness is tested by modeling discussions of property in British parliamentary debates in the nineteenth century. Nested topics help the authors to locate the rhetorical styles engaged in by Irish parliamentarians as they defended tenant rights in the 1880s.
+  Scholars need tools that will allow them to generalize about the fit of themes, events, and rhetorical styles represented in a body of texts. In this article, we introduce the concept of “nested topics,” an approach to topic modeling large-scale textual corpora that highlights implicit ontologies and relationships <em>within</em> the texts themselves. This tool exploits the fact that topic modeling can be used to generalize about topics on an aggregate level as well as a fine-grained level, an approach that has the consequences of revealing overarching <em>themes</em> that appear across all texts as well as more idosyncratic events and rehtorical styles that adhere to only a few documents. The tool’s effectiveness is tested by modeling discussions of property in British parliamentary debates in the nineteenth century. Nested topics help the authors to locate the rhetorical styles engaged in by Irish parliamentarians as they defended tenant rights in the 1880s.
 appendix:
 - name: README
   file: guldi-v01/README.txt

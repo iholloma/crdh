@@ -1,5 +1,5 @@
 ---
-title: "\"The Two Diseases Are So Utterly Dissimilar\""
+title: "“The Two Diseases Are So Utterly Dissimilar”"
 subtitle: "Using Digital Humanities Tools to Advance Scholarship in the Global
 History of Medicine"
 doi: "https://doi.org/10.31835/crdh.2018.12"
