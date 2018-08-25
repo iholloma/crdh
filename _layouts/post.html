@@ -7,17 +7,15 @@ layout: default
         <header class="essay-header">
             <span class="author">
                 {% for author in page.authors %}
-                    {% assign author_name = author.first | append: ' ' | append: author.last %}
-                    {% if forloop.index > 1 and page.authors.size > forloop.index %}
-                        ,
-                    {% elsif forloop.index > 1 and page.authors.size == forloop.index %}
-                        and
-                    {% endif %}
-                    {% if author.url.size > 0 %}
-                        <a href="{{ author.url }}">{{ author_name }}</a>
-                    {% else %}
-                        {{ author_name }}
-                    {% endif %}
+                {% assign author_index = forloop.index %}
+                {% if page.authors.size == 1 %}
+                <a href="{{ author.url }}">{{author.first }} {{ author.last }}</a>
+                {% elsif page.authors.size == 2 %}
+                <a href="{{ author.url }}">{{author.first }} {{ author.last }}</a>{% if author_index == 1 %} and {% endif %}
+                {% elsif page.authors.size >= 2 %}
+                {% assign author_index_two = author_index | plus: 1 %}
+                <a href="{{ author.url }}">{{author.first }} {{ author.last }}</a>{% if author_index == page.authors.size %}{% elsif author_index_two == page.authors.size %}, and {% else %},{% endif %}
+                {% endif %}
                 {% endfor %}
             </span>
             <h2>

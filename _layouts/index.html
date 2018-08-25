@@ -23,15 +23,15 @@ layout: default
                       {% endif %}
                       <span class="author">
                       {% for author in essay.authors %}
-                          {% assign author_index = forloop.index %}
-                          {% if author_index > 1 and essay.authors.size > author_index %}
-                              ,
-                          {% elsif author_index > 1 and essay.authors.size == author_index %}
-                              and
-                          {% endif %}
-                              {{ author.first }} {{ author.last }}
-                          {% else %}
-                          {{ essay.author }}
+                      {% assign author_index = forloop.index %}
+                      {% if essay.authors.size == 1 %}
+                      {{author.first }} {{ author.last }}
+                      {% elsif essay.authors.size == 2 %}
+                      {{author.first }} {{ author.last }}{% if author_index == 1 %} and {% endif %}
+                      {% elsif essay.authors.size >= 2 %}
+                      {% assign author_index_two = author_index | plus: 1 %}
+                      {{author.first }} {{ author.last }}{% if author_index == essay.authors.size %}{% elsif author_index_two == essay.authors.size %}, and {% else %},{% endif %}
+                      {% endif %}
                       {% endfor %}
                       </span>
                       {% if essay.abstract %}
