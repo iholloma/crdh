@@ -8,6 +8,17 @@ permalink: /about/
 
 Essays published in *CRDH* are first presented at an annual one-day [conference](/conference/) at George Mason University in Arlington, Virginia. Authors submit their essays in the fall, and then the conference is held in the spring. Each essay goes through two rounds of peer review, first by the conference program committee, and then by the conference commentator. *CRDH* is published at the end of August, less than a year after essays are submitted.
 
+The platform for *Current Research in Digital History* offers the
+following features in order to effectively publish a range of
+scholarship:
+
+-   publication of visualizations, graphics, and narratives
+-   publication of associated data or code in a research compendium
+-   external hosting of content if necessary, provided that authors
+    agree to maintain the content
+-   DOIs and other metadata for all articles
+-   indexing in Google Scholar and other academic databases
+
 *CRDH* is funded by donations to the RRCHNM Director's Fund. Members of the program committee, commentators and participants in the conference plenary roundtable are paid small stipends to recognize the time they commit. Four $200 stipends are available to support the participation of presenters who have to travel to the conference. You can [donate to support *CRDH*](http://advancement.gmu.edu/ihm02).
 
 ### Editors
@@ -46,7 +57,7 @@ Essays published in *CRDH* are first presented at an annual one-day [conference]
 
 [Kim Nguyen](http://kimisgold.com/), Roy Rosenzweig Center for History and New Media
 
-### Contact information
+### Contact Information
 
 To contact the editors, please write to [lincoln+crdh@lincolnmullen.com](mailto:lincoln+crdh@lincolnmullen.com).
 
