@@ -68,14 +68,6 @@ d3.json("Bellevue.json", function(error, bellevue) {
       .attr("text-anchor", "middle")
       .attr("y", -9)
       .text(function(d) { return d; });
-      
-  // Add and store a brush for each axis.
-  g.append("g")
-      .attr("class", "brush")
-      .each(function(d) { d3.select(this).call(y[d].brush = d3.svg.brush().y(y[d]).on("brush", brush)); })
-    .selectAll("rect")
-      .attr("x", -8)
-      .attr("width", 16);
 
 });
 
