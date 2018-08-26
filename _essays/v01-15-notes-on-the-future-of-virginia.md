@@ -423,7 +423,7 @@ An early version of this paper was presented at the Robert H.
     makes no reference to the correspondence on race and slavery
     examined in this project.
 
-[^4]: Benjamin Banneker and Thomas Jefferson, letters, 19 and 30 August 1791," in Waldstreicher, *Notes*, 208--213. Jefferson made similar professions of
+[^4]: Benjamin Banneker and Thomas Jefferson, letters, 19 and 30 August 1791, in Waldstreicher, *Notes*, 208--213. Jefferson made similar professions of
     open-mindedness in exchanges with other Enlightenment-era
     contemporaries, such as the French abolitionist Henri Gregoire: "Be
     assured," he wrote to Gregoire in 1809, "that no person living
