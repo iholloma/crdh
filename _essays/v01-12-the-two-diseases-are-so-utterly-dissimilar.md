@@ -278,7 +278,7 @@ Research on the circulation of medical knowledge requires more than the
 identification of clusters in order to understand how the public,
 newspapers, and medical experts made sense of a new threat to public
 health and sought to communicate this understanding to expert and public
-audiences...This study also contributes to new perspectives in digital
+audiences. This study also contributes to new perspectives in digital
 history by examining a situation where a Russian scholar participated in
 the scientific debate---not as an exotic representative of the Other,
 but as a highly qualified expert---whose expertise made it worthwhile
