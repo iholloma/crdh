@@ -59,7 +59,7 @@ wrought in binary code?
 Much of the hype about digital history pertains to a renewed interest in
 cliometrics, since unprecedented computational power makes it possible
 to analyze large amounts of data statistically in search of the
-overarching structures of the *longue durée*, however an underdeveloped
+overarching structures of the *longue durée*; however, an underdeveloped
 dimension of digital analysis for historical inquiry can also be found
 in tactics of glitching and deformance.[^4] More popular in the art
 world, New Media Studies, and more adventurous corners of digital
