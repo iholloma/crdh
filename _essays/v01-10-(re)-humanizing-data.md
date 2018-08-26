@@ -31,7 +31,7 @@ Arthur Burnes was twenty. One of the three was likely shepherding Ellen
 Burnes, who was just three years old.[^2] All four members of the Burnes
 family had been born in Ireland. They came to New York because Irish
 potato crops failed consistently between 1845 and 1847. Government
-efforts to provide relief proved too-little and too-late, and the rural
+efforts to provide relief proved too little and too late, and the rural
 Irish began to starve.[^3] Sickness followed. By 1852 over one million
 Irish people had died. Over one million more---those who had the
 physical, material and emotional resources to do so---sailed across the
