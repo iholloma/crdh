@@ -133,7 +133,7 @@ Winnebago in northeastern Iowa," she was far from the last or even the
 only Winnebago in Allamakee County.[^10] Crucial to Emma Big Bear Holt's
 activism was her proximity to active indigenous communities. Family
 members from Black River Falls certainly helped the Big Bear Holts
-accomplish their strategic site occupations but their contributions the
+accomplish their strategic site occupations but their contributions to the
 success of Emma's protests remains unrecognized. For example, Robert
 Holt, Emma's nephew, stayed with the Big Bear Holt family in the summer
 of 1930.[^11] Beyond her family, Emma and her family relied on their
@@ -266,7 +266,7 @@ Clark, Florence. "Indian Quonset: Old Stuff to Emma Big Bear." *Dubuque Herald T
 
 Cobb, Daniel M. and Loretta Fowler, eds. *Beyond red power: American Indian Politics and Activism Since 1900*. Santa Fe: School for Advanced Research, 2007.
 
-Dayton, Kim. "Trespassers, Beware: Lyda Burton Conley and the Battle for Huron Place Cemetery." *Yale JL & Feminism* 8 (1996): 1--31.
+Dayton, Kim. "Trespassers, Beware: Lyda Burton Conley and the Battle for Huron Place Cemetery." *Yale Journal of Law and Feminism* 8, no. 1 (1996): 1--30.
 
 Dean, Samantha Rae. "'As Long As Grass Grows And Water Flows': Lyda Conley And The Huron Indian Cemetery." Master’s thesis, Fort Hays State University, 2016. <https://scholars.fhsu.edu/theses/31/>.
 
