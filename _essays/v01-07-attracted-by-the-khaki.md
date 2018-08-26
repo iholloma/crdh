@@ -56,7 +56,7 @@ Turnout) received $20,000.[^3]
 
 The environment of war camps and concentrations of soldiers fueled
 public attention and Federal funds to mitigate female delinquency, but
-these war-time concerns actually tapped into a long history of reform
+these wartime concerns actually tapped into a long history of reform
 and social control. The desire to control female delinquents can be
 traced back to the opening of the first reformatory for girls in 1856.
 However, between 1910 and 1920, local governmental and reformers'
@@ -79,7 +79,7 @@ As such, the war period, with its rapid migration to war-camp cities,
 provides an important lens through which to understand the Southern
 response to female delinquency.
 
-Historian Nancy Bristow has observed that the perception of a war-time
+Historian Nancy Bristow has observed that the perception of a wartime
 delinquency crisis presented reformers with an opportunity to use the
 Federal government as an instrument of "social engineering" that
 extended broadly beyond the war years and war camp geographies to other
@@ -116,7 +116,7 @@ after the war ended.
 <figcaption>Figure 1. Total Admittance by Year. Admittance totals by year signal a significant shift beginning in 1919. After 1919, admittance rates tripled for Bon Air (blue) and doubled for Peake's Turnout (red). This shift created a new baseline admittance rate that held steady throughout the 1920s and 1930s.</figcaption>
 </figure>
 
-Although the perception of a war-time delinquency crisis increased
+Although the perception of a wartime delinquency crisis increased
 public attention and funds to reformatory institutions, Virginia's two
 reformatories for girls had been admitting inmates since before the war.
 Between 1915 and 1918, both institutions averaged an admittance rate of
@@ -132,7 +132,7 @@ would fluctuate pending available beds. The administrators could parole
 girls to create the needed space, but only at the risk of sending an
 "unreformed" girl back into the environment from which she came.
 
-Evidence suggests that both schools used the war-time grants to improve
+Evidence suggests that both schools used the wartime grants to improve
 upon their physical plants and add more cottages. At Bon Air
 administrators repaired their existing dormitories and offices, built a
 new cottage, and for the first time, lit their facility with electric
@@ -146,7 +146,7 @@ In 1921, they reported a capacity of 95 inmates and 80 inmates,
 respectively. By 1921, Bon Air also boasted 50 more acres than it did
 before the war.[^14] Federal funds provided for the
 growth and expansion of Virginia's two female reformatories, but did
-the war-time delinquency crisis ensure more girls were picked up in war
+the wartime delinquency crisis ensure more girls were picked up in war
 camp cities across the state?
 
 ### War Camps and Wayward Girls
@@ -192,7 +192,7 @@ other rural areas of Virginia.[^21]
 
 <figure>
 <iframe src="https://erinbush19.carto.com/builder/13473ba1-1bd9-4780-85b1-fcff71be8a4b/embed" width="100%" height="520" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<figcaption>Figure 2. War-Time Admittance. War-time admittance logs indicate that despite efforts to address war-related delinquency, war camp cities sentenced less than one-third (12 of 42 total) of all girls incarcerated during 1918. Instead, 52 percent (22) of reprobates originated in Richmond. The remaining girls originated in the western mountains along the Blue Ridge. Total admittance is scaled by volume and is represented by green points; gray points represent the seven war camp cities. Click on all points for more information.</figcaption>
+<figcaption>Figure 2. Wartime Admittance. Wartime admittance logs indicate that despite efforts to address war-related delinquency, war camp cities sentenced less than one-third (12 of 42 total) of all girls incarcerated during 1918. Instead, 52 percent (22) of reprobates originated in Richmond. The remaining girls originated in the western mountains along the Blue Ridge. Total admittance is scaled by volume and is represented by green points; gray points represent the seven war camp cities. Click on all points for more information.</figcaption>
 </figure>
 
 During 1918, 42 girls were admitted to a reformatory. As indicated by
@@ -284,7 +284,7 @@ Virginia's predominantly rural setting complicates our understanding of
 female delinquency as a problem stemming from the challenges of vast
 urbanization and immigration. By visualizing both the volume of
 admissions and the geography of where girls were arrested and sentenced,
-we get a clearer picture of how the rhetoric of a war-time delinquency
+we get a clearer picture of how the rhetoric of a wartime delinquency
 crisis may have translated to Virginia's local communities. The case of
 Virginia seems to indicate that delinquency studies to date may have
 been too urban in their focus, failing to see that rural communities
