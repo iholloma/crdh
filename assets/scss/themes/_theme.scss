@@ -6,6 +6,13 @@ body {
     font-size: 18px;
 }
 
+/* Avoid text right against the margin on small screens */
+@media only screen and (max-width: 1225px) {
+    body {
+        margin: 0 5px;
+    }
+}
+
 em {
     font-family: 'glacial_indifferenceitalic';
 }
@@ -234,5 +241,5 @@ article.essay .abstract {
 }
 
 .thumbnail img {
-    width: 350px;
+    max-width: 350px;
 }
