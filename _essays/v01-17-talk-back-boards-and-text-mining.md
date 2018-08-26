@@ -13,7 +13,7 @@ authors:
   orcid: 0000-0002-0303-093X
   url: "https://jhowardhistory.com"
 abstract: |
-  A simple analog tool–the post-it or sticky note–alongside text mining methodologies can open up new information about museum visitors. Since the late-1970s, museums have sought visitor engagement through talk-back boards, essentially a blank museum space with a printed question and a method of public response within reach. Visitors typically respond with short responses of less than ten words. Digitally exploring talk-back boards provides museums with a new visitor studies approach that provides increased simplicity in implementation, mass data creation, and low cost. The only significant shortcomings are the absence of demographic data collection and that talk-back boards remain an under-researched and method. Talk-back boards offer insight into visitor sensibilities that are often privately held and divorced from the museum setting itself, an insight that compliments the findings of the most common visitor studies methods. This study analyzes results from this approach gathered at two museums: Seminary Ridge Museum in Gettysburg, Pennsylvania, and Women’s Rights National Historical Park in Seneca Falls, New York.
+  A simple analog tool–the post-it or sticky note–alongside text mining methodologies can open up new information about museum visitors. Since the late 1970s, museums have sought visitor engagement through talk-back boards, essentially a blank museum space with a printed question and a method of public response within reach. Visitors typically respond with short responses of less than ten words. Digitally exploring talk-back boards provides museums with a new visitor studies approach that provides increased simplicity in implementation, mass data creation, and low cost. The only significant shortcomings are the absence of demographic data collection and that talk-back boards remain an under-researched and method. Talk-back boards offer insight into visitor sensibilities that are often privately held and divorced from the museum setting itself, an insight that compliments the findings of the most common visitor studies methods. This study analyzes results from this approach gathered at two museums: Seminary Ridge Museum in Gettysburg, Pennsylvania, and Women’s Rights National Historical Park in Seneca Falls, New York.
 preview: "/assets/img/v01/howard/preview.png"
 ---
 
@@ -43,7 +43,7 @@ absence of demographic data collection and that talk-back boards remain
 a significantly under-researched and under-utilized visitor studies
 method.
 
-Adding a few new digital tools to a pre-existing visitor studies
+Adding a few new digital tools to a preexisting visitor studies
 framework provides insight into visitors that no other visitor studies
 method can capture. Some text mining methods deployed in this analysis
 include word frequency analysis, co-occurrence mapping, phrase
@@ -115,9 +115,9 @@ provided a signature to publicly claim their talk-back board response.
 The critical outcomes of this study at CRM centered on the large
 quantity of religion-themed responses that did not engage the talk-back
 question alongside a relatively high proportion of emotion-laden
-responses. Religion-minded tourists are a highly diverse group of
+responses. Religiously-minded tourists are a highly diverse group of
 visitors, so more studies using talk-back boards could discover why so
-many religion-minded respondents chose not to engage the question and
+many religious respondents chose not to engage the question and
 what specific faith-based interests drive tourism to SRM and sites like
 it. As tourism scholar Amos Ron argued, visitors to religious sites
 like cathedrals and shrines usually pursue faith-based objectives, but
@@ -156,7 +156,7 @@ truly equal?" WORI Talk-back respondent language regarding LGBTQ+
 themes changed significantly over time suggesting both a greater
 interest in such themes and broader social change. In the 1990s, the
 more common phrases used by visitors included the words "women" and
-"gay." By the late-2000s, respondents spoke of "LGBT Rights", "gay
+"gay." By the late 2000s, respondents spoke of "LGBT Rights", "gay
 marriage", and "gender" as opposed to "women's rights" or "gay
 rights" and a few respondents specifically referenced transgender
 rights for the first time. These shifts in language resulted in curators
@@ -190,7 +190,7 @@ the desired connections (even though a handful of respondents rejected
 slavery as the primary cause of the Civil War). In contrast, WORI
 exhibits hardly discuss slavery at all, yet many visitors made
 connections between gender equality and race-based chattel slavery using
-abstract, emotion-drive language. A topic extraction analysis, where
+abstract, emotion-driven language. A topic extraction analysis, where
 each response is broken down into stem words to discover common words
 that account for model variance, found a statistically significant
 percentage of respondents referenced sex equality (39.3%), social
