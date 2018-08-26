@@ -19,7 +19,7 @@ authors:
   orcid: 0000-0002-5417-5311
   url: "http://humanities-kaleidoscope.net"
 abstract: |
-  In the late nineteenth and early twentieth centuries, agriculture was not keeping pace with other areas of the U.S. economy, prompting the creation of institutions such as land-grant colleges, experiment stations and the extension service. The modernizing trends underlying these institutions, intended to promote specialized education and standardized practices, arose out of the ideologies of progressivism and represented a response to rapidly changing social dynamics. Political acts directed at farming signaled the increasing role of a federal bureaucracy intent on managing the development of the agricultural sector, and the written communications, or genres, employed in the effort reveal the interactions between institutions and local communities. Farm and 4-H record books—extension service genres—had direct contact with, and effects upon, farming communities, and were thus able to influence farmers and future farmers by establishing progressive ideas of commerce, science, and technology. In this paper we argue that traces of these institutional knowledge transmission efforts can be charted through the promotion of the farm and 4-H record book in newspapers of the time, and that combining genre analysis with a targeted digital search interface can illuminate these traces and enhance other qualitative methods.
+  In the late nineteenth and early twentieth centuries, agriculture was not keeping pace with other areas of the U.S. economy, prompting the creation of institutions such as land-grant colleges, experiment stations, and the extension service. The modernizing trends underlying these institutions, intended to promote specialized education and standardized practices, arose out of the ideologies of progressivism and represented a response to rapidly changing social dynamics. Political acts directed at farming signaled the increasing role of a federal bureaucracy intent on managing the development of the agricultural sector, and the written communications, or genres, employed in the effort reveal the interactions between institutions and local communities. Farm and 4-H record books—extension service genres—had direct contact with, and effects upon, farming communities, and were thus able to influence farmers and future farmers by establishing progressive ideas of commerce, science, and technology. In this paper we argue that traces of these institutional knowledge transmission efforts can be charted through the promotion of the farm and 4-H record book in newspapers of the time, and that combining genre analysis with a targeted digital search interface can illuminate these traces and enhance other qualitative methods.
 appendix:
 - name: Data archive
   file: galbreath-v01/galbreath-giroux-data.zip
@@ -27,7 +27,7 @@ preview: "/assets/img/v01/galbreath/preview.png"
 ---
 
 While much of U.S. industry experienced increased productivity and
-economic vitality in the late 19th and early 20th centuries,
+economic vitality in the late nineteenth and early twentieth centuries,
 agriculture was seen to lag behind and present an area open to change
 through reorganization, systemization, and science-based principles of
 production.[^1] The 1914 Smith-Lever Extension Act emerged from Congress
@@ -226,7 +226,7 @@ success, bank approvals, and income tax verification, and one carries a
 stern warning of lost work days and fines from "not furnish[ing] a
 proper report to the income tax collector."[^29]
 
-{% figure caption: "Figure 5. “Oregon Farm Records Meet Bankers approval,” *Ashland Tidings* (Ashland, OR), March 7, 1919, [*Chronicling America*](https://chroniclingamerica.loc.gov/lccn/sn85042399/1919-03-07/ed-1/seq-8/pdf). This example, promoting the farm record book, shows the connections between the different institutions of agricultural college, financial instutions, farm bureau, and Internal Revenue Service. Farmers are encouraged to use the record book not just to build a successful business, but also as a way to establish credibility with the bank and verifiability with the IRS." %}
+{% figure caption: "Figure 5. “Oregon Farm Records Meet Bankers approval,” *Ashland Tidings* (Ashland, OR), March 7, 1919, [*Chronicling America*](https://chroniclingamerica.loc.gov/lccn/sn85042399/1919-03-07/ed-1/seq-8/pdf). This example, promoting the farm record book, shows the connections between the different institutions of agricultural college, financial institutions, farm bureau, and Internal Revenue Service. Farmers are encouraged to use the record book not just to build a successful business, but also as a way to establish credibility with the bank and verifiability with the IRS." %}
 ![Black and white image of newspaper article entitled "Oregon Farm Records Meet Bankers Approval"](/assets/img/v01/galbreath/figure5.png)
 {% endfigure %}
 
