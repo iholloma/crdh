@@ -27,7 +27,7 @@ preview: "/assets/img/v01/catalano/preview.png"
 > “How smooth must be the language of the whites, when they can make right look like wrong, and wrong like right.” ---Blackhawk
 
 Word choice and the functioning of language itself has become an
-important sub-field within indigenous history. As Patricia Limerick has
+important subfield within indigenous history. As Patricia Limerick has
 noted, "the process of invasion, conquest, and colonization was the kind
 of activity that provoked a shiftiness in verbal behavior."[^1]
 Blackhawk's quote demonstrates that modern scholars were not the first
@@ -102,7 +102,7 @@ and geographic neighbors. As the histogram in figure 1 shows, the vast
 majority (89%) of the treaty borrowing occurred within a two year
 span.[^6]
 
-{% figure caption: "Figure 1. This histogram displays the frequency of language borrowing over different spans of time. For example, if a paragraph from treaty _A_ was written in 1848 and a paragraph from treaty _B_ was written in 1855, then the span is 7 years. Most of the instances of language borrowing (89%) only spanned 1-2 years." %}
+{% figure caption: "Figure 1. This histogram displays the frequency of language borrowing over different spans of time. For example, if a paragraph from treaty _A_ was written in 1848 and a paragraph from treaty _B_ was written in 1855, then the span is 7 years. Most of the instances of language borrowing (89%) only spanned one or two years." %}
 ![A histogram showing the frequency of language borrowing over different spans of time](/assets/img/v01/catalano/figure1.png)
 {% endfigure %}
 
@@ -179,11 +179,11 @@ only red dot or treaty from the 1840s).
 ![Network graph showing that the eighteen hundred and forty six Comanche Treaty is the only treaty in borrowing cluster from the eighteen hundred and forties](/assets/img/v01/catalano/figure7.png)
 {% endfigure %}
 
-There are two plausible explanations for the long term language
+There are two plausible explanations for the long-term language
 borrowing of the 1846 Comanche treaty. The first possibility is that the
 language borrowing can be attributed to the background of the
 commissioners, Pierce Mason Butler and M. G. Lewis. Butler was a former
-governor of South Carolina (1836-1838) who became an Indian agent, a
+governor of South Carolina (1836--1838) who became an Indian agent, a
 post which he held until his death during the Mexican American War.
 Butler's father, William, was a politician who also served in numerous
 military campaigns against Indians during a thirty-nine year military
@@ -192,7 +192,7 @@ his father's career for guidance while serving as an Indian agent.
 
 A more likely explanation is that Butler and Lewis looked to the past
 because of the specific historical milieu of Comancheria in the
-1840s.The economic engine of the powerful Comanche empire was a system
+1840s. The economic engine of the powerful Comanche empire was a system
 of raiding and trading. The Comanche raided encroaching American and
 Mexican settlements and then sold their acquisitions to other Indian
 nations or non-indigenous traders. As Pekka Hamalainen has argued,
