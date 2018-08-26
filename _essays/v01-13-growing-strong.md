@@ -14,7 +14,7 @@ authors:
   orcid: 0000-0003-3810-3681
   url: "https://historyarthistory.gmu.edu/people/goberle"
 abstract: |
-  This essay explores how social network graphs can be utilized to explore the relationships between people in civil societies. This study focuses on the membership data from a sample of learned societies as well as federal employees and U.S. Army officers during the early republic. Using software constructs a visualization which indicates the shared connections between groups. This offers opportunities to explore if memberships in civil societies mirrored political relationships or if civil societies offered a space to cross political boundaries. Network graphs can help us visualize many relationships and if utilized with traditional sources it can offer a richer understanding of the past. This article provides early insights into an ongoing project which seeks to test Alexander de Tocqueville famous observation which focused on the importance of civil societies to expansion of democracy. 
+  This essay explores how social network graphs can be utilized to explore the relationships between people in civil societies. This study focuses on the membership data from a sample of learned societies as well as federal employees and U.S. Army officers during the early republic. Using software constructs a visualization which indicates the shared connections between groups. This offers opportunities to explore if memberships in civil societies mirrored political relationships or if civil societies offered a space to cross political boundaries. Network graphs can help us visualize many relationships and, if used with traditional sources, can offer a richer understanding of the past. This article provides early insights into an ongoing project which seeks to test Alexander de Tocqueville famous observation on the importance of civil societies to the expansion of democracy. 
 appendix:
 - name: Data archive
   file: oberle-v01/oberle-data.csv
@@ -52,13 +52,13 @@ sources have been sitting on shelves, in boxes, or sometimes are
 available online, however they have been unusable due to the limited
 ability of people to draw the thousands of connections between the
 hundreds of organizations. Using computational methods helps scholars
-provide more nuances to their questions and answer questions that could
+provide more nuance to their questions and answer questions that could
 not be addressed earlier, thereby enhancing our understanding of the
 past. A careful examination of a corpus can offer a "medium reading" of
-sources which consists of a "large but narrowly constrained corpus
+sources which consist of a "large but narrowly constrained corpus
 centered on solving a well-defined research question."[^2] Through the
 exploration of social networks of the members of learned societies
-between 1790--1860 through the use of their membership lists, and that of
+between 1790--1860 using their membership lists, and those of
 other learned groups in civil society, we can explore the nature of the
 creation and dissemination of information in the first half of the
 nineteenth century.
@@ -106,8 +106,7 @@ society. The thickness of the adjoining lines indicates more shared
 memberships between groups. Clearly, figure 1 shows a significant
 level of connections between individuals across different groups and
 suggests that a complex web of relationships existed between these
-diverse set of elites across the republic who populated these
-organizations.
+diverse set of elites across the republic.
 
 Despite the fact that the learned citizens of the republic seem
 connected through shared memberships across time, even between small
@@ -124,7 +123,7 @@ P. Jones, and Benjamin Silliman. This may indicate that as specialized
 groups emerged many of the white learned men, represented in this graph,
 were unable or unwilling to belong to multiple groups.
 
-Observing the diversity of groups in the graph results from the
+The diversity of groups in the graph can be observed in the
 assignment of type indicated by different colors in the graph. The
 primary purpose of organizations offers a useful way to visualize the
 diversity of types of organizations in this period. Using the federal
@@ -169,7 +168,7 @@ participated in manufacturing, engineering, mining, and an ever more
 rationalized agricultural system.[^7]
 
 Some of the most interesting relationships in this graph are the federal
-employees who lived in the Washington D.C. In figure 2 this graph breaks
+employees who lived in the Washington D.C. Figure 2 breaks
 out the network relationships into numerical values. Despite the span of
 twenty-five years between 1816--1841 and the drastic political changeover
 in the cabinet and elected government there were fifty-three people that
@@ -186,7 +185,7 @@ interesting challenge with examining these types of groups. Groups start
 and end. When examining figure 2 we can see that the National Institute
 has no shared members in 1816 because it was not formed at this point in
 time. The Columbian Institute for the Promotion of Arts and Sciences was
-it predecessor, yet it had only sixteen shared memberships with the 1816
+its predecessor, yet it had only sixteen shared memberships with the 1816
 Federal government and was technically still in existence in 1841,
 despite the move of most of the members to the new National Institute.
 The proliferation of shared memberships in learned societies does not
@@ -230,7 +229,7 @@ maturity" for American society to develop an important combined voice to
 enhance scientific progress. These groups also marked a change from the
 older organizations which emphasized the universal nature of knowledge
 to a more specialized version. This led the new professional type of
-scientist with a key goal. Separate political interests from science.
+scientist with a key goal: the separation of political interests from science.
 The universal organizations of knowledge represented in pink in figure 1
 were starting to become less important. The National Institute, the last
 of these major universal organizations, was successful in building
@@ -254,7 +253,7 @@ fertilize insect eggs which were in water drops. Henry confided in a
 letter written on August 9, 1838 to his friend and fellow scientist
 Alexander Dallas Bache his disappointment with the nation's premier
 scientist, Benjamin Silliman, the founder of the *American Journal of
-Science* that he was especially concerned that there were not enough
+Science* for not having enough
 reviewers of the content published in his journal. Henry reminded Bache
 of their goal: "we must put down quackery or quackery will put down
 science."[^11] Since scientific learning needed to become apolitical,
@@ -262,7 +261,7 @@ and thus not subject to the egalitarian inclination in society, those
 that saw themselves as serious scholars longed for the establishment of
 systematic processes for analysis to thwart the proliferation of
 charlatans and the misinformation they propagated among the uneducated.
-The assumption is that the new group offered a separation from chaos of
+The assumption is that the new group offered a separation from the chaos of
 the political realm. Like in an earlier period the world of scientific
 truth had no place for controversy. The politics of citizens and the
 state became a new expression of the distrust caused by discord between
@@ -282,7 +281,7 @@ of advancement in which a marketplace of ideas can develop new types of
 knowledge and advancements. This could also could create a desire for
 authority and a desire for homogeneity. This fear continued into the
 antebellum period and by 1826 Benjamin Silliman, was eager to
-differentiate between those that he viewed as savants from those that
+differentiate between those that he viewed as savants and those that
 were true scientists. He counted at least 28 societies in the country
 spread across ten states and the District of Columbia. Of the
 twenty-eight reported, two-thirds were located in the three states of
@@ -320,22 +319,22 @@ host of the finest agricultural specimens, mechanical implements,
 domestic productions, and even artistic and scientific productions by
 offering twenty thousand dollars in premiums to participants.[^15] From
 the inception of the USAS their members called for a federal department
-of agricultural which infuriated many southern agricultural advocates
-that saw this move as both inappropriate and unnecessary. Edmund Ruffin,
+of agriculture, which infuriated many southern agricultural advocates
+who saw this move as both inappropriate and unnecessary. Edmund Ruffin,
 a leader in agricultural knowledge, promoter of southern agricultural
 societies, and ultimately a fire-eating secessionist had, at best, mixed
-feelings about the society in 1858 and refused to join the society
+feelings about the society in 1858. He refused to join the society
 because he opposed the attempts to draw support from the federal
 government while still supporting their objective to promote
-agricultural knowledge because he saw the organization as a political
+agricultural knowledge and because he saw the organization as a political
 arm of antislavery interests. At times he even felt "conscious-struck
 for my general dislike to all Yankees" yet this did not change his
 distrust of them.[^16] Ruffin was a member of the American Association
 for the Advancement of Society which was a national institution that
 many judged at the time to be an apolitical organization.
 
-In the end, network graphs can help us visualize many relationships and
-if utilized with traditional sources it can offer a richer understanding
+In the end, network graphs can help us visualize many relationships and,
+if used alongside traditional sources, they can offer a richer understanding
 of the past. Figure 1 shows that very diverse groups often have
 shared memberships that one would not necessarily expect. Still, there
 are many limitations to the graph. Although this graph shows that many
