@@ -243,3 +243,10 @@ article.essay .abstract {
 .thumbnail img {
     max-width: 350px;
 }
+
+/* Wrap URLs in bibliography entries on small screens */
+p a {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+}
