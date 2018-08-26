@@ -296,7 +296,7 @@ Nations*. New York: W. W. Norton & Company, 2005.
     MALLET. For more detail on methodology, all code is on my github
     page: <http://www.github.com/petercarrjones/icc-data>.
 
-[^11]: Jockers, "[Secret Recipe for Topic Modeling Themes](http://www.matthewjockers.net/2013/04/12/secret-recipe-for-topic-modeling-themes).
+[^11]: Jockers, "[Secret Recipe for Topic Modeling Themes](http://www.matthewjockers.net/2013/04/12/secret-recipe-for-topic-modeling-themes/).
 
 [^12]: Rosenthal, *Their Day in Court*, 161--164.
 

@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="grid-container">
-    <div class="grid-x" aria-role="main">
+    <div class="grid-x">
         <div class="large-9 columns" id="article-list">
             <h2>Current Issue: Volume {{ site.current_number}} ({{ site.current_volume }})</h2>
             {% assign current_essays = site.essays | where:'category',site.current_volume %}
@@ -13,7 +13,7 @@ layout: default
                   <div class="media-object-section">
                       <div class="thumbnail">
                           <a href="{{ essay.url }}">
-                            <img src="{{ essay.preview }}">
+                            <img src="{{ essay.preview }}" alt="Preview image for {{ essay.title }}">
                           </a>
                       </div>
                   </div>
