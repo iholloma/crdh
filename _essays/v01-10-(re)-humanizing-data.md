@@ -349,7 +349,7 @@ control.
 ### Bibliography
 
 "Admission Records, The Almshouse Department," 1847. Almshouse Ledger
-Collection, 1758-1952. Municipal Archives, City of New York.
+Collection, 1758--1952. Municipal Archives, City of New York.
 
 Anbinder, Tyler. *Five Points: The 19th-Century New York City
 Neighborhood That Invented Tap Dance, Stole Elections, and Became the
@@ -359,10 +359,8 @@ Balch Institute for Ethnic Studies. Center for Immigration Research.
 "Records for Passengers Who Arrived at the Port of New York During the
 Irish Famine, Created, 1977--1989, Documenting the Period 1/12/1846 -
 12/31/1851," 1989 1977. Collection CIR: Records of the Center for
-Immigration Research. National Archives at College Park - Electronic
-Records, National Archives at College Park, 8601 Adelphi Road, College
-Park, MD, 20740-6001. PHONE: 301-837-0470; FAX: 301-837-3681; EMAIL:
-cer@nara.gov.
+Immigration Research. National Archives at College Park---Electronic
+Records, National Archives at College Park.
 
 Binder, Frederick M., and David M. Reimers. *All the Nations Under
 Heaven: An Ethnic and Racial History of New York City*. New York: Columbia University Press, 1995.
@@ -389,7 +387,7 @@ Diner, Hasia R. *Erin's Daughters in America: Irish Immigrant Women in
 the Nineteenth Century*. Baltimore: Johns Hopkins University Press,
 1983.
 
-Ernst, Robert. *Immigrant Life in New York City, 1825-1863*. Port
+Ernst, Robert. *Immigrant Life in New York City, 1825--1863*. Port
 Washington, NY: Ira J. Friedman, Inc., 1965.
 
 Foucault, Michel. *Discipline and Punish: The Birth of the Prison*.
@@ -428,13 +426,13 @@ United States before 1882." *International Review of Social History* 3,
 no. 2 (August 1958): 269--95. <https://doi.org/10.1017/S0020859000001127>.
 
 Klips, Stephen Anthony. "Institutionalizing the Poor: The New York City
-Almshouse, 1825-1860." Ph.D. diss., City University of New York, 1980.
+Almshouse, 1825--1860." Ph.D. diss., City University of New York, 1980.
 
 Miller, Kerby A. *Emigrants and Exiles: Ireland and the Irish Exodus to
 North America*. New York: Oxford University Press, 1985.
 
 Mokyr, Joel. *Why Ireland Starved: A Quantitative and Analytical History
-of the Irish Economy, 1800-1850*. London, Boston, Sydney: George Allen &
+of the Irish Economy, 1800--1850*. London, Boston, Sydney: George Allen &
 Unwin, 1993.
 
 New York (N.Y.). Commissioners of the Alms-House, Bridewell, and

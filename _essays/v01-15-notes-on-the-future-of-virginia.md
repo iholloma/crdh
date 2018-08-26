@@ -19,7 +19,7 @@ preview: "/assets/img/v01/french/preview.png"
 
 Thomas Jefferson's views on race and slavery are well known to
 historians of the early American republic.[^1] In several oft-analyzed
-passages from *Notes on the State of Virginia* (1785-87), Jefferson
+passages from *Notes on the State of Virginia* (1785--87), Jefferson
 envisioned the transformation of Virginia from a rigidly hierarchical
 slave society, dominated by a small but powerful planter elite, to a
 post-emancipation *herrenvolk* democracy rooted in classical republican
@@ -51,7 +51,7 @@ Jefferson held fast to these views from the first printing of *Notes* in
 private pleadings and patient arguments of his close friend and
 confidant, Virginia-born William Short, could persuade Jefferson to
 budge from the positions staked out in *Notes.* [^3] A close reading of
-relevant Jefferson-Short letters, spanning four decades (1787-1826) and
+relevant Jefferson-Short letters, spanning four decades (1787--1826) and
 two continents (Europe and North America), reveals Jefferson's stubborn
 adherence to, and reaffirmation of, his public positions on race,
 slavery, emancipation, and colonization. Where others tried and failed,
@@ -182,7 +182,7 @@ parry, across *time* and *space*, between Jefferson and one of his
 closest friends and confidants.
 
 *Notes on the Future of Virginia: The Jefferson-Short Letters,
-1787-1826*, culls Jefferson-Short letters from a range of published
+1787--1826*, culls Jefferson-Short letters from a range of published
 sources to create an online essay/exhibit/interactive visualization that
 doubles as a scholar's resource.[^17] It invites users to explore
 selected "themes" and "threads" running through Jefferson and Short's
@@ -340,7 +340,7 @@ Jefferson: Race and Slavery in American Memory, 1943---1993." In
 *Jeffersonian Legacies*, edited by Peter S. Onuf, 418--456.
 Charlottesville: University Press of Virginia, 1993.
 
-French, Scot, and Bill Ferster. "Notes on the Future of Virginia: The Jefferson-Short Letter, 1787-1826." <http://www.viseyes.org/show/?id=notes.xml>.
+French, Scot, and Bill Ferster. "Notes on the Future of Virginia: The Jefferson-Short Letter, 1787--1826." <http://www.viseyes.org/show/?id=notes.xml>.
 
 George, Laura Voisin. "Surveying the Past: Virginia Archaeological Team
 Uncovers Layers of Meaning in a Jeffersonian Map from the Huntington."
@@ -397,9 +397,9 @@ An early version of this paper was presented at the Robert H.
     American Historical Association annual meeting in Chicago on Jan. 7,
     2012 (see [abstract](https://aha.confex.com/aha/2012/webprogram/Paper9336.html)). The author would also like to thank Bill Ferster, interactive visualization specialist at the University of Virginia, for
     designing the user interface for the web companion to this paper,
-    "[Notes on the Future of Virginia: The Jefferson-Short Letter, 1787-1826](http://www.viseyes.org/show/?id=notes.xml)." Finally, thanks to Stewart Gamage and the University of Virginia Foundation for
+    "[Notes on the Future of Virginia: The Jefferson-Short Letter, 1787--1826](http://www.viseyes.org/show/?id=notes.xml)." Finally, thanks to Stewart Gamage and the University of Virginia Foundation for
     supporting my research on William Short and the Indian Camp property
-    as part of a 2010-11 research appointment.
+    as part of a 2010--11 research appointment.
 
 [^1]: The literature on Jefferson, race, and slavery is voluminous. For
     book-length studies, see Miller, *The Wolf by the Ears*; Finkelman, *Slavery and the Founders*, and Stanton, *"Those Who Labor for My Happiness."* For a discussion of Jefferson's

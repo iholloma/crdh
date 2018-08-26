@@ -293,7 +293,7 @@ Travel." *Journal of Heritage Tourism* 4, no. 4 (2009): 287--297.
 
 Ron, Amos S., and Jackie Feldman. "From Spots to Themed Sites---The
 Evolution of the Protestant Holy Land." *Journal of Heritage Tourism*
-4, no. 3 (2009): 201-216.
+4, no. 3 (2009): 201--216.
 
 Rose, Vivien (WORI Chief of Cultural Resources). Interview by Josh
 Howard. July 18, 2014.

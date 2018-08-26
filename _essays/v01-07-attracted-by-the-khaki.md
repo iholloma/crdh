@@ -168,7 +168,7 @@ near Norfolk at Hampton Roads, Newport News, and Portsmouth moved
 massive quantities of men and goods overseas. Members of the American
 Expeditionary Force, totaling approximately 288,000 soldiers and
 sailors, sailed from Embarkation Hampton Roads during
-1917-18.[^18] The cities near Norfolk expanded with the
+1917--18.[^18] The cities near Norfolk expanded with the
 growth of the camps. Norfolk and Newport News experienced an average
 population increase of 74 percent between 1910 and 1920; in Portsmouth,
 the population grew by 64 percent during the same
@@ -298,15 +298,15 @@ unique "girl problem," especially in terms of race and class.
 
 Additon, Henrietta S. "Work Among Delinquent Women and Girls." *The Annals of the American Academy of Political and Social Science* 79 (1918): 152--160. <https://doi.org/10.1177/000271621807900116>.
 
-Alexander, Ruth M. *The "Girl Problem": Female Sexual Delinquency in New York, 1900-1930*. Ithaca: Cornell University Press, 1995. 
+Alexander, Ruth M. *The "Girl Problem": Female Sexual Delinquency in New York, 1900--1930*. Ithaca: Cornell University Press, 1995. 
 
-Barrett Juvenile Correctional Center (Hanover Va.), Records, 1915-2001. State government records collection, The Library of Virginia.
+Barrett Juvenile Correctional Center (Hanover Va.), Records, 1915--2001. State government records collection, The Library of Virginia.
 
-Bon Air Learning Center (Va.) Office of the Superindentent. Minutes and Reports, 1913-1926. State government records collection, The Library of Virginia.
+Bon Air Learning Center (Va.) Office of the Superindentent. Minutes and Reports, 1913--1926. State government records collection, The Library of Virginia.
 
 Bristow, Nancy K. *Making Men Moral: Social Engineering During the Great War*. New York: New York University Press, 1996.
 
-Bush. Erin N. *Full Virginia Reform School Admittance by Origin 1918-1920*. Unpublished raw data. 2017. <https://docs.google.com/spreadsheets/d/1cssV5hVD1Y9aCWVpvUWWimHgISmptHkVgfIO230hKFM/edit#gid=0>.
+Bush. Erin N. *Full Virginia Reform School Admittance by Origin 1918--1920*. Unpublished raw data. 2017. <https://docs.google.com/spreadsheets/d/1cssV5hVD1Y9aCWVpvUWWimHgISmptHkVgfIO230hKFM/edit#gid=0>.
 
 Bush, William S. *Who Gets a Childhood: Race and Juvenile Justice in Twentieth-Century Texas*. Athens: University of Georgia Press, 2010.
 
@@ -316,11 +316,11 @@ Dabney, Virginius. *Virginia the New Dominion: A History from 1607 to the Prese
 
 Falconer, Martha P. "The Segregation of Delinquent Women and Girls as a War Problem." *The Annals of the American Academy of Political and Social Science* 79 (1918): 160--66. <https://doi.org/10.1177/000271621807900117>.
 
-Odem, Mary. *Delinquent Daughters: Protecting and Policing Adolescent Female Sexuality in the United States, 1885-1920*. Chapel Hill: University of North Carolina Press, 1995.
+Odem, Mary. *Delinquent Daughters: Protecting and Policing Adolescent Female Sexuality in the United States, 1885--1920*. Chapel Hill: University of North Carolina Press, 1995.
 
-Rembis, Michael A. *Defining Deviance: Sex, Science and Delinquent Girls, 1890-1960*. Urbana: University of Illinois Press, 2011.
+Rembis, Michael A. *Defining Deviance: Sex, Science and Delinquent Girls, 1890--1960*. Urbana: University of Illinois Press, 2011.
 
-Schlossman, Steven, and Stephanie Wallach. "The Crime of Precocious Sexuality: Female Juvenile Delinquency in the Progressive Era." *Harvard Educational Review* 48, no. 1 (Feb 1978): 65-94. <https://doi.org/10.17763/haer.48.1.t62068326050748q>.
+Schlossman, Steven, and Stephanie Wallach. "The Crime of Precocious Sexuality: Female Juvenile Delinquency in the Progressive Era." *Harvard Educational Review* 48, no. 1 (Feb 1978): 65--94. <https://doi.org/10.17763/haer.48.1.t62068326050748q>.
 
 Trost, Jennifer. *Gateway to Justice: The Juvenile Court and Progressive Child Welfare in a Southern City*. Athens: University of Georgia Press, 2005.
 
@@ -348,17 +348,17 @@ Zipf, Karin L. *Bad Girls at Samarcand: Sexuality and Sterilization in a Souther
 
 [^6]: Trost, *Gateway to Justice*; Cahn, *Sexual Reckonings*; W. Bush, *Who Gets a Childhood*; and Zipf, *Bad Girls at Samarcand*.
 
-[^7]: Cahn, *Sexual Reckonings*, 18-19.
+[^7]: Cahn, *Sexual Reckonings*, 18--19.
 
 [^8]: Bristow, *Making Men Moral*, 106.
 
-[^9]: E. Bush, *[Full Virginia Reform School Admittance by Origin 1918-1920](https://docs.google.com/spreadsheets/d/1cssV5hVD1Y9aCWVpvUWWimHgISmptHkVgfIO230hKFM/edit#gid=0)*, unpublished raw data, 2017. The dataset supporting the visualizations for this article consists of 224 inmates admitted between January 1, 1918 and December 31, 1920. This is a subset of a larger dataset gathered from the complete admissions logs of the two reformatories at Bon Air and Peake's Turnout. I transcribed the full admissions data from the opening of each school until April 1939. My dissertation project evaluates Virginia's reform efforts more broadly between 1910 and 1942 and includes direct comparisons between the experiences at the institution for white girls and the institution for African American girls. For this article, I evaluated only the broader trends irrespective of race. Names and identifying information have been removed to protect the privacy of inmates. Full admissions books are available at the Library of Virginia; the full dataset is available upon request.
+[^9]: E. Bush, *[Full Virginia Reform School Admittance by Origin 1918--1920](https://docs.google.com/spreadsheets/d/1cssV5hVD1Y9aCWVpvUWWimHgISmptHkVgfIO230hKFM/edit#gid=0)*, unpublished raw data, 2017. The dataset supporting the visualizations for this article consists of 224 inmates admitted between January 1, 1918 and December 31, 1920. This is a subset of a larger dataset gathered from the complete admissions logs of the two reformatories at Bon Air and Peake's Turnout. I transcribed the full admissions data from the opening of each school until April 1939. My dissertation project evaluates Virginia's reform efforts more broadly between 1910 and 1942 and includes direct comparisons between the experiences at the institution for white girls and the institution for African American girls. For this article, I evaluated only the broader trends irrespective of race. Names and identifying information have been removed to protect the privacy of inmates. Full admissions books are available at the Library of Virginia; the full dataset is available upon request.
 
-[^10]: Superintendent Anna Petersen's letter to the Board of Directors of Bon Air, dated September 30, 1918. Bon Air Learning Center (Va.) Office of the Superindentent. Minutes and Reports, 1913-1926. State government records collection, The Library of Virginia.
+[^10]: Superintendent Anna Petersen's letter to the Board of Directors of Bon Air, dated September 30, 1918. Bon Air Learning Center (Va.) Office of the Superindentent. Minutes and Reports, 1913--1926. State government records collection, The Library of Virginia.
 
-[^11]: E. Bush, *[Full Virginia Reform School Admittance by Origin 1918-1920](https://docs.google.com/spreadsheets/d/1cssV5hVD1Y9aCWVpvUWWimHgISmptHkVgfIO230hKFM/edit#gid=0)*, unpublished raw data, 2017.
+[^11]: E. Bush, *[Full Virginia Reform School Admittance by Origin 1918--1920](https://docs.google.com/spreadsheets/d/1cssV5hVD1Y9aCWVpvUWWimHgISmptHkVgfIO230hKFM/edit#gid=0)*, unpublished raw data, 2017.
 
-[^12]: *Bon Air Fifth Annual Report for the Term Ending September 30, 1919,* Bon Air Learning Center (Va.) Office of the Superindentent, Minutes and Reports, 1913-1926, State government records collection, The Library of Virginia.
+[^12]: *Bon Air Fifth Annual Report for the Term Ending September 30, 1919,* Bon Air Learning Center (Va.) Office of the Superindentent, Minutes and Reports, 1913--1926, State government records collection, The Library of Virginia.
 
 [^13]: *Third Annual Report of the Industrial Home School for Colored Girls 1918*, The Library of Virginia.
 
@@ -368,11 +368,11 @@ Zipf, Karin L. *Bad Girls at Samarcand: Sexuality and Sterilization in a Souther
 
 [^16]: Dabney, *Virginia the New Dominion*, 463--464.
 
-[^17]: Calculated from U.S. Census Bureau, *Census* 1910-1920, Population and Housing, Virginia.
+[^17]: Calculated from U.S. Census Bureau, *Census* 1910--1920, Population and Housing, Virginia.
 
-[^18]: Dabney, *Virginia the New Dominion*, 463-464.
+[^18]: Dabney, *Virginia the New Dominion*, 463--464.
 
-[^19]: Calculated from U.S. Census Bureau, *Census* 1910-1920, Population and Housing, Virginia.
+[^19]: Calculated from U.S. Census Bureau, *Census* 1910--1920, Population and Housing, Virginia.
 
 [^20]: *Fourth Annual Report of the Industrial Home School for Colored Girls 1919*, The Library of Virginia.
 
@@ -380,12 +380,12 @@ Zipf, Karin L. *Bad Girls at Samarcand: Sexuality and Sterilization in a Souther
 
 [^22]: Early juvenile court reports contain little in the way of details. In 1918, Richmond's juvenile court reported only the total "juvenile cases disposed of" by the child's sex and race. *Tenth Annual Report of the State Board of Charities and Correction, 1918*, <https://babel.hathitrust.org/cgi/mb?a=listis&c=1239185609>.
 
-[^23]: E. Bush, *[Full Virginia Reform School Admittance by Origin 1918-1920](https://docs.google.com/spreadsheets/d/1cssV5hVD1Y9aCWVpvUWWimHgISmptHkVgfIO230hKFM/edit#gid=0)*, unpublished raw data, 2017.
+[^23]: E. Bush, *[Full Virginia Reform School Admittance by Origin 1918--1920](https://docs.google.com/spreadsheets/d/1cssV5hVD1Y9aCWVpvUWWimHgISmptHkVgfIO230hKFM/edit#gid=0)*, unpublished raw data, 2017.
 
-[^24]: U.S. Census Bureau, *Census* 1910-1920, Population and Housing, Virginia.
+[^24]: U.S. Census Bureau, *Census* 1910--1920, Population and Housing, Virginia.
 
 [^25]: Juvenile courts and their records are notoriously spotty in Virginia. When they did report, they reported statistics to the State Board of Charities and Corrections, which recorded them in their Annual Reports. See the digital collection of Virginia State Board of Charities and Corrections Annual Reports at [HathiTrust](https://babel.hathitrust.org/cgi/mb?a=listis&c=1239185609).
 
-[^26]: E. Bush, *[Full Virginia Reform School Admittance by Origin 1918-1920](https://docs.google.com/spreadsheets/d/1cssV5hVD1Y9aCWVpvUWWimHgISmptHkVgfIO230hKFM/edit#gid=0)*, unpublished raw data, 2017.
+[^26]: E. Bush, *[Full Virginia Reform School Admittance by Origin 1918--1920](https://docs.google.com/spreadsheets/d/1cssV5hVD1Y9aCWVpvUWWimHgISmptHkVgfIO230hKFM/edit#gid=0)*, unpublished raw data, 2017.
 
 [^27]: *Tenth Annual Report of the State Board of Charities and Correction 1918*, and *Eleventh Annual Report of the State Board of Charities and Correction 1919* in Virginia State Board of Charities and Corrections, *Annual Report of the Board of Charities and Corrections*. The Commission on Training Camp Activities (CTCA) argued extensively against parole as counter-productive to the war problem and instead pushed localities to choose long-term detention. This was the underlying rationale for gifting money for detention homes and reformatories. See Falconer, "The Segregation of Delinquent Women and Girls," 160--66.

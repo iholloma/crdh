@@ -233,7 +233,7 @@ Opinion, 6/7/1974, 34 Ind. Cl. Comm. 122. <https://cdm17279.contentdm.oclc.org/d
 
 Bushyhead, Yvonne. "In the Spirit of Crazy Horse: Leonard Peltier and
 the AIM Uprising." In *The Winds of Injustice: American Indians and the
-U.S. Government*, edited by Laurence Armand French, 77-112. New York: Garland Publishing, 1994.
+U.S. Government*, edited by Laurence Armand French, 77--112. New York: Garland Publishing, 1994.
 
 Jockers, Matthew. "Secret Recipe for Topic Modeling Themes." April 12, 2013. <http://www.matthewjockers.net/2013/04/12/secret-recipe-for-topic-modeling-themes/>.
 

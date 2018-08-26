@@ -357,10 +357,10 @@ Blog*, August 2016,
 
 Ewing, E. Thomas, Veronica Kimmerly and Sinclair Ewing-Nelson. "'Look
 Out for La Grippe': Using Digital Humanities Tools to Interpret
-Information Dissemination during the Russian Flu, 1889-1890." *Medical
+Information Dissemination during the Russian Flu, 1889--1890." *Medical
 History* 60, no. 1 (January 2016): 129--131.
 
-Frieden, Nancy. "The Russian Cholera Epidemic, 1892-1893, and Medical
+Frieden, Nancy. "The Russian Cholera Epidemic, 1892--1893, and Medical
 Professionalization." *Journal of Social History* 10, no. 4 (1977):
 538--559.
 
@@ -368,7 +368,7 @@ Hamlin, Christopher. *Cholera. The Biography.* Oxford: Oxford University
 Press, 2009.
 
 Honigsbaum, Mark. *A History of the Great Influenza Pandemics. Death,
-Panic, and Hysteria, 1830-1920*. London: I. B. Tauris, 2014.
+Panic, and Hysteria, 1830--1920*. London: I. B. Tauris, 2014.
 
 Mussell, James. "Pandemic in print: the spread of influenza in the Fin
 de Siècle." *Endeavour* 31, no. 1 (March 2007): 12--17.

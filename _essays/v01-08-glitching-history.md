@@ -356,7 +356,7 @@ Waterman, Dick. "John Hurt; Patriarch Hippie." *Sing Out!*.
     it as historicizing it---remain Schlesinger, Jr., *The Vital Center*
     and Hartz, *The Liberal Tradition in America.* See, also, John
     Higham, "The Cult of the 'American Consensus'"; Hodgson,
-    *America in Our Time*, 67-98; and Gerstle, "Race and the Myth of
+    *America in Our Time*, 67--98; and Gerstle, "Race and the Myth of
     the Liberal Consensus."
 
 [^3]: Benjamin, "Theses on the Philosophy of History," 257.

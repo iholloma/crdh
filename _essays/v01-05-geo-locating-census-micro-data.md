@@ -142,7 +142,7 @@ Decennial changes suggest migration into subsect one accelerated in the
 early 1900s, with North Place becoming a heavily segregated space. In a
 similar fashion, many houses on Buxton Street changed from being
 occupied by native-born to foreign-born persons. Crucially, the period
-1881-1891 marked the introduction of migrants to the area, which was
+1881--1891 marked the introduction of migrants to the area, which was
 further amplified *en masse* in the following decade. The area rapidly
 absorbed migrants, and clear evidence of congregating can be observed in
 the map of 1911. Within thirty years, the neighbourhood underwent
@@ -280,33 +280,33 @@ Bermant, Chaim. *London's East End: Point of Arrival*. New York:
 Macmillan Publishing Co., 1975.
 
 Carter, H., and S. Wheatley. "Residential Segregation in
-Nineteenth-Century Cities." *Area* 12, no. 1 (1980): 57-62.
+Nineteenth-Century Cities." *Area* 12, no. 1 (1980): 57--62.
 
 Cohen, Richard I. "Nostalgia and 'return to the ghetto': a cultural
 phenomenon in Western and Central Europe." In *Assimilation and Community: The Jews in Nineteenth-Century Europe*, edited by Jonathan Frankel,
-Steven J. Zipperstein, 137-190. Cambridge: Cambridge University Press, 1992. 
+Steven J. Zipperstein, 137--190. Cambridge: Cambridge University Press, 1992. 
 
 Freidenreich, Harriet Pass. "Natives and Foreigners: Geographic Origins
 and Jewish Communal Politics in Interwar Vienna." In *Jewish Settlement and
 Community in the Modern Western World*, edited by Ronald Dotterer,
-Deborah Dash Moore, and Steven M. Cohen, 117-131. Cranbury, NJ: Associated
+Deborah Dash Moore, and Steven M. Cohen, 117--131. Cranbury, NJ: Associated
 University Press, 1991.
 
 Gartner, Lloyd P. "Notes on the Statistics of Jewish Immigration to
-England, 1870--1914." *Jewish Social Studies* 22, no. 2 (1960): 97-102.
+England, 1870--1914." *Jewish Social Studies* 22, no. 2 (1960): 97--102.
 
-*The Lancet*. "Report of the Lancet Special Sanitary Commission on the Polish Colony of Jew Tailors." May 3, 1884, 785-832.
+*The Lancet*. "Report of the Lancet Special Sanitary Commission on the Polish Colony of Jew Tailors." May 3, 1884, 785--832.
 
 *Lloyd's Illustrated Newspaper*. "Raids on London Shops: A Baker's Party." June 13, 1897.
 
 Newman, David. "Integration and Ethnic Spatial Concentration: The
 Changing Distribution of the Anglo-Jewish Community." *Transactions of
-the Institute of British Geographers* 10, no. 3 (1985): 360-376.
+the Institute of British Geographers* 10, no. 3 (1985): 360--376.
 
 Rule, Fiona. *The Worst Street in London*. London: Ian Allen, 2008.
 
 "The Tenter Ground Estate." In *Survey of London, vol. 27, Spitalfields
-and Mile End New Town*, edited by F. H. W. Sheppard, 242-244. London: London County Council, 1957. Accessed 15 May 2018. British History. <http://www.british-history.ac.uk/survey-london/vol27/pp242-244>.
+and Mile End New Town*, edited by F. H. W. Sheppard, 242--244. London: London County Council, 1957. Accessed 15 May 2018. British History. <http://www.british-history.ac.uk/survey-london/vol27/pp242-244>.
 
 *The Times*. "From A Correspondent. Alien London To-Day." March 16,
 1911.
@@ -316,7 +316,7 @@ and Mile End New Town*, edited by F. H. W. Sheppard, 242-244. London: London Cou
 #### Data Sources
 
 Schürer, Kevin and Edward Higgs, *Integrated Census Microdata (I-CeM)
-Names and Addresses, 1851-1911: Special Licence Access*, [data
+Names and Addresses, 1851--1911: Special Licence Access*, [data
 collection], UK Data Service, (2015), SN: 7856. Accessed 1 February 2018.
 <http://doi.org/10.5255/UKDA-SN-7856-1>.
 
@@ -335,17 +335,17 @@ the UK Data Service website.
 
 [^1]: Gartner, "Notes," 102.
 
-[^2]: Bermant, *London's East End*, 122-123.
+[^2]: Bermant, *London's East End*, 122--123.
 
-[^3]: Carter and Wheatley, "Residential Segregation," 57-58.
+[^3]: Carter and Wheatley, "Residential Segregation," 57--58.
 
 [^4]: *The Times*, "From A Correspondent."
 
-[^5]: Bermant, *London's East End*, 147-148.
+[^5]: Bermant, *London's East End*, 147--148.
 
-[^6]: Sheppard, "The Tenter Ground Estate," 242-244.
+[^6]: Sheppard, "The Tenter Ground Estate," 242--244.
 
-[^7]: *Lancet*, "Report," 817-819.
+[^7]: *Lancet*, "Report," 817--819.
 
 [^8]: Rule, *Worst Street*.
 
@@ -356,7 +356,7 @@ the UK Data Service website.
 
 [^11]: Cohen, "Nostalgia," 131.
 
-[^12]: Freidenreich, "Natives and Foreigners," 118-120.
+[^12]: Freidenreich, "Natives and Foreigners," 118--120.
 
 [^13]: Bermant, *London's East End*, 161.
 

@@ -470,10 +470,10 @@ York: Oxford University Press, 2004.
     to understand social interactions. Bazerman argues that "people
     using text create new realities of meaning, relation, and
     knowledge," and a text that performs as intended "creates for its
-    readers a social fact" (309-11). Also see Devitt, *Writing Genres*;
+    readers a social fact" (309--11). Also see Devitt, *Writing Genres*;
     Bawarshi and Reiff, *Genre: An Introduction*; Freedman and Artemeva,
     "Introduction," in *Rhetorical Genre Studies*; and Russell,
-    "Rethinking Genre," 504-54.
+    "Rethinking Genre," 504--54.
 
 [^10]: Miller, "Rhetorical Community," 71.
 

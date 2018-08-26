@@ -274,7 +274,7 @@ des Français de Calvin à Jules Ferry*. 2 vols. Paris: Éditions de
 Minuit, 1985.
 
 Gruder, Vivian. *The Notables and the Nation: The Political Schooling of
-the French, 1787-1788*. Cambridge: Harvard University Press, 2007.
+the French, 1787--1788*. Cambridge: Harvard University Press, 2007.
 
 Labrosse, Claude. *Lire au XVIIIe siècle: la Nouvelle Héloïse et ses
 lecteurs.* Lyon: Presses universitaires de Lyon, 1985.

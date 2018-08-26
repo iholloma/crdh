@@ -58,7 +58,7 @@ past. A careful examination of a corpus can offer a "medium reading" of
 sources which consists of a "large but narrowly constrained corpus
 centered on solving a well-defined research question."[^2] Through the
 exploration of social networks of the members of learned societies
-between 1790-1860 through the use of their membership lists, and that of
+between 1790--1860 through the use of their membership lists, and that of
 other learned groups in civil society, we can explore the nature of the
 creation and dissemination of information in the first half of the
 nineteenth century.
@@ -85,7 +85,7 @@ to explore if there was a change from a homogenous information
 environment to a more diverse and specialized republic of letters.[^3]
 
 {% figure caption: "Figure 1. Network graph of selected early American societies and
-groups. 1811-1850. The size of the circles corresponds to the number of
+groups, 1811--1850. The size of the circles corresponds to the number of
 members and the thickness of lines indicate the number of shared
 members." %}
 ![Network graph showing connections between early American societies and groups in nine different catagories](/assets/img/v01/oberle/network.png)
@@ -171,7 +171,7 @@ rationalized agricultural system.[^7]
 Some of the most interesting relationships in this graph are the federal
 employees who lived in the Washington D.C. In figure 2 this graph breaks
 out the network relationships into numerical values. Despite the span of
-twenty-five years between 1816-1841 and the drastic political changeover
+twenty-five years between 1816--1841 and the drastic political changeover
 in the cabinet and elected government there were fifty-three people that
 remained employed by the government in the national capital. This
 constitutes the most shared relationships in the chart with only the
@@ -204,7 +204,7 @@ Employees and Learned Societies." %}
 So, although more people were joining societies it remains unclear if
 there were significant numbers of connections between groups. The
 democratic impulse which is evident from the expansion of white male
-voting rights and expansion of the marketplace between 1820-1850 also
+voting rights and expansion of the marketplace between 1820--1850 also
 offered an expansion of the chaotic knowledge production
 environment.[^9] Ironically the expanding democratic view of knowledge,
 which offered opportunities for non-elite citizen scientists to collect,
@@ -364,22 +364,22 @@ as those that may tear them apart.
 ### Bibliography
 
 Baatz, Simon. "Philadelphia Patronage: The Institutional Structure of
-Natural History in the New Republic, 1800-1833." *Journal of the Early
+Natural History in the New Republic, 1800--1833." *Journal of the Early
 Republic* 8, no. 2 (July 1, 1988): 111--138. <https://doi.org/10.2307/3123808>.
 
 Baatz, Simon. "'Squinting at Silliman': Scientific Periodicals in the Early
-American Republic, 1810-1833." *Isis* 82, no. 2 (June 1, 1991): 223--244.
+American Republic, 1810--1833." *Isis* 82, no. 2 (June 1, 1991): 223--244.
 
-Carrier, Lyman. "The United States Agricultural Society, 1852-1860: Its
+Carrier, Lyman. "The United States Agricultural Society, 1852--1860: Its
 Relation to the Origin of the United States Department of Agriculture
 and the Land Grant Colleges." *Agricultural History* 11, no. 4 (1937):
 278--288.
 
 Danhof, Clarence H. *Change in Agriculture: The Northern United States,
-1820-1870*. Cambridge: Harvard University Press, 1969.
+1820--1870*. Cambridge: Harvard University Press, 1969.
 
 Dupree, A. Hunter. "The National Pattern of American Learned Societies,
-1769-1863." In *The Pursuit of Knowledge in the Early American Republic:
+1769--1863." In *The Pursuit of Knowledge in the Early American Republic:
 American Scientific and Learned Societies from Colonial Times to the
 Civil War*, edited by Alexandra Oleson and Sanborn C. Brown, 21--32.
 Baltimore, MD: Johns Hopkins University Press, 1976.
@@ -389,7 +389,7 @@ Activities to 1940*. Cambridge, Mass: Belknap Press of Harvard
 University Press, 1957.
 
 Ellsworth, Lucius F. "The Philadelphia Society for the Promotion of
-Agriculture and Agricultural Reform, 1785-1793." *Agricultural History*
+Agriculture and Agricultural Reform, 1785--1793." *Agricultural History*
 42, no. 3 (Summer 1968): 189--199.
 
 Funk, Kellen, and Lincoln A. Mullen. "The Spine of American Law: Digital
@@ -402,7 +402,7 @@ the Omohundro Institute of Early American History and Culture,
 Williamsburg, Virginia, by the University of North Carolina Press, 1999.
 
 Gross, Robert A, and Mary Kelley, eds. *An Extensive Republic: Print,
-Culture, and Society in the New Nation, 1790-1840*. A History of the
+Culture, and Society in the New Nation, 1790--1840*. A History of the
 Book in America, v. 2. Chapel Hill: Published in association with the
 American Antiquarian Society by the University of North Carolina Press,
 2010.
@@ -418,7 +418,7 @@ Howe, Daniel Walker. *The Political Culture of the American Whigs*.
 Chicago: University of Chicago Press, 1979.
 
 Howe, Daniel Walker. *What Hath God Wrought: The Transformation of America,
-1815-1848*. Oxford History of the United States. New York: Oxford University Press, 2007.
+1815--1848*. Oxford History of the United States. New York: Oxford University Press, 2007.
 
 Kerber, Linda K. *Federalists in Dissent; Imagery and Ideology in
 Jeffersonian America*. Ithaca, N.Y.: Cornell University Press, 1970.
@@ -428,7 +428,7 @@ States: The Failure of the National Institute, 1844." *ISIS: Journal of
 the History of Science in Society* 62, no. 3 (1971): 339--362.
 
 Kohlstedt, Sally. *The Formation of the American Scientific Community: The
-American Association for the Advancement of Science, 1848-60*. Urbana:
+American Association for the Advancement of Science, 1848--60*. Urbana:
 University of Illinois Press, 1976.
 
 Mathew, W. M. *Edmund Ruffin and the Crisis of Slavery in the Old South:
@@ -454,7 +454,7 @@ Learned Societies from Colonial Times to the Civil War*. Baltimore:
 Johns Hopkins University Press, 1976.
 
 Rossiter, Margaret W. *The Emergence of Agricultural Science: Justus
-Liebig and the Americans, 1840-1880*. Yale Studies in the History of
+Liebig and the Americans, 1840--1880*. Yale Studies in the History of
 Science and Medicine 9. New Haven: Yale University Press, 1975.
 
 Ruffin, Edmund. *The Diary of Edmund Ruffin*. Baton Rouge: Louisiana
@@ -473,7 +473,7 @@ Walther, Eric H. *The Fire-Eaters*. Baton Rouge: Louisiana State
 University Press, 1992.
 
 Wilentz, Sean. *Chants Democratic: New York City and the Rise of the
-American Working Class, 1788-1850*. 20th anniversary ed. New York:
+American Working Class, 1788--1850*. 20th anniversary ed. New York:
 Oxford University Press, 2004.
 
 Wilentz, Sean. *The Rise of American Democracy: Jefferson to Lincoln*. New
@@ -532,13 +532,13 @@ This work originated with a seminar class taught by Lincoln Mullen
 [^8]: Dupree, *Science in the Federal Government*.
 
 [^9]: Oleson and Brown, *The Pursuit of Knowledge in the Early American
-    Republic*; Baatz, "Philadelphia Patronage," 111-138; Kohlstedt, *The Formation of the American Scientific Community*; These ideas are being developed for a book which is a
+    Republic*; Baatz, "Philadelphia Patronage," 111--138; Kohlstedt, *The Formation of the American Scientific Community*; These ideas are being developed for a book which is a
     revision of my dissertation titled "The Institutionalization of
     Knowledge."
 
 [^10]: Dupree, *Science in the Federal Government*, 115--119.
 
-[^11]: Henry, *Papers*; Oberle, "Institutionalizing the Information Revolution," 228-231.
+[^11]: Henry, *Papers*; Oberle, "Institutionalizing the Information Revolution," 228--231.
 
 [^12]: Oberle, "Institutionalizing the Information Revolution."
 
@@ -549,8 +549,8 @@ This work originated with a seminar class taught by Lincoln Mullen
     list for the USAS at this time.
 
 [^15]: Carrier, "The United States Agricultural Society,
-    1852-1860"; Rossiter, *The Emergence of Agricultural
+    1852--1860"; Rossiter, *The Emergence of Agricultural
     Science*; Danhof, *Change in Agriculture*; Mathew,
-    *Edmund Ruffin and the Crisis of Slavery*; Ellsworth, "The Philadelphia Society," 189-99; United States Agricultural Society, *Seventh National Exhibition*.
+    *Edmund Ruffin and the Crisis of Slavery*; Ellsworth, "The Philadelphia Society," 189--99; United States Agricultural Society, *Seventh National Exhibition*.
 
-[^16]: Ruffin, *The Diary of Edmund Ruffin*, 145-146; Walther, *The Fire Eaters,* 228.
+[^16]: Ruffin, *The Diary of Edmund Ruffin*, 145--146; Walther, *The Fire Eaters,* 228.
