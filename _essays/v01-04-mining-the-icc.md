@@ -13,7 +13,7 @@ authors:
   orcid: 0000-0002-6017-3830
   url: "http://petercarrjones.com/"
 abstract: |
-  Conservative white politicians created the Indian Claims Commission (ICC) as part of a movement to terminate Indian tribes in the 1940s. Many indigenous studies scholars see the ill intent and certain unjust outcomes as proof of the ICC’s damage to tribal sovereignty. Using topic modeling to follow discourses in the decisions, this paper argues the Commission be seen rather as a modest, symbolic step towards meeting federal promises. Topic modeling or macroanalysis allows researchers to read all of the legal decisions distantly. Viewed over time, the decisions categorize the changing relationship between Indian Country and the Federal Government from a policy of terminating tribes’ status to much great tribal sovereignty. Text mining also highlighted certain types of decisions, driving analysis and allowing exploration of the corpus. The “accounting” topic and related decisions importantly required the Federal government to symbolically recognize their treaty obligations. The decisions mark a legal process and major events in the late 1960s and 1970s affected their changing discourse. The ICC itself subsequently affected the relationship between tribes and government. By directing an “accounting,” the decisions encouraged an additional step in the continuing process of political reconciliation.
+  Conservative white politicians created the Indian Claims Commission (ICC) as part of a movement to terminate Indian tribes in the 1940s. Many indigenous studies scholars see the ill intent and certain unjust outcomes as proof of the ICC’s damage to tribal sovereignty. Using topic modeling to follow discourses in the decisions, this paper argues the Commission should be seen rather as a modest, symbolic step towards meeting federal promises. Topic modeling or macroanalysis allows researchers to read all of the legal decisions distantly. Viewed over time, the decisions categorize the changing relationship between Indian Country and the Federal Government from a policy of terminating tribes’ status to much greater tribal sovereignty. Text mining also highlighted certain types of decisions, driving analysis and allowing exploration of the corpus. The “accounting” topic and related decisions importantly required the Federal government to symbolically recognize their treaty obligations. The decisions mark a legal process and major events in the late 1960s and 1970s affected their changing discourse. The ICC itself subsequently affected the relationship between tribes and government. By directing an “accounting,” the decisions encouraged an additional step in the continuing process of political reconciliation.
 appendix:
 - name: Data and Code archive
   file: jones-v01/jones-data-code.zip
@@ -35,7 +35,7 @@ Commission's lifespan in the 1970s, the Federal Government's policy of
 termination had flipped 180 degrees. With the failure of Termination and
 protest by the American Indian Movement, the government now sought to
 treat tribes as independent nations during what Francis Paul Prucha
-noted was a period of increased tribal Self-Determination and
+noted was a period of increased tribal self-determination and
 activism.[^3]
 
 By analyzing the discourse of the decisions, I hope to move beyond their
@@ -56,9 +56,9 @@ portrayed the ICC not as a variance, but a fundamental element of
 political reconciliation for indigenous peoples.
 
 Ernesto Verdeja recently presented three central elements of political
-reconciliation in postcolonial societies: 1) a critical reflection on
-the events that occurred 2) symbolic or material recognition of the
-harms 3) increased political participation.[^5] The long ICC process
+reconciliation in postcolonial societies: (1) a critical reflection on
+the events that occurred; (2) symbolic or material recognition of the
+harms; (3) increased political participation.[^5] The long ICC process
 helped produce these elements of reconciliation or mutual respect.
 Previous scholars have rightly focused on the flaws of a process partly
 designed by politicians desiring "Termination" of the trust
@@ -88,7 +88,7 @@ documents (though real insight is never simply spat out via the right
 combination of code).
 
 To analyze the decisions, I first scraped them from Oklahoma State's
-website and extracted the PDFs text using Google's free Tesseract
+website and extracted text from the PDFs text using Google's free Tesseract
 optical character recognition (OCR) software. I generated "topics" or
 groups of words that were statistically more likely to be found together
 in the ICC decisions.[^9] These "topics" can be analyzed to loosely
@@ -111,9 +111,9 @@ accounting topic described below). The topics can also display common
 historical features well described in the literature.[^12] In the first
 phase of a typical ICC case, the tribe would have to prove title to
 their land. This involved historians and anthropologists conducting
-extensive research and writing monograph length expert witness reports
+extensive research and writing monograph-length expert witness reports
 over a number of years. Second, the government and tribes would
-determine valuation and liability for the land. Often with help from
+determine valuation and liability for the land, often with help from
 historians, accountants, and other experts. Finally, the Commission
 multiplied damages by interest rates over time. Three topics matched
 this typical ICC claims process:
@@ -139,7 +139,7 @@ and provided an emphatic voice behind the scenes of the ICC. His impact
 is no surprise when discourse and legal justifications changed in the
 1970s.[^14]
 
-In 1970, President Nixon announced his Self-Determination doctrine for
+In 1970, President Nixon announced his self-determination doctrine for
 tribes.[^15] This announcement officially ended the Termination Era and
 returned Federal-Indian policy towards sovereignty and a
 nation-to-nation relationship. On November 2, 1972 members of the
@@ -185,14 +185,14 @@ perpetually unbalanced relationship.
 
 Verdeja's theory of political reconciliation in postcolonial settler
 societies aligns well with the ICC claims process highlighted by topic
-modeling and traditional scholarship on the ICC:[^20] 1) A critical
+modeling and traditional scholarship on the ICC.[^20] First, a critical
 reflection on the events occurred. In the case of the Indian Claims
 Commission, extensive histories by anthropologists and historians acting
 as expert witnesses provided broad and at times critical views of
 colonial violence. It is no coincidence that the journal *Ethnohistory*
 was founded in 1954 during intensive research by these ICC expert
 witnesses.[^21] This broad ethnohistorical data was extremely valuable
-to tribes making sense of the colonial-settler violence. 2) Symbolic or
+to tribes making sense of the colonial-settler violence. Second there was symbolic or
 material recognition. The roughly $600 million dollars in awards doled
 out by the Commission were far more symbolic than material. More than
 the actual monies generated by the ICC for tribal members, which were
@@ -200,7 +200,7 @@ but a fraction of the values of lands and resources originally stolen,
 the process of going through the "accounting" reflected some justice for
 tribal members. Appointment to the ICC of Commissioner Brantley Blue
 finally brought indigenous participation to the proceedings and allowed
-for changes in the Commission's perspective. 3) Verdeja's third core
+for changes in the Commission's perspective. Verdeja's third core
 element of the reconciliation process was political participation. In
 1975, following the Wounded Knee occupation and the Blackfeet accounting
 decision, Congress passed the Indian Self-Determination and Education
@@ -253,7 +253,7 @@ Peters, Gerhard and John T. Woolley, eds. The American Presidency Project. <http
 
 Perdue, Theda. "Presidential Address: The Legacy of Indian Removal." *Journal of Southern History* 78, no. 1 (February 2012): 3--36.
 
-Prucha, Francis Paul. *The Great Father: The Unites States Government
+Prucha, Francis Paul. *The Great Father: The United States Government
 and the American Indians*. Lincoln: University of Nebraska Press, 1986.
 
 Rosenthal, Harvey. "Their Day in Court: A History of the Indian Claims
