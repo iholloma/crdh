@@ -14,7 +14,7 @@ permalink: /cfp/
 
 The Roy Rosenzweig Center for History and New Media invites submissions for the second annual [*Current Research in Digital History*](http://crdh.rrchnm.org/) conference. Submissions should offer historical arguments and interpretations rather than showcase digital projects. The format of short presentations provides an opportunity to make arguments on the basis of ongoing research in larger projects. Graduate students are encouraged to submit proposals. Some travel funding for presenters is available. Presentations will be peer-reviewed and published in an online publication that accommodates dynamic visualizations and narrative.
 
-**Submissions due:** September 28, 2018. E-mail submissions as a PDF or URL to [lincoln+crdh@lincolnmullen.com](mailto:lincoln+crdh@lincolnmullen.com). Questions may be sent to the same address. 
+**Submissions due:** <del>September 28, 2018.</del> The deadline has been extended to October 15, 2018. E-mail submissions as a PDF or URL to [lincoln+crdh@lincolnmullen.com](mailto:lincoln+crdh@lincolnmullen.com). Questions may be sent to the same address. 
 
 **Format:** Each presentation will be 10 minutes in length. Proposals must include the full text (no more than 2000 words) and accompanying visualizations or websites to be presented. Papers can include multiple authors. Submissions can be either a single presentation or a session of two presentations. Proposals may suggest a commentator but are not obliged to.
 
