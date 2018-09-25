@@ -241,14 +241,14 @@ Routledge, 1994.
 
 Bond, Nigel, Jan Packer, and Roy Ballantyne. "Exploring Visitor
 Experiences, Activities and Benefits at Three Religious Tourism Sites."
-*International Journal of Tourism Research* 17, no. 5 (2014): 471--481. <https://doi.org/10.1002/jtr.2014>.
+*International Journal of Tourism Research* 17, no. 5 (2014): 471--481. <https://doi.org/10.1002/jtr.2014>. [DOI](https://doi.org/10.1002/jtr.2014)
 
 Chen, Chia-Li. "Representing and Interpreting Traumatic History: A Study
 of Visitor Comment Books at the Hiroshima Peace Memorial Museum."
-*Museum Management and Curatorship* 27 (2012): 379. <https://doi.org/10.1080/09647775.2012.720186>.
+*Museum Management and Curatorship* 27 (2012): 379. <https://doi.org/10.1080/09647775.2012.720186>. [DOI](https://doi.org/10.1080/09647775.2012.720186)
 
 Falk, J. H., J.J. Koran, L.D. Dierking, and L. Dreblow. "Predicting
-Visitor Behavior." *Curator* 28 (1985): 249--257. <https://doi.org/10.1111/j.2151-6952.1985.tb01753.x>
+Visitor Behavior." *Curator* 28 (1985): 249--257. <https://doi.org/10.1111/j.2151-6952.1985.tb01753.x> [DOI](https://doi.org/10.1111/j.2151-6952.1985.tb01753.x)
 
 Franco, Barbara (SRM Director). Interview by Josh Howard. March 14, 2015.
 
