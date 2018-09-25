@@ -355,7 +355,7 @@ method's further use on different corpora.
 ### Bibliography
 
 Buss, James. *Winning the West with Words: Language and Conquest in the
-Lower Great Lakes*. Norman: University of Oklahoma Press, 2011.
+Lower Great Lakes*. Norman: University of Oklahoma Press, 2011. 
 
 Calloway, Colin G. *Pen and Ink Witchcraft: Treaties and Treaty Making
 in American Indian History*. New York: Oxford University Press, 2013.
@@ -369,7 +369,7 @@ America's Western Past*. W. W. Norton & Company, 1993.
 
 Funk, Kellen, and Lincoln A. Mullen. "The Spine of American Law: Digital
 Text Analysis and U.S. Legal Practice." *American Historical Review*
-123, no. 1 (2018): 132--64.
+123, no. 1 (2018): 132--64. [DOI](https://doi.org/10.31235/osf.io/w8un4)
 
 Hamalainen, Pekka. *The Comanche Empire*. New Haven: Yale University
 Press, 2009.
