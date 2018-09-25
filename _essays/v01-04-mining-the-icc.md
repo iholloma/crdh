@@ -235,13 +235,13 @@ Bushyhead, Yvonne. "In the Spirit of Crazy Horse: Leonard Peltier and
 the AIM Uprising." In *The Winds of Injustice: American Indians and the
 U.S. Government*, edited by Laurence Armand French, 77--112. New York: Garland Publishing, 1994.
 
-Jockers, Matthew. "Secret Recipe for Topic Modeling Themes." April 12, 2013. <http://www.matthewjockers.net/2013/04/12/secret-recipe-for-topic-modeling-themes/>.
+Jockers, Matthew. "Secret Recipe for Topic Modeling Themes." April 12, 2013. <http://www.matthewjockers.net/2013/04/12/secret-recipe-for-topic-modeling-themes/>. [DOI](https://doi.org/10.1007/978-3-319-03164-4_13)
 
 Kuykendall, Jerome T. *Final Report of the Indian Claims Commission*.
 September 30, 1978. Washington, DC: Government Printing Office, 1979.
 
 Lee, Robert. "Accounting for Conquest: The Price of the Louisiana
-Purchase of Indian Country." *Journal of American History* 103, no. 4 (March 2017): 921--944. <https://doi.org/10.1093/jahist/jaw504>. 
+Purchase of Indian Country." *Journal of American History* 103, no. 4 (March 2017): 921--944. <https://doi.org/10.1093/jahist/jaw504>. [DOI](https://doi.org/10.1093/jahist/jaw504)
 
 McCallum, Andrew Kachites. "MALLET: A Machine Learning for Language
 Toolkit." 2002. <http://mallet.cs.umass.edu/>.
@@ -260,10 +260,10 @@ Rosenthal, Harvey. "Their Day in Court: A History of the Indian Claims
 Commission." PhD diss., Kent State University, 1976.
 
 Verdeja, Ernesto. "Political Reconciliation in Postcolonial Settler
-Societies." *International Political Science Review* 38, no. 2 (March 2017): 227--241. <https://doi.org/10.1177/0192512115624517>.
+Societies." *International Political Science Review* 38, no. 2 (March 2017): 227--241. <https://doi.org/10.1177/0192512115624517>. [DOI](https://doi.org/10.1177/0192512115624517)
 
 Wilkins, David E. *Hollow Justice: A History of Indigenous Claims in the
-United States*. New Haven: Yale University Press, 2013. <https://doi.org/10.12987/yale/9780300119268.001.0001>.
+United States*. New Haven: Yale University Press, 2013. <https://doi.org/10.12987/yale/9780300119268.001.0001>. [DOI](https://doi.org/10.12987/yale/9780300119268.001.0001)
 
 Wilkinson, Charles F. *Blood Struggle: The Rise of Modern Indian
 Nations*. New York: W. W. Norton & Company, 2005.
