@@ -692,7 +692,7 @@ conjunctions of rhetoric and politics will also grow.
 
 ### Bibliography
 
-Alexander, Marc. "The metaphorical understanding of *power and authority*." In *Mapping English Metaphor Through Time*, edited by Wendy Anderson, Ellen Bramwell, and Carole Hough, 191--207. Oxford: Oxford University Press, 2016. <https://doi.org/10.1093/acprof:oso/9780198744573.001.0001>.
+Alexander, Marc. "The metaphorical understanding of *power and authority*." In *Mapping English Metaphor Through Time*, edited by Wendy Anderson, Ellen Bramwell, and Carole Hough, 191--207. Oxford: Oxford University Press, 2016. <https://doi.org/10.1093/acprof:oso/9780198744573.001.0001>. [DOI](https://doi.org/10.1093/acprof:oso/9780198744573.001.0001)
 
 Alexander, Marc, and Andrew Struan. "Digital Hansard: Politics and the Uncivil." *DH 2017*. <https://dh2017.adho.org/abstracts/007/007.pdf>.
 
