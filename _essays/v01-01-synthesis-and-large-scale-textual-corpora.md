@@ -696,46 +696,46 @@ Alexander, Marc. "The metaphorical understanding of *power and authority*." In *
 
 Alexander, Marc, and Andrew Struan. "Digital Hansard: Politics and the Uncivil." *DH 2017*. <https://dh2017.adho.org/abstracts/007/007.pdf>.
 
-Blaxill, Luke. "Quantifying the Language of British Politics, 1880--1910." *Historical Research* 86, no. 232 (May 1, 2013): 313--41. <https://doi.org/10.1111/1468-2281.12011>.
+Blaxill, Luke. "Quantifying the Language of British Politics, 1880--1910." *Historical Research* 86, no. 232 (May 1, 2013): 313--41. <https://doi.org/10.1111/1468-2281.12011>. [DOI](https://doi.org/10.1111/1468-2281.12011)
 
 Blei, David M, and John D Lafferty. "A Correlated Topic Model of
-Science." *Ann. Appl. Stat.* 1, no. 1 (2007): 17--35. <https://doi.org/10.1214/07-AOAS114>.
+Science." *Ann. Appl. Stat.* 1, no. 1 (2007): 17--35. <https://doi.org/10.1214/07-AOAS114>. [DOI](https://doi.org/10.1214/07-AOAS114)
 
 Blei, David M. "Probabilistic Topic Models." *Commun. ACM* 55, no. 4
-(April 2012): 77--84. <https://doi.org/10.1145/2133806.2133826>.
+(April 2012): 77--84. <https://doi.org/10.1145/2133806.2133826>. [DOI](https://doi.org/10.1145/2133806.2133826)
 
 Blei, David M., Andrew Y. Ng, and Michael I. Jordan. "Latent Dirichlet
-Allocation." *Journal of Machine Learning Research* 3 (January 2003): 993--1022. <http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf>.
+Allocation." *Journal of Machine Learning Research* 3 (January 2003): 993--1022. <http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf>. 
 
 Blevins, Cameron. "Space, Nation, and the Triumph of Region: A View of
 the World from Houston." *Journal of American History* 101, no. 1
-(June 1, 2014): 122--47. <https://doi.org/10.1093/jahist/jau184>.
+(June 1, 2014): 122--47. <https://doi.org/10.1093/jahist/jau184>. [DOI](https://doi.org/10.1093/jahist/jau184)
 
 Boyd-Graber, Jordan, Yuening Hu, and David Mimno. "Applications of
 Topic Models." *Foundations and Trends® in Information Retrieval* 11,
-no. 2--3 (July 20, 2017): 143--296. <https://doi.org/10.1561/1500000030>.
+no. 2--3 (July 20, 2017): 143--296. <https://doi.org/10.1561/1500000030>. [DOI](https://doi.org/10.1561/1500000030)
 
-Briggs, Asa. *The Age of Improvement, 1783-1867*. New York: D. McKay, 1962.
+Briggs, Asa. *The Age of Improvement, 1783-1867*. New York: D. McKay, 1962. [DOI](https://doi.org/10.4324/9781315838991)
 
 Burns, Arthur. "English 'Church Reform' Revisited, 1780--1840." In
 *Rethinking the Age of Reform*, edited by Joanna Innes and Lyndal
-Roper, 136--62. Cambridge: Cambridge University Press, 2011.
+Roper, 136--62. Cambridge: Cambridge University Press, 2011. [DOI](https://doi.org/10.1017/CBO9780511550409)
 
-Cragoe, Matthew, and Paul Readman, eds. *The Land Question in Britain, 1750--1950*. New York: Palgrave Macmillan, 2010.
+Cragoe, Matthew, and Paul Readman, eds. *The Land Question in Britain, 1750--1950*. New York: Palgrave Macmillan, 2010. [DOI](https://doi.org/10.1057/9780230248472)
 
 Curtis, L. Perry. "The Battering Ram and Irish Evictions, 1887--90."
-*Éire-Ireland* 42, no. 3 (December 10, 2007): 207--28. <https://doi.org/10.1353/eir.2007.0039>.
+*Éire-Ireland* 42, no. 3 (December 10, 2007): 207--28. <https://doi.org/10.1353/eir.2007.0039>. [DOI](https://doi.org/10.1353/eir.2007.0039)
 
 Dalins, Janis, Campbell Wilson, and Mark Carman. "Criminal Motivation
 on the Dark Web: A Categorisation Model for Law Enforcement." *Digital
-Investigation* 24 (March 1, 2018): 62--71. <https://doi.org/10.1016/j.diin.2017.12.003>.
+Investigation* 24 (March 1, 2018): 62--71. <https://doi.org/10.1016/j.diin.2017.12.003>. [DOI](https://doi.org/10.1016/j.diin.2017.12.003)
 
 Eggers, Andrew C., and Arthur Spirling. "The Shadow Cabinet in
 Westminster Systems: Modeling Opposition Agenda Setting in the House
-of Commons, 1832--1915." *British Journal of Political Science* 48, no. 2 (2018): 343–-67. Published online April 11 2016. <https://doi.org/10.1017/S0007123416000016>.
+of Commons, 1832--1915." *British Journal of Political Science* 48, no. 2 (2018): 343–-67. Published online April 11 2016. <https://doi.org/10.1017/S0007123416000016>. [DOI](https://doi.org/10.1017/S0007123416000016)
 
 Griffin, Emma. *Blood Sport: Hunting in Britain Since 1066*. New
-Haven; London: Yale University Press, 2008.
+Haven; London: Yale University Press, 2008. 
 
 Griffiths, Clare V. J. *Labour and the Countryside: The Politics of
 Rural Britain 1918-1939*. Oxford Historical Monographs. Oxford: Oxford
@@ -745,16 +745,16 @@ Guo, Lei, Chris J. Vargo, Zixuan Pan, Weicong Ding, and Prakash
 Ishwar. "Big Social Data Analytics in Journalism and Mass
 Communication Comparing Dictionary-Based Text Analysis and
 Unsupervised Topic Modeling." *Journalism & Mass Communication
-Quarterly* 93, no. 2 (June 1, 2016): 332--59. <https://doi.org/10.1177/1077699016639231>.
+Quarterly* 93, no. 2 (June 1, 2016): 332--59. <https://doi.org/10.1177/1077699016639231>. [DOI](https://doi.org/10.1177/1077699016639231)
 
 Hilton, Boyd. *Corn, Cash, Commerce: The Economic Policies of the Tory
 Governments 1815-1830*. London: Oxford University Press, 1977.
 
-Kivell, P.T. and I. McKay. "Public ownership of urban land." *Transactions of the Institute of British Geographers* 13 (1988): 165--78.
+Kivell, P.T. and I. McKay. "Public ownership of urban land." *Transactions of the Institute of British Geographers* 13 (1988): 165--78. [DOI](https://doi.org/10.2307/622504)
 
 Klein, Lauren, and Jacob Eisenstein. "Reading Thomas Jefferson with
 TopicViz: Towards a Thematic Method for Exploring Large Cultural
-Archives." *Scholarly and Research Communication* 4, no. 3 (2013). <https://doi.org/10.22230/src.2013v4n3a121>.
+Archives." *Scholarly and Research Communication* 4, no. 3 (2013). <https://doi.org/10.22230/src.2013v4n3a121>. [DOI](https://doi.org/10.22230/src.2013v4n3a121)
 
 McKenzie-McHarg, Andrew, and Rolf Fredheim. "Cock-Ups and Slap-Downs:
 A Quantitative Analysis of Conspiracy Rhetoric in the British
@@ -764,20 +764,20 @@ and Interdisciplinary History* 50, no. 3 (July 3, 2017): 156--69. <https://doi.o
 Mitrofanova, Olga, and Anastasiia Sedova. "Topic Modelling in Parallel
 and Comparable Fiction Texts (the Case Study of English and Russian
 Prose)." *Proceedings of the International Conference IMS-2017*,
-175--180. New York, NY, USA: ACM, 2017. <https://doi.org/10.1145/3143699.3143734>.
+175--180. New York, NY, USA: ACM, 2017. <https://doi.org/10.1145/3143699.3143734>. [DOI](https://doi.org/10.1145/3143699.3143734)
 
 Mohr, John W., and Petko Bogdanov. "Introduction---Topic Models: What
 They Are and Why They Matter." In "Topic Models and the
-Cultural Sciences." Special issue, *Poetics* 41, no. 6 (December 1, 2013): 545--69. <https://doi.org/10.1016/j.poetic.2013.10.001>.
+Cultural Sciences." Special issue, *Poetics* 41, no. 6 (December 1, 2013): 545--69. <https://doi.org/10.1016/j.poetic.2013.10.001>. [DOI](https://doi.org/10.1016/j.poetic.2013.10.001)
 
 Mollin, Sandra. "The Hansard Hazard: Gauging the Accuracy of British
 Parliamentary Transcripts." *Corpora* 2, no. 2 (November 1, 2007):
-187--210. <https://doi.org/10.3366/cor.2007.2.2.187>.
+187--210. <https://doi.org/10.3366/cor.2007.2.2.187>. [DOI](https://doi.org/10.3366/cor.2007.2.2.187)
 
 Newman, David J., and Sharon Block. "Probabilistic Topic Decomposition
 of an Eighteenth-Century American Newspaper." *Journal of the American
 Society for Information Science and Technology* 57, no. 6 (April 1,
-2006): 753--67. <https://doi.org/10.1002/asi.20342>.
+2006): 753--67. <https://doi.org/10.1002/asi.20342>. [DOI](https://doi.org/10.1002/asi.20342)
 
 Palonen, Kari. *Politics of Parliamentary Procedure: The Formation of
 the Westminster Process*. Opladen: Barbara Budrich, 2016.
@@ -796,19 +796,19 @@ Ridley, Jane. "Arthur Balfour." In *Modern British Statesmen, 1867-1945*, edited
 
 Roe, Glenn, Clovis Gladstone, and Robert Morrissey. "Discourses and
 Disciplines in the Enlightenment: Topic Modeling the French
-*Encyclopédie*." *Frontiers in Digital Humanities* 2 (2016). <https://doi.org/10.3389/fdigh.2015.00008>.
+*Encyclopédie*." *Frontiers in Digital Humanities* 2 (2016). <https://doi.org/10.3389/fdigh.2015.00008>. [DOI](https://doi.org/10.3389/fdigh.2015.00008)
 
 Slack, Paul. *The Invention of Improvement: Information and Material
 Progress in Seventeenth-Century England*. Oxford: Oxford University
-Press, 2015.
+Press, 2015. [DOI](https://doi.org/10.1093/acprof:oso/9780199645916.001.0001)
 
 Tangherlini, Timothy R, Vwani Roychowdhury, Beth Glenn, Catherine M
 Crespi, Roja Bandari, Akshay Wadia, Misagh Falahi, Ehsan Ebrahimzadeh,
 and Roshan Bastani. "'Mommy Blogs' and the Vaccination Exemption Narrative: Results From A Machine-Learning Approach for Story Aggregation on Parenting Social Media Sites." *JMIR Public Health and
-Surveillance* 2, no. 2 (November 22, 2016): e166. <https://doi.org/10.2196/publichealth.6586>.
+Surveillance* 2, no. 2 (November 22, 2016): e166. <https://doi.org/10.2196/publichealth.6586>. [DOI](https://doi.org/10.2196/publichealth.6586)
 
 Thompson, James. "After the Fall: Class and Political Language in
-Britain, 1780--1900." *The Historical Journal* 39, no. 3 (September 1996): 785--806. <https://doi.org/10.1017/S0018246X00024572>.
+Britain, 1780--1900." *The Historical Journal* 39, no. 3 (September 1996): 785--806. <https://doi.org/10.1017/S0018246X00024572>. [DOI](https://doi.org/10.1017/S0018246X00024572)
 
 Trentmann, Frank. *Free Trade Nation: Commerce, Consumption, and Civil
 Society in Modern Britain*. 1st paperback ed. Oxford: Oxford
