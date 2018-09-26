@@ -242,14 +242,14 @@ reading public.
 Bond, Elizabeth Andrews. "Circuits of Practical Knowledge: The Network
 of Letters to the Editor in the French Provincial Press, 1770--1788."
 *French Historical Studies* 39, no. 3 (August 2016): 535--565.
-<https://doi.org/10.1215/00161071-3500309>.
+<https://doi.org/10.1215/00161071-3500309>. [DOI](https://doi.org/10.1215/00161071-3500309)
 
 Burrows, Simon. *Blackmail, Scandal, and Revolution: London's French
 libellistes, 1758--1792*. Manchester: Manchester University Press, 2006.
 
 Causer, Tim and Valerie Wallace. "Building a Volunteer Community:
 Results and Findings from Transcribe Bentham." *Digital Humanities
-Quarterly* 6, no. 2 (2012). <http://www.digitalhumanities.org/dhq/vol/6/2/000125/000125.html>.
+Quarterly* 6, no. 2 (2012). <http://www.digitalhumanities.org/dhq/vol/6/2/000125/000125.html>. [DOI](https://doi.org/10.4324/9780203423387 )
 
 Censer, Jack. *The French Press in the Age of Enlightenment*. New York:
 Routledge, 2002.
@@ -284,7 +284,7 @@ in the Era of Print Saturation*. Chicago: University of Chicago Press,
 2018.
 
 Popkin, Jeremy D. *News and Politics in the Age of Revolution: Jean
-Luzac's Gazette de Leyde*. Ithaca: Cornell University Press, 1989.
+Luzac's Gazette de Leyde*. Ithaca: Cornell University Press, 1989. [DOI](https://doi.org/10.7591/9781501701511)
 
 Roche, Daniel. *Le peuple de Paris: essai sur la culture populaire au
 XVIIIe siècle*. Paris: Aubier Montaigne, 1981.
@@ -303,7 +303,7 @@ Digitized Historical Newspapers." *Digital Humanities Quarterly* 8, no.
 1 (2014). <http://digitalhumanities.org/dhq/vol/8/1/000168/000168.html>.
 
 Williams, Abigail. *The Social Life of Books: Reading Together in the
-Eighteenth-Century Home*. New Haven: Yale University Press, 2017.
+Eighteenth-Century Home*. New Haven: Yale University Press, 2017. [DOI](https://doi.org/10.12987/yale/9780300208290.001.0001)
 
 ---
 
