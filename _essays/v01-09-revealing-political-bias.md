@@ -302,7 +302,7 @@ Brandon, Henry. *As We Are*. New York: Doubleday, 1961.
 
 Drucker, Johanna. "Not Sound." In *The Sound of Poetry / the Poetry of
 Sound*, edited by Marjorie Perloff and Craig Dworkin, 237--48. Chicago:
-University of Chicago Press, 2009.
+University of Chicago Press, 2009. [DOI](https://doi.org/10.7208/chicago/9780226657448.003.0019)
 
 Manovich, Lev, Jeremy Douglass, Jay Chow, Matias Giachino, and Nadia
 Xiangfei Zeng. "ImageMeasure." ImageJ macro version 1.1. 2012.
