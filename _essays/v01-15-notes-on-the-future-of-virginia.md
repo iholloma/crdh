@@ -353,14 +353,14 @@ Jefferson Papers, *Founders Online*, National Archives. <https://founders.archiv
 
 Jordan, Winthrop D. *White Over Black: American Attitudes toward the
 Negro, 1550--1812*. Chapel Hill: University of North Carolina Press,
-1968.
+1968. [DOI](https://doi.org/10.5149/9780807838686_jordan)
 
 Miller, John Chester. *The Wolf by the Ears: Thomas Jefferson and
 Slavery*. Charlottesville: University Press of Virginia, 1991.
 
 Onuf, Peter S. "'To Declare Them a Free and Independant People': Race,
 Slavery, and National Identity in Jefferson's Thought." *Journal of the
-Early Republic* 18, no. 1 (1998): 1--46.
+Early Republic* 18, no. 1 (1998): 1--46. [DOI](https://doi.org/10.2307/3124731)
 
 *The Papers of Thomas Jefferson Digital Edition*, edited by James P. McClure and J. Jefferson Looney. Charlottesville: University of Virginia Press, Rotunda Series, 2008--2018. <http://rotunda.upress.virginia.edu/founders/TSJN.html>
 
