@@ -296,7 +296,7 @@ unique "girl problem," especially in terms of race and class.
 
 ### Bibliography
 
-Additon, Henrietta S. "Work Among Delinquent Women and Girls." *The Annals of the American Academy of Political and Social Science* 79 (1918): 152--160. <https://doi.org/10.1177/000271621807900116>.
+Additon, Henrietta S. "Work Among Delinquent Women and Girls." *The Annals of the American Academy of Political and Social Science* 79 (1918): 152--160. <https://doi.org/10.1177/000271621807900116>. [DOI](https://doi.org/10.1177/000271621807900116)
 
 Alexander, Ruth M. *The "Girl Problem": Female Sexual Delinquency in New York, 1900--1930*. Ithaca: Cornell University Press, 1995. 
 
@@ -310,17 +310,17 @@ Bush. Erin N. *Full Virginia Reform School Admittance by Origin 1918--1920*. Unp
 
 Bush, William S. *Who Gets a Childhood: Race and Juvenile Justice in Twentieth-Century Texas*. Athens: University of Georgia Press, 2010.
 
-Cahn, Susan K. *Sexual Reckonings: Southern Girls in a Troubling Age*. Cambridge: Harvard University Press, 2007. 
+Cahn, Susan K. *Sexual Reckonings: Southern Girls in a Troubling Age*. Cambridge: Harvard University Press, 2007. [DOI](https://doi.org/10.4159/9780674029149 )
 
 Dabney, Virginius. *Virginia the New Dominion: A History from 1607 to the Present*. Charlottesville: University of Virginia Press, 1971.
 
-Falconer, Martha P. "The Segregation of Delinquent Women and Girls as a War Problem." *The Annals of the American Academy of Political and Social Science* 79 (1918): 160--66. <https://doi.org/10.1177/000271621807900117>.
+Falconer, Martha P. "The Segregation of Delinquent Women and Girls as a War Problem." *The Annals of the American Academy of Political and Social Science* 79 (1918): 160--66. <https://doi.org/10.1177/000271621807900117>. [DOI](https://doi.org/10.1177/000271621807900117)
 
 Odem, Mary. *Delinquent Daughters: Protecting and Policing Adolescent Female Sexuality in the United States, 1885--1920*. Chapel Hill: University of North Carolina Press, 1995.
 
 Rembis, Michael A. *Defining Deviance: Sex, Science and Delinquent Girls, 1890--1960*. Urbana: University of Illinois Press, 2011.
 
-Schlossman, Steven, and Stephanie Wallach. "The Crime of Precocious Sexuality: Female Juvenile Delinquency in the Progressive Era." *Harvard Educational Review* 48, no. 1 (Feb 1978): 65--94. <https://doi.org/10.17763/haer.48.1.t62068326050748q>.
+Schlossman, Steven, and Stephanie Wallach. "The Crime of Precocious Sexuality: Female Juvenile Delinquency in the Progressive Era." *Harvard Educational Review* 48, no. 1 (Feb 1978): 65--94. <https://doi.org/10.17763/haer.48.1.t62068326050748q>. [DOI](https://doi.org/10.17763/haer.48.1.t62068326050748q)
 
 Trost, Jennifer. *Gateway to Justice: The Juvenile Court and Progressive Child Welfare in a Southern City*. Athens: University of Georgia Press, 2005.
 
