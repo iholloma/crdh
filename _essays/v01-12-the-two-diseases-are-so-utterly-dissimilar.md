@@ -324,7 +324,7 @@ scientific consensus about disease etiology.
 
 Bresalier, Michael. "'A Most Protean Disease': Aligning Medical
 Knowledge of Modern Influenza, 1890--1914." *Medical History* 56, no. 4
-(2012): 481--510.
+(2012): 481--510. [DOI](https://doi.org/10.1017/mdh.2012.29 )
 
 British Newspaper Archive. <https://www.britishnewspaperarchive.co.uk/>.
 
@@ -332,11 +332,11 @@ Chronicling America. Historic American Newspapers from the Library of
 Congress. <https://chroniclingamerica.loc.gov/>.
 
 Clemow, Frank. *The Cholera Epidemic of 1892 in the Russian Empire*.
-London: Longmans, Green, and Co., 1893.
+London: Longmans, Green, and Co., 1893. 
 
 Cordell, Ryan. "Reprinting, Circulation, and the Network Author in
 Antebellum Newspapers." *American Literary History* 27, no. 3 (2015):
-417--445.
+417--445. [DOI](https://doi.org/10.1093/alh/ajv028 )
 
 "Epidemic Influenza." *British Medical Journal* 2, no. 1521, (December
 7, 1889): 1290--1291.
@@ -347,7 +347,7 @@ Antebellum Newspapers." *American Literary History* 27, no. 3 (2015):
 
 Ewing, E. Thomas. "'Will It Come Here?' Using Digital Humanities Tools
 to Explore Medical Understanding during the Russian Flu Epidemic,
-1889--90," *Medical History* 61, no, 3 (July 2017): 474--477.
+1889--90," *Medical History* 61, no, 3 (July 2017): 474--477. [DOI](https://doi.org/10.1017/mdh.2017.53 )
 
 Ewing, E. Thomas, Sinclair Ewing-Nelson, and Veronica Kimmerly. "Dr.
 Shrady Says: The 1890 Russian Influenza as a Case Study for
@@ -358,11 +358,11 @@ Blog*, August 2016,
 Ewing, E. Thomas, Veronica Kimmerly and Sinclair Ewing-Nelson. "'Look
 Out for La Grippe': Using Digital Humanities Tools to Interpret
 Information Dissemination during the Russian Flu, 1889--1890." *Medical
-History* 60, no. 1 (January 2016): 129--131.
+History* 60, no. 1 (January 2016): 129--131. [DOI](https://doi.org/10.1017/mdh.2015.84 )
 
 Frieden, Nancy. "The Russian Cholera Epidemic, 1892--1893, and Medical
 Professionalization." *Journal of Social History* 10, no. 4 (1977):
-538--559.
+538--559. [DOI](https://doi.org/10.1353/jsh/10.4.538 )
 
 Hamlin, Christopher. *Cholera. The Biography.* Oxford: Oxford University
 Press, 2009.
@@ -371,7 +371,7 @@ Honigsbaum, Mark. *A History of the Great Influenza Pandemics. Death,
 Panic, and Hysteria, 1830--1920*. London: I. B. Tauris, 2014.
 
 Mussell, James. "Pandemic in print: the spread of influenza in the Fin
-de Siècle." *Endeavour* 31, no. 1 (March 2007): 12--17.
+de Siècle." *Endeavour* 31, no. 1 (March 2007): 12--17. [DOI](https://doi.org/10.1016/j.endeavour.2007.01.008 )
 
 "St. Petersburg. Death of Professor Zdekauer." *British Medical
 Journal*, 1, no. 1885, (February 13, 1897): 428. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2432980/?page=3>.
