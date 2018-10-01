@@ -97,33 +97,33 @@ Measurements and models alone do not yield historical explanations. For historia
 
 ### Bibliography
 
-Allen, Colin, et al. “Topic Modeling the Hàn Diăn Ancient Classics.” *Journal of Cultural Analytics* (12 October 2017). <https://doi.org/10.22148/16.016>. 
+Allen, Colin, et al. “Topic Modeling the Hàn Diăn Ancient Classics.” *Journal of Cultural Analytics* (12 October 2017). <https://doi.org/10.22148/16.016>. [DOI](https://doi.org/10.22148/16.016)
 
-Blei, David M. “Probabilistic Topic Models.” *Communications of the ACM* 55, no. 4 (April 2012): 77--84, <https://doi.org/10.1145/2133806.2133826>.
+Blei, David M. “Probabilistic Topic Models.” *Communications of the ACM* 55, no. 4 (April 2012): 77--84, <https://doi.org/10.1145/2133806.2133826>. [DOI](https://doi.org/10.1145/2133806.2133826)
 
 Browne, E. Janet. *Charles Darwin: Voyaging*. New York: Knopf, 1995.
 
 Browne, E. Janet. *Darwin's Origin of Species: A Biography* Books That Changed the World. Starke, FL: Atlantic, 2006.
 
-Chambers, Robert. *Vestiges of the Natural History of Creation*. London: John Churchill, 1844.
+Chambers, Robert. *Vestiges of the Natural History of Creation*. London: John Churchill, 1844. 
 
-Costa, James T. *Wallace, Darwin, and the Origin of Species*. Cambridge, MA: Harvard University Press, 2014.
+Costa, James T. *Wallace, Darwin, and the Origin of Species*. Cambridge, MA: Harvard University Press, 2014. 
 
-Darwin, Charles. *The Foundations of the Origin of Species: Two essays written in 1842 and 1844*. Edited by Francis Darwin. Cambridge University Press, 1909.
+Darwin, Charles. *The Foundations of the Origin of Species: Two essays written in 1842 and 1844*. Edited by Francis Darwin. Cambridge University Press, 1909. [DOI](https://doi.org/10.5962/bhl.title.1368)
 
-Fuglede, Bent, and Flemming Topsøe. “Jensen-Shannon Divergence and Hilbert Space Embedding.” *International Symposium on Information Theory Proceedings* (2004): 31. <https://doi.org/10.1109/ISIT.2004.1365067>.
+Fuglede, Bent, and Flemming Topsøe. “Jensen-Shannon Divergence and Hilbert Space Embedding.” *International Symposium on Information Theory Proceedings* (2004): 31. <https://doi.org/10.1109/ISIT.2004.1365067>. [DOI](https://doi.org/10.1109/ISIT.2004.1365067)
 
 Gruber, Howard E., and Paul H. Barrett. *Darwin on Man: A Psychological Study of Scientific Creativity*. Boston: EP Dutton, 1974.
 
-Kohn, David, Robert C. Stauffer, and Sydney Smith. “New Light on *The Foundations of the Origin of Species*: A Reconstruction of the Archival Record.” *Journal of the History of Biology* 15, no. 3 (September 1982): 419--442, <https://doi.org/10.1007/BF00133145>.
+Kohn, David, Robert C. Stauffer, and Sydney Smith. “New Light on *The Foundations of the Origin of Species*: A Reconstruction of the Archival Record.” *Journal of the History of Biology* 15, no. 3 (September 1982): 419--442, <https://doi.org/10.1007/BF00133145>. [DOI](https://doi.org/10.1007/BF00133145)
 
-Kullback, Solomon, and Richard Leibler. “On Information and Sufficiency.” *Annals of Mathematical Statistics* 22, no. 1 (March 1951): 79--86. <https://doi.org/10.1214/aoms/1177729694>.
+Kullback, Solomon, and Richard Leibler. “On Information and Sufficiency.” *Annals of Mathematical Statistics* 22, no. 1 (March 1951): 79--86. <https://doi.org/10.1214/aoms/1177729694>. [DOI](https://doi.org/10.1214/aoms/1177729694)
 
-Lin, Jianhua. “Divergence Measures Based on the Shannon Entropy.” *IEEE Transactions on Information Theory* 37, no. 1 (January 1991): 145--151. <https://doi.org/10.1109/18.61115>.
+Lin, Jianhua. “Divergence Measures Based on the Shannon Entropy.” *IEEE Transactions on Information Theory* 37, no. 1 (January 1991): 145--151. <https://doi.org/10.1109/18.61115>. [DOI](https://doi.org/10.1109/18.61115)
 
-Merton, Robert K. “Priorities in Scientific Discovery: A Chapter in the Sociology of Science.” *American Sociological Review* 22, no. 6 (1957): 635--659. <https://doi.org/10.2307/2089193>.
+Merton, Robert K. “Priorities in Scientific Discovery: A Chapter in the Sociology of Science.” *American Sociological Review* 22, no. 6 (1957): 635--659. <https://doi.org/10.2307/2089193>. [DOI](https://doi.org/10.2307/2089193)
 
-Murdock, Jaimie, Colin Allen, and Simon DeDeo. “Exploration and Exploitation of Victorian Science in Darwin’s Reading Notebooks.” *Cognition* 159 (2017): 117--126. <https://doi.org/10.1016/j.cognition.2016.11.012>.
+Murdock, Jaimie, Colin Allen, and Simon DeDeo. “Exploration and Exploitation of Victorian Science in Darwin’s Reading Notebooks.” *Cognition* 159 (2017): 117--126. <https://doi.org/10.1016/j.cognition.2016.11.012>. [DOI](https://doi.org/10.1016/j.cognition.2016.11.012)
 
 Nielsen, Frank. “A Family of Statistical Symmetric Divergences Based on Jensen’s Inequality.” arXiv:1009.4004, 2010.
 
@@ -131,17 +131,17 @@ Richards, Robert J. “Myth: That Darwin Worked on His Theory in Secret for Twen
 
 Rockwell, Geoffrey, and Stéfan Sinclair. *Hermeneutica* Cambridge, MA: MIT Press, 2016.
 
-Rousseeuw, Peter J. “Silhouettes: A Graphical Aid to the Interpretation and Validation of Cluster Analysis.” *Journal of Computational and Applied Mathematics* 20 (1987): 53--65, <https://doi.org/10.1016/0377-0427(87)90125-7>.
+Rousseeuw, Peter J. “Silhouettes: A Graphical Aid to the Interpretation and Validation of Cluster Analysis.” *Journal of Computational and Applied Mathematics* 20 (1987): 53--65, <https://doi.org/10.1016/0377-0427(87)90125-7>. [DOI](https://doi.org/10.1016/0377-0427(87)90125-7)
 
-Schweber, Silvan S. “The Origin of the 'Origin' Revisited.” *Journal of the History of Biology* 10, no. 2 (September 1977): 229--316. <https://doi.org/10.1007/BF00572644>.
+Schweber, Silvan S. “The Origin of the 'Origin' Revisited.” *Journal of the History of Biology* 10, no. 2 (September 1977): 229--316. <https://doi.org/10.1007/BF00572644>. [DOI](https://doi.org/10.1007/BF00572644)
 
 University of Cambridge. Darwin Correspondence Project. <https://www.darwinproject.ac.uk/>. 
 
 Van Wyhe, John. *Dispelling the Darkness: Voyage in the Malay Archipelago and the Discovery of Evolution by Wallace and Darwin*. Singapore: World Scientific, 2013.
 
-Van Wyhe, John. “Mind the Gap: Did Darwin Avoid Publishing His Theory for Many Years?.” *Notes and Records of the Royal Society* 61, no. 2 (2007): 177--205. <https://doi.org/10.1098/rsnr.2006.0171>.
+Van Wyhe, John. “Mind the Gap: Did Darwin Avoid Publishing His Theory for Many Years?.” *Notes and Records of the Royal Society* 61, no. 2 (2007): 177--205. <https://doi.org/10.1098/rsnr.2006.0171>. [DOI](https://doi.org/10.1098/rsnr.2006.0171)
 
-Vorzimmer, Peter J. “An Early Darwin Manuscript: The 'Outline and Draft of 1839'.” *Journal of the History of Biology* 8, no. 2 (September 1975): 191--217. <https://doi.org/10.1007/BF00130438>.
+Vorzimmer, Peter J. “An Early Darwin Manuscript: The 'Outline and Draft of 1839'.” *Journal of the History of Biology* 8, no. 2 (September 1975): 191--217. <https://doi.org/10.1007/BF00130438>. [DOI](https://doi.org/10.1007/BF00130438)
 
 ---
 
