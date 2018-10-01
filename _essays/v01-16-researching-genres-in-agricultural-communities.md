@@ -314,7 +314,7 @@ An Introduction to Analyzing Texts and Textual Practices*, edited by Charles
 Bazerman and Paul Prior. Mahwah, NJ: Lawrence Erlbaum Associates, 2004.
 
 Bensel, Richard Franklin. *The Political Economy of American
-Industrialization, 1877--1900*. Cambridge: Cambridge University Press, 2000. <https://doi.org/10.1017/CBO9780511665004>.
+Industrialization, 1877--1900*. Cambridge: Cambridge University Press, 2000. <https://doi.org/10.1017/CBO9780511665004>. [DOI](https://doi.org/10.1017/CBO9780511665004)
 
 *Chickasha Daily Express* (Chickasha, OK). "Good Record Made by Grady County Agent." November 15, 1916. *Chronicling America*. <http://chroniclingamerica.loc.gov/lccn/sn86090528/1916-11-15/ed-1/seq-1/pdf>.
 
@@ -353,7 +353,7 @@ Central Florida, 2014.
 
 Gregg, Sara. "From Breadbasket to Dust Bowl: Rural Credit, the World War
 I Plow-Up, and the Transformation of American Agriculture." *Great
-Plains Quarterly* 35, no. 2 (2015): 129--66. <https://doi.org/10.1353/gpq.2015.0025>.
+Plains Quarterly* 35, no. 2 (2015): 129--66. <https://doi.org/10.1353/gpq.2015.0025>. [DOI](https://doi.org/10.1353/gpq.2015.0025)
 
 Hoover, Tracy S., Jan F. Scholl, Anne H. Dunigan, and Nadezhda
 Mamontova. "A Historical Review of Leadership Development in the FFA and
@@ -372,7 +372,7 @@ Hogg, and Eileen E. Schell, 121--42. Carbondale: Southern Illinois University
 Press, 2011.
 
 Miller, Carolyn R. "Genre as Social Action." *Quarterly Journal of
-Speech* 70, no. 2 (1984): 151--67. <https://doi.org/10.1080/00335638409383686>.
+Speech* 70, no. 2 (1984): 151--67. <https://doi.org/10.1080/00335638409383686>. [DOI](https://doi.org/10.1080/00335638409383686)
 
 Miller, Carolyn R. "Rhetorical Community: The Cultural Basis of Genre." In *Genre
 and the New Rhetoric*, edited by Aviva Freedman and Peter Medway, 67--78. London:
@@ -384,10 +384,10 @@ Reck, Franklin M. *The 4-H Story: A History of 4-H Club Work*. Ames, IA:
 Iowa State College Press, 1951.
 
 Rodgers, Daniel T. "In Search of Progressivism." *Reviews in American
-History* 10, no. 4 (1982): 113--32. <http://www.jstor.org/stable/2701822>.
+History* 10, no. 4 (1982): 113--32. <http://www.jstor.org/stable/2701822>. [DOI](https://doi.org/10.2307/2701822 )
 
 Russell, David R. "Rethinking Genre in School and Society: An Activity
-Theory Analysis." *Written Communication* 14, no. 4 (1997): 504--54. <https://doi.org/10.1177/0741088397014004004>.
+Theory Analysis." *Written Communication* 14, no. 4 (1997): 504--54. <https://doi.org/10.1177/0741088397014004004>. [DOI](https://doi.org/10.1177/0741088397014004004)
 
 Sanders, Elizabeth. "Rediscovering the Progressive Era." *Ohio State Law
 Journal* 72, no. 6 (2011): 1281--94. <http://hdl.handle.net/1811/71472>.
@@ -396,7 +396,7 @@ Journal* 72, no. 6 (2011): 1281--94. <http://hdl.handle.net/1811/71472>.
 
 Trace, Ciaran B. "Information in Everyday Life: Boys' and Girls'
 Agricultural Clubs as Sponsors of Literacy, 1900--1920." *Information &
-Culture* 49, no. 3 (2014): 265--93. <https://doi.org/10.7560/IC49301>.
+Culture* 49, no. 3 (2014): 265--93. <https://doi.org/10.7560/IC49301>. [DOI](https://doi.org/10.7560/IC49301)
 
 United States Department of Agriculture, National Institute of Food and Agriculture. "The Hatch Act of 1887." <https://nifa.usda.gov/program/hatch-act-1887>.
 
