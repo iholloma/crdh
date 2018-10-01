@@ -364,7 +364,7 @@ as those that may tear them apart.
 
 Baatz, Simon. "Philadelphia Patronage: The Institutional Structure of
 Natural History in the New Republic, 1800--1833." *Journal of the Early
-Republic* 8, no. 2 (July 1, 1988): 111--138. <https://doi.org/10.2307/3123808>.
+Republic* 8, no. 2 (July 1, 1988): 111--138. <https://doi.org/10.2307/3123808>. [DOI](https://doi.org/10.2307/3123808)
 
 Baatz, Simon. "'Squinting at Silliman': Scientific Periodicals in the Early
 American Republic, 1810--1833." *Isis* 82, no. 2 (June 1, 1991): 223--244.
@@ -393,7 +393,7 @@ Agriculture and Agricultural Reform, 1785--1793." *Agricultural History*
 
 Funk, Kellen, and Lincoln A. Mullen. "The Spine of American Law: Digital
 Text Analysis and U.S. Legal Practice." *The American Historical Review*
-123, no. 1 (February 1, 2018): 132--164. <https://doi.org/10.1093/ahr/123.1.132>.
+123, no. 1 (February 1, 2018): 132--164. <https://doi.org/10.1093/ahr/123.1.132>. [DOI](https://doi.org/10.1093/ahr/123.1.132)
 
 Grasso, Christopher. *A Speaking Aristocracy: Transforming Public
 Discourse in Eighteenth-Century Connecticut*. Chapel Hill: Published for
@@ -436,7 +436,7 @@ Press, 1988.
 
 Neem, Johann N. *Creating a Nation of Joiners: Democracy and Civil
 Society in Early National Massachusetts*. Cambridge, Mass: Harvard
-University Press, 2008.
+University Press, 2008. [DOI](https://doi.org/10.4159/9780674041370 )
 
 Oberle III, George, D. "Institutionalizing Knowledge in Washington's
 Early Republic." Panel: Constructing New Lives and Institutions in
@@ -457,7 +457,7 @@ Liebig and the Americans, 1840--1880*. Yale Studies in the History of
 Science and Medicine 9. New Haven: Yale University Press, 1975.
 
 Ruffin, Edmund. *The Diary of Edmund Ruffin*. Baton Rouge: Louisiana
-State University Press, 1972.
+State University Press, 1972. 
 
 Tocqueville, Alexis de. *Democracy in America / Translated, Edited, and
 with an Introduction by Harvey C. Mansfield and Delba Winthrop*. Edited
