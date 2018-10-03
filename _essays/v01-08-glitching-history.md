@@ -240,11 +240,11 @@ pluck, dexterity, and virtuosity.
 ### Bibliography
 
 Armitage, David and Jo Guldi. *The History Manifesto*. New York:
-Cambridge University Press, 2014.
+Cambridge University Press, 2014. [DOI](https://doi.org/10.1017/9781139923880 )
 
 Ayers, Edward L. "Turning toward Place, Space, and Time." In *Deep
 Maps and Spatial Narratives*, edited by David J. Bodenhamer, John Corrigan,
-and Trevor M. Harris, 1--13. Bloomington: Indiana University Press, 2015. 
+and Trevor M. Harris, 1--13. Bloomington: Indiana University Press, 2015. [DOI](https://doi.org/10.2307/j.ctt1zxxzr2 )
 
 Benjamin, Walter. "Theses on the Philosophy of History." In
 *Illuminations*, edited by Hannah Arendt, translated by Harry Zohn, 253--264. New York:
@@ -253,7 +253,7 @@ Harcourt Brace Javonovich, 1968.
 Berkeley Folk Music Festival Project. <http://www.bfmf.net>.
 
 Betancourt, Michael. *Glitch Art in Theory and Practice: Critical
-Failures and Post-Digital Aesthetics*. New York: Focal Press, 2016.
+Failures and Post-Digital Aesthetics*. New York: Focal Press, 2016. [DOI](https://doi.org/10.4324/9781315414812 )
 
 Cage, John. *Silence: Lectures and Writings*. Middletown, CT: Wesleyan
 University Press, 1961.
@@ -269,7 +269,7 @@ Music*. Chapel Hill: The University of North Carolina Press, 2000.
 
 Grundell, Vendela. *Flow And Friction: On The Tactical Potential Of
 Interfacing With Glitch Art*. Stockholm: Art And Theory Publishing,
-2016.
+2016. 
 
 Gustavson, Kent. *Blind But Now I See: The Biography of Music Legend Doc
 Watson*. New York: Blooming Twig Books, 2012.
@@ -299,7 +299,7 @@ Hurt, Mississippi John. "Let the Mermaids Flirt With Me," *Last
 Sessions*. Vanguard VSD-79327, recorded 1966, released 1972.
 
 Gerstle, Gary. "Race and the Myth of the Liberal Consensus." *Journal
-of American History* 82, 2 (1995): 579--86.
+of American History* 82, 2 (1995): 579--86. [DOI](https://doi.org/10.2307/2082187 )
 
 Kramer, Michael J. "Distorting History (To Make It More Accurate)."
 *Issues in Digital History* 3 (April 2016).
@@ -311,7 +311,7 @@ Studies*, edited by Mary Caton Lingold, Darren Mueller, and Whitney Anne
 Trettien, 178--214. Durham: Duke University Press, 2018.
 
 McGann, Jerome and Lisa Samuels. "Deformance and Interpretation." *New
-Literary History* 30, 1 (1999): 25--56.
+Literary History* 30, 1 (1999): 25--56. [DOI](https://doi.org/10.1353/nlh.1999.0010 )
 
 Menkman, Rosa. "Glitch Studies Manifesto (2011)." In *Video Vortex
 Reader II: Moving Images Beyond YouTube*, edited by Geert Lovink and Rachel
@@ -326,7 +326,7 @@ Tradition and the Mississippi Freedom Struggle*. University of
 California Press, 1995.
 
 Ratcliffe, Philip R. *Mississippi John Hurt: His Life, His Times, His
-Blues*. Oxford: University Press of Mississippi, 2011.
+Blues*. Oxford: University Press of Mississippi, 2011. [DOI](https://doi.org/10.14325/mississippi/9781617030086.001.0001 )
 
 Rodgers, Jimmie. *Blue Yodel No. 4 (California Blues) / Waiting For A
 Train*. Victor V-40014, 1929.
@@ -334,7 +334,7 @@ Train*. Victor V-40014, 1929.
 Sample, Mark. "Notes towards a Deformed Humanities." *Sample Reality*.
 May 2, 2012. <https://www.samplereality.com/2012/05/02/notes-towards-a-deformed-humanities>.
 
-Schlesinger, Jr., Arthur M. *The Vital Center: The Politics of Freedom*. 1949. Reprint, New York: Da Capo, 1988.
+Schlesinger, Jr., Arthur M. *The Vital Center: The Politics of Freedom*. 1949. Reprint, New York: Da Capo, 1988. [DOI](https://doi.org/10.4324/9781351301800 )
 
 Seeger, Pete. *The Incompleat Folksinger*. New York: Simon and Schuster,
 1972.
