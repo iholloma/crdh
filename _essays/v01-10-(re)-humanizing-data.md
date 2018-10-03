@@ -376,10 +376,10 @@ Silences, and Power in Silence." *Archivaria* 61 (Spring
 2006). <https://archivaria.ca/index.php/archivaria/article/view/12541>.
 
 Chatterjee, Samprit, and Ali S. Hadi. "Logistic Regression." In
-*Regression Analysis by Example*. Hoboken, NJ: John Wiley & Sons, 2015.
+*Regression Analysis by Example*. Hoboken, NJ: John Wiley & Sons, 2015. [DOI](https://doi.org/10.1002/9781118532843.ch8)
 
 Derrida, Jaques. *Archive Fever: A Freudian Impression*. Chicago:
-University of Chicago Press, 1996.
+University of Chicago Press, 1996. [DOI](https://doi.org/10.2307/465144)
 
 "Digital Almshouse Project." <http://www.nyuirish.net/almshouse>.
 
@@ -395,17 +395,17 @@ New York: Vintage Books, 1977.
 
 Gray, Peter. "Irish Social Thought and the Relief of Poverty,
 1847--1880." *Transactions of the Royal Historical Society* 20 (December
-2010): 141--56.
+2010): 141--56. [DOI](https://doi.org/10.1017/s0080440110000095 )
 
 Gray, Peter. *The Making of the Irish Poor Law, 1815--43*. Manchester,
 U.K.: Manchester University Press, 2010.
 
 Harcourt, Bernard E. "From the Asylum to the Prison: Rethinking the
-Incarceration Revolution." *Texas Law Review* 84, (2005--2006): 1751--86.
+Incarceration Revolution." *Texas Law Review* 84, (2005--2006): 1751--86. [DOI](https://doi.org/10.2139/ssrn.881865 )
 
 Hirota, Hidetaka. *Expelling the Poor: Atlantic Seaboard States and the
 Nineteenth-Century Origins of American Immigration Policy*. New York: Oxford
-University Press, 2016.
+University Press, 2016. [DOI](https://doi.org/10.1093/acprof:oso/9780190619213.001.0001 )
 
 Kapp, Friedrich. *Immigration, and the Commissioners of Emigration of
 the State of New York*. New York: The Nation Press, 1870. <https://archive.org/details/commemigrant00kapprich>.
@@ -423,7 +423,7 @@ Gill & Macmillan, 1994.
 
 Klebaner, Benjamin J. "State and Local Immigration Regulation in the
 United States before 1882." *International Review of Social History* 3,
-no. 2 (August 1958): 269--95. <https://doi.org/10.1017/S0020859000001127>.
+no. 2 (August 1958): 269--95. <https://doi.org/10.1017/S0020859000001127>. [DOI](https://doi.org/10.1017/S0020859000001127)
 
 Klips, Stephen Anthony. "Institutionalizing the Poor: The New York City
 Almshouse, 1825--1860." Ph.D. diss., City University of New York, 1980.
@@ -433,7 +433,7 @@ North America*. New York: Oxford University Press, 1985.
 
 Mokyr, Joel. *Why Ireland Starved: A Quantitative and Analytical History
 of the Irish Economy, 1800--1850*. London, Boston, Sydney: George Allen &
-Unwin, 1993.
+Unwin, 1993. [DOI](https://doi.org/10.4324/9781315019765 )
 
 New York (N.Y.). Commissioners of the Alms-House, Bridewell, and
 Penitentiary. *Annual Report of the Governors of the Alms House, New
@@ -441,20 +441,20 @@ York*. Board of Alderman Document, no. 44. New York: W.B. Townsend,
 1847.
 
 Ó Gráda, Cormac. "A Note on Nineteenth-Century Irish Emigration
-Statistics." *Population Studies* 29, no. 1 (March 1975): 143--49.
+Statistics." *Population Studies* 29, no. 1 (March 1975): 143--49. [DOI](https://doi.org/10.2307/2173431 )
 
 O'Malley, Brendan P. "Lickspittles and Land Sharks: The Immigrant
 Exploitation Business in Antebellum New York." In *Capitalism by
 Gaslight: Illuminating the Economy of Nineteenth-Century America*,
 edited by Brian P. Luskey and Wendy A. Woloson. Philadelphia: University of
-Pennsylvania Press, 2015.
+Pennsylvania Press, 2015. [DOI](https://doi.org/10.9783/9780812291025.93)
 
 Oshinsky, David. *Bellevue: Three Centuries of Medicine and Mayhem at
 America's Most Storied Hospital.* New York: Doubleday, 2016.
 
 Poovey, Mary. "Curing the 'Social Body' in 1832: James Phillips Kay and
 the Irish in Manchester." *Gender & History* 5, no. 2 (June 1, 1993):
-196--211. <https://doi.org/10.1111/j.1468-0424.1993.tb00172.x>.
+196--211. <https://doi.org/10.1111/j.1468-0424.1993.tb00172.x>. [DOI](https://doi.org/10.1111/j.1468-0424.1993.tb00172.x)
 
 Purcell, Richard J. "The New York Commissioners of Emigration and Irish
 Immigrants: 1847--1860." *Studies: An Irish Quarterly Review* 37, no. 145
