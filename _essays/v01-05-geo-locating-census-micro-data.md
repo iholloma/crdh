@@ -301,7 +301,7 @@ England, 1870--1914." *Jewish Social Studies* 22, no. 2 (1960): 97--102.
 
 Newman, David. "Integration and Ethnic Spatial Concentration: The
 Changing Distribution of the Anglo-Jewish Community." *Transactions of
-the Institute of British Geographers* 10, no. 3 (1985): 360--376.
+the Institute of British Geographers* 10, no. 3 (1985): 360--376. [DOI](https://doi.org/10.2307/622184 )
 
 Rule, Fiona. *The Worst Street in London*. London: Ian Allen, 2008.
 
