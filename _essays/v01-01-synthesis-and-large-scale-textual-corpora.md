@@ -759,7 +759,7 @@ Archives." *Scholarly and Research Communication* 4, no. 3 (2013). <https://doi.
 McKenzie-McHarg, Andrew, and Rolf Fredheim. "Cock-Ups and Slap-Downs:
 A Quantitative Analysis of Conspiracy Rhetoric in the British
 Parliament 1916--2015." *Historical Methods: A Journal of Quantitative
-and Interdisciplinary History* 50, no. 3 (July 3, 2017): 156--69. <https://doi.org/10.1080/01615440.2017.1320616>.
+and Interdisciplinary History* 50, no. 3 (July 3, 2017): 156--69. <https://doi.org/10.1080/01615440.2017.1320616>. [DOI](https://doi.org/10.1080/01615440.2017.1320616)
 
 Mitrofanova, Olga, and Anastasiia Sedova. "Topic Modelling in Parallel
 and Comparable Fiction Texts (the Case Study of English and Russian
@@ -814,11 +814,11 @@ Trentmann, Frank. *Free Trade Nation: Commerce, Consumption, and Civil
 Society in Modern Britain*. 1st paperback ed. Oxford: Oxford
 University Press, 2009.
 
-Vaughan, William. *Landlords and Tenants in Mid-Victorian Ireland*. Oxford: Clarendon Press, 1994.
+Vaughan, William. *Landlords and Tenants in Mid-Victorian Ireland*. Oxford: Clarendon Press, 1994. [DOI](https://doi.org/10.1093/acprof:oso/9780198203568.003.0001)
 
 Wahrman, Dror. "Virtual Representation: Parliamentary Reporting and
 Languages of Class in the 1790s." *Past and Present* 136 (1992):
-83--113. <https://doi.org/10.1093/past/136.1.83>.
+83--113. <https://doi.org/10.1093/past/136.1.83>. [DOI](https://doi.org/10.1093/past/136.1.83)
 
 ---
 
