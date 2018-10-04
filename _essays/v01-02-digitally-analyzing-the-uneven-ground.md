@@ -362,7 +362,7 @@ in American Indian History*. New York: Oxford University Press, 2013.
 
 Cordell, Ryan. "Reprinting, Circulation, and the Network Author in
 Antebellum Newspapers." *American Literary History* 27, no. 3 (September
-1, 2015): 417--45.
+1, 2015): 417--45. [DOI](https://doi.org/10.1093/alh/ajv028)
 
 Cronon, William, and George A. Miles. *Under an Open Sky: Rethinking
 America's Western Past*. W. W. Norton & Company, 1993.
@@ -375,7 +375,7 @@ Hamalainen, Pekka. *The Comanche Empire*. New Haven: Yale University
 Press, 2009.
 
 O'Brien, Jean M. *Firsting and Lasting: Writing Indians Out of Existence
-in New England*. Minneapolis: University of Minnesota Press, 2010.
+in New England*. Minneapolis: University of Minnesota Press, 2010. [DOI](https://doi.org/10.5749/minnesota/9780816665778.001.0001)
 
 Prucha, Francis Paul. *American Indian Treaties: The History of a
 Political Anomaly*. Berkeley: University of California Press, 1994.
