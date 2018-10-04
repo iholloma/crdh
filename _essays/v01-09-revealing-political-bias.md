@@ -285,7 +285,7 @@ claims of "independence."
 ### Bibliography
 
 Anderson, Benedict. *Imagined Communities: Reflections on the Origin and
-Spread of Nationalism.* London: Verso, 1991.
+Spread of Nationalism.* London: Verso, 1991. 
 
 Block, Herbert. Herbert Block Papers, Manuscript Division, Library of
 Congress, Washington, D.C.
@@ -298,7 +298,7 @@ Block, Herbert. "Reveille." *Washington Post,* April 11, 1951, 10.
 Block, Herbert. "Whence All But He Had Fled." *Washington Post,* June 10,
 1957, A12.
 
-Brandon, Henry. *As We Are*. New York: Doubleday, 1961.
+Brandon, Henry. *As We Are*. New York: Doubleday, 1961. 
 
 Drucker, Johanna. "Not Sound." In *The Sound of Poetry / the Poetry of
 Sound*, edited by Marjorie Perloff and Craig Dworkin, 237--48. Chicago:
