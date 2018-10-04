@@ -277,7 +277,7 @@ English, Jan. "A Chronological History of the Wyandot Nation of Kansas at 1902."
 Kappler, Charles L., ed. *Indian Affairs: Laws and Treaties 2*. Washington: Government Printing Office, 1904.
 
 O'Brien, Jean. *Firsting and Lasting: Writing Indians out of Existence
-in New England*. Minneapolis: University of Minnesota Press, 2010.
+in New England*. Minneapolis: University of Minnesota Press, 2010. [DOI](https://doi.org/10.5749/minnesota/9780816665778.001.0001)
 
 Oestreich, Nancy Lurie. *Wisconsin Indians*. Madison: Wisconsin
 Historical Society, 2002.
