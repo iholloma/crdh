@@ -244,7 +244,7 @@ Lee, Robert. "Accounting for Conquest: The Price of the Louisiana
 Purchase of Indian Country." *Journal of American History* 103, no. 4 (March 2017): 921--944. <https://doi.org/10.1093/jahist/jaw504>. [DOI](https://doi.org/10.1093/jahist/jaw504)
 
 McCallum, Andrew Kachites. "MALLET: A Machine Learning for Language
-Toolkit." 2002. <http://mallet.cs.umass.edu/>.
+Toolkit." 2002. <http://mallet.cs.umass.edu/>. 
 
 National Archives and Records Administration. "Draft National Archives Strategic Plan." August 21,
 2017. <https://www.archives.gov/about/plans-reports/strategic-plan/draft-strategic-plan>.
