@@ -295,13 +295,13 @@ University Press, 1991.
 Gartner, Lloyd P. "Notes on the Statistics of Jewish Immigration to
 England, 1870--1914." *Jewish Social Studies* 22, no. 2 (1960): 97--102.
 
-*The Lancet*. "Report of the Lancet Special Sanitary Commission on the Polish Colony of Jew Tailors." May 3, 1884, 785--832.
+*The Lancet*. "Report of the Lancet Special Sanitary Commission on the Polish Colony of Jew Tailors." May 3, 1884, 785--832. [DOI](https://doi.org/10.1016/s0140-6736(02)12855-8)
 
 *Lloyd's Illustrated Newspaper*. "Raids on London Shops: A Baker's Party." June 13, 1897.
 
 Newman, David. "Integration and Ethnic Spatial Concentration: The
 Changing Distribution of the Anglo-Jewish Community." *Transactions of
-the Institute of British Geographers* 10, no. 3 (1985): 360--376. [DOI](https://doi.org/10.2307/622184 )
+the Institute of British Geographers* 10, no. 3 (1985): 360--376. [DOI](https://doi.org/10.2307/622184)
 
 Rule, Fiona. *The Worst Street in London*. London: Ian Allen, 2008.
 
