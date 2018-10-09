@@ -367,7 +367,7 @@ Natural History in the New Republic, 1800--1833." *Journal of the Early
 Republic* 8, no. 2 (July 1, 1988): 111--138. <https://doi.org/10.2307/3123808>. [DOI](https://doi.org/10.2307/3123808)
 
 Baatz, Simon. "'Squinting at Silliman': Scientific Periodicals in the Early
-American Republic, 1810--1833." *Isis* 82, no. 2 (June 1, 1991): 223--244.
+American Republic, 1810--1833." *Isis* 82, no. 2 (June 1, 1991): 223--244. [DOI](https://doi.org/10.1086/355726 )
 
 Carrier, Lyman. "The United States Agricultural Society, 1852--1860: Its
 Relation to the Origin of the United States Department of Agriculture
