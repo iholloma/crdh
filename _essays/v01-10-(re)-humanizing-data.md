@@ -391,7 +391,7 @@ Ernst, Robert. *Immigrant Life in New York City, 1825--1863*. Port
 Washington, NY: Ira J. Friedman, Inc., 1965.
 
 Foucault, Michel. *Discipline and Punish: The Birth of the Prison*.
-New York: Vintage Books, 1977.
+New York: Vintage Books, 1977. [DOI](https://doi.org/10.1215/9780822390169-018)
 
 Gray, Peter. "Irish Social Thought and the Relief of Poverty,
 1847--1880." *Transactions of the Royal Historical Society* 20 (December
