@@ -256,7 +256,7 @@ Franco, Barbara (SRM Director) and Pete Miele (SRM Director of Education
 and Museum Operations). Interview by Josh Howard. March 14, 2015.
 
 Frank, Nathaniel. *Awakening: How Gays and Lesbians Brought Marriage
-Equality to America*. Cambridge, MA: Harvard University Press, 2017.
+Equality to America*. Cambridge, MA: Harvard University Press, 2017. [DOI](https://doi.org/10.4159/9780674977563)
 
 Howard, Josh. "Talking Back with Post-It Notes: Informal Data
 Collection and Museum Visitors." PhD diss., Middle Tennessee State
@@ -283,17 +283,17 @@ National Museum of American History. "Introducing TalkBack Tuesdays."
 <http://americanhistory.si.edu/blog/2011/06/introducing-talkback-tuesdays.html>.
 
 Noy, Chaim. "Pages as Stages: A Performance Approach to Visitor Books."
-*Annals of Tourism Research* 35 (2008): 509--528.
+*Annals of Tourism Research* 35 (2008): 509--528. [DOI](https://doi.org/10.1016/j.annals.2008.02.005 )
 
 Robinson, E.S. *The Behavior of the Museum Visitor*. Washington, DC:
 American Association of Museums, 1928.
 
 Ron, Amos S. "Towards a Typological Model of Contemporary Christian
-Travel." *Journal of Heritage Tourism* 4, no. 4 (2009): 287--297.
+Travel." *Journal of Heritage Tourism* 4, no. 4 (2009): 287--297. [DOI](https://doi.org/10.1080/17438730903045548 )
 
 Ron, Amos S., and Jackie Feldman. "From Spots to Themed Sites---The
 Evolution of the Protestant Holy Land." *Journal of Heritage Tourism*
-4, no. 3 (2009): 201--216.
+4, no. 3 (2009): 201--216. [DOI](https://doi.org/10.1080/17438730802504108 )
 
 Rose, Vivien (WORI Chief of Cultural Resources). Interview by Josh
 Howard. July 18, 2014.
