@@ -310,7 +310,7 @@ Bush. Erin N. *Full Virginia Reform School Admittance by Origin 1918--1920*. Unp
 
 Bush, William S. *Who Gets a Childhood: Race and Juvenile Justice in Twentieth-Century Texas*. Athens: University of Georgia Press, 2010.
 
-Cahn, Susan K. *Sexual Reckonings: Southern Girls in a Troubling Age*. Cambridge: Harvard University Press, 2007. [DOI](https://doi.org/10.4159/9780674029149 )
+Cahn, Susan K. *Sexual Reckonings: Southern Girls in a Troubling Age*. Cambridge: Harvard University Press, 2007. [DOI](https://doi.org/10.4159/9780674029149)
 
 Dabney, Virginius. *Virginia the New Dominion: A History from 1607 to the Present*. Charlottesville: University of Virginia Press, 1971.
 
