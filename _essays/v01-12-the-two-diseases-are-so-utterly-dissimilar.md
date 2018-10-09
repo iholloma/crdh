@@ -332,7 +332,7 @@ Chronicling America. Historic American Newspapers from the Library of
 Congress. <https://chroniclingamerica.loc.gov/>.
 
 Clemow, Frank. *The Cholera Epidemic of 1892 in the Russian Empire*.
-London: Longmans, Green, and Co., 1893. 
+London: Longmans, Green, and Co., 1893. [DOI](https://doi.org/10.1016/s0140-6736(01)41740-5)
 
 Cordell, Ryan. "Reprinting, Circulation, and the Network Author in
 Antebellum Newspapers." *American Literary History* 27, no. 3 (2015):
