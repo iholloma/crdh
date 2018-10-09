@@ -240,7 +240,7 @@ pluck, dexterity, and virtuosity.
 ### Bibliography
 
 Armitage, David and Jo Guldi. *The History Manifesto*. New York:
-Cambridge University Press, 2014. [DOI](https://doi.org/10.1017/9781139923880 )
+Cambridge University Press, 2014. [DOI](https://doi.org/10.1017/9781139923880)
 
 Ayers, Edward L. "Turning toward Place, Space, and Time." In *Deep
 Maps and Spatial Narratives*, edited by David J. Bodenhamer, John Corrigan,
@@ -275,7 +275,7 @@ Gustavson, Kent. *Blind But Now I See: The Biography of Music Legend Doc
 Watson*. New York: Blooming Twig Books, 2012.
 
 Hagstrom Miller, Karl. *Segregating Sound: Inventing Folk and Pop Music
-in the Age of Jim Crow*. Durham: Duke University Press, 2010.
+in the Age of Jim Crow*. Durham: Duke University Press, 2010. [DOI](https://doi.org/10.1215/9780822392705)
 
 Hale, Grace Elizabeth. *A Nation of Outsiders: How the White Middle
 Class Fell in Love with Rebellion in Postwar America*. Oxford University
