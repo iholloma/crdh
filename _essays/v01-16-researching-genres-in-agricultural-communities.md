@@ -390,7 +390,7 @@ Russell, David R. "Rethinking Genre in School and Society: An Activity
 Theory Analysis." *Written Communication* 14, no. 4 (1997): 504--54. <https://doi.org/10.1177/0741088397014004004>. [DOI](https://doi.org/10.1177/0741088397014004004)
 
 Sanders, Elizabeth. "Rediscovering the Progressive Era." *Ohio State Law
-Journal* 72, no. 6 (2011): 1281--94. <http://hdl.handle.net/1811/71472>.
+Journal* 72, no. 6 (2011): 1281--94. <http://hdl.handle.net/1811/71472>. 
 
 *St. Johnsbury Caledonian* (St. Johnsbury, VT). "Maine Schoolboys Are Getting Record Crops." May 3, 1916. *Chronicling America*. <http://chroniclingamerica.loc.gov/lccn/sn84023253/1916-05-03/ed-1/seq-7/pdf>.
 
