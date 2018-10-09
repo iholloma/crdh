@@ -303,7 +303,7 @@ Digitized Historical Newspapers." *Digital Humanities Quarterly* 8, no.
 1 (2014). <http://digitalhumanities.org/dhq/vol/8/1/000168/000168.html>.
 
 Williams, Abigail. *The Social Life of Books: Reading Together in the
-Eighteenth-Century Home*. New Haven: Yale University Press, 2017. [DOI](https://doi.org/10.12987/yale/9780300208290.001.0001)
+Eighteenth-Century Home*. New Haven: Yale University Press, 2017. [DOI](https://doi.org/10.12987/yale/9780300208290.001.0001) 
 
 ---
 
