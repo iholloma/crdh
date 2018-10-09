@@ -142,7 +142,6 @@ Van Wyhe, John. *Dispelling the Darkness: Voyage in the Malay Archipelago and th
 Van Wyhe, John. “Mind the Gap: Did Darwin Avoid Publishing His Theory for Many Years?.” *Notes and Records of the Royal Society* 61, no. 2 (2007): 177--205. <https://doi.org/10.1098/rsnr.2006.0171>. [DOI](https://doi.org/10.1098/rsnr.2006.0171)
 
 Vorzimmer, Peter J. “An Early Darwin Manuscript: The 'Outline and Draft of 1839'.” *Journal of the History of Biology* 8, no. 2 (September 1975): 191--217. <https://doi.org/10.1007/BF00130438>. [DOI](https://doi.org/10.1007/BF00130438)
-
 ---
 
 ### Notes
