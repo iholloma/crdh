@@ -328,7 +328,7 @@ Cannon, H. Brevy. "Early Archaeology at Morven Taps into Little-Studied Veins of
 Cocke Family Papers. Special Collections, University of Virginia Library.
 
 Finkelman, Paul. *Slavery and the Founders: Race and Liberty in the Age
-of Jefferson*. 2nd ed. New York: M.E. Sharpe, 2001.
+of Jefferson*. 2nd ed. New York: M.E. Sharpe, 2001. [DOI](https://doi.org/10.4324/9781315720869 )
 
 Ford, Paul Leicester, ed. *The Works of Thomas Jefferson in Twelve Volumes*. Federal Edition. American Memory, Library of Congress. Accessed May 29, 2018.
 
