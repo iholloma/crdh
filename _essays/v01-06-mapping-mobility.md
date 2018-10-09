@@ -297,7 +297,7 @@ over Industry*. San Francisco: Berrett-Koehler, 2007.
 
 O'Sullivan, Mary A. *Dividends of Development: Securities Markets in the
 History of U.S. Capitalism, 1866--1922*. Oxford: Oxford University
-Press, 2016.
+Press, 2016. [DOI]( https://doi.org/10.1093/acprof:oso/9780199584444.001.0001 )
 
 Olson, Sherry. "Ladders of Mobility in a Fast-Growing Industrial City:
 Two by Two and Twenty Years Later." In *Lives in Transition:
@@ -306,18 +306,18 @@ Baskerville and Kris E. Inwood, 189--210. Montreal: McGill-Queen's
 University Press, 2015.
 
 Pak, Susie. *Gentlemen Bankers: The World of J.P. Morgan*. Cambridge,
-MA: Harvard University Press, 2013.
+MA: Harvard University Press, 2013. [DOI](https://doi.org/10.4159/harvard.9780674075573 )
 
 Pertilla, Atiba. "Mapping Mobility: Class and Spatial Mobility in the
 Wall Street Workforce, 1890--1914." Updated May 25, 2018.
 <http://gscho.net/scalar/mapping-clerks/index>.
 
 Ruggles, Steven, Katie Genadek, Ronald Goeken, Josiah Grover, and
-Matthew Sobek. *Integrated Public Use Microdata Series: Version 7.0*. Accessed May 21, 2018. Minneapolis: University of Minnesota, 2017. <https://doi.org/10.18128/D010.V7.0>.
+Matthew Sobek. *Integrated Public Use Microdata Series: Version 7.0*. Accessed May 21, 2018. Minneapolis: University of Minnesota, 2017. <https://doi.org/10.18128/D010.V7.0>. [DOI](https://doi.org/10.18128/D010.V7.0)
 
 Srole, Carole. *Transcribing Class and Gender: Masculinity and
 Femininity in Nineteenth-Century Courts and Offices*. Ann Arbor, MI:
-University of Michigan Press, 2010.
+University of Michigan Press, 2010. [DOI](https://doi.org/10.3998/mpub.232232 )
 
 *U.S. Passport Applications, 1795--1925*. Lehi, UT: Ancestry.com, 2007. Accessed May 21, 2018. 
 <https://search.ancestry.com/search/db.aspx?dbid=1174>.
